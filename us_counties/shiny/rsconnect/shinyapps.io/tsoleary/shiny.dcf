@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: tsoleary
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3687503
+bundleId: 4264542
+url: https://tsoleary.shinyapps.io/shiny/
+when: 1614139719.38132
