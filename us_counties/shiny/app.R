@@ -5,15 +5,12 @@ library(tidyverse)
 
 df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/nyt_upshot_county_data.tsv"), delim = "\t")
 
-df_long <- df %>% mutate(rank_income = min_rank(desc(income)),
+df_rank <- df %>% mutate(rank_income = min_rank(desc(income)),
          rank_education = min_rank(desc(education)),
          rank_life = min_rank(desc(life)),
-         rank_unemployment = min_rank(unemployment),
+         rank_obesity = min_rank(obesity),
          rank_disability = min_rank(disability),
-         rank_unemployment = min_rank(unemployment)) %>%
-  pivot_longer(contains("rank_"), 
-               names_to = "type", 
-               values_to = "rank_n") 
+         rank_unemployment = min_rank(unemployment)) 
 
 counties <- rjson::fromJSON(file='https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
 
@@ -83,15 +80,18 @@ server <- function(input, output) {
   
   output$distPlot <- renderPlotly({
     
-    dat <- df_long %>%
-      mutate(weight = case_when(type == "rank_disability" ~ input$dis_w,
-                                type == "rank_income" ~ input$inc_w,
-                                type == "rank_obesity" ~ input$obs_w,
-                                type == "rank_unemployment" ~ input$une_w,
-                                type == "rank_education" ~ input$edu_w,
-                                type == "rank_life" ~ input$lif_w)) %>%
+    dat <- df_rank %>%
+      mutate(w_rank_dis = rank_disability * input$dis_w,
+             w_rank_inc = rank_income * input$inc_w,
+             w_rank_obs = rank_obesity * input$obs_w,
+             w_rank_une = rank_unemployment * input$une_w,
+             w_rank_edu = rank_education * input$edu_w,
+             w_rank_lif = rank_life * input$lif_w) %>%
+    pivot_longer(contains("w_rank_"),
+                 names_to = "type",
+                 values_to = "w_rank") %>%
       group_by(id) %>%
-      summarise(rank_avg = weighted.mean(rank_n, weight)) %>%
+      summarise(rank_avg = mean(w_rank)) %>%
       mutate(rank_me = min_rank(rank_avg))
     
     dat <- full_join(df, dat)
