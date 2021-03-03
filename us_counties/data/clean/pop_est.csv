@@ -1,0 +1,3274 @@
+﻿id,State,Area_Name,Rural-urban_Continuum Code_2003,Rural-urban_Continuum Code_2013,Urban_Influence_Code_2003,Urban_Influence_Code_2013,POP_ESTIMATE_2019,N_POP_CHG_2019,R_NET_MIG_2019
+0,US,United States,,,,,"328,239,523","1,552,022",
+1000,AL,Alabama,,,,,"4,903,185","15,504",2.5
+1001,AL,Autauga County,2,2,2,2,"55,869",336,4.6
+1003,AL,Baldwin County,4,3,5,2,"223,234","5,379",24.4
+1005,AL,Barbour County,6,6,6,6,"24,686",-186,-5.2
+1007,AL,Bibb County,1,1,1,1,"22,394",27,1.8
+1009,AL,Blount County,1,1,1,1,"57,826",55,1.1
+1011,AL,Bullock County,6,6,6,6,"10,101",-73,-7.2
+1013,AL,Butler County,6,6,6,6,"19,448",-183,-6.3
+1015,AL,Calhoun County,3,3,2,2,"113,605",-726,-4
+1017,AL,Chambers County,6,6,5,5,"33,254",-346,-7.7
+1019,AL,Cherokee County,8,6,6,6,"26,196",182,11.6
+1021,AL,Chilton County,1,1,1,1,"44,428",265,4.9
+1023,AL,Choctaw County,9,9,10,10,"12,589",-244,-15.8
+1025,AL,Clarke County,7,7,11,11,"23,622",-296,-10
+1027,AL,Clay County,9,9,10,10,"13,235",-59,-1.1
+1029,AL,Cleburne County,8,8,4,4,"14,910",-100,-6.5
+1031,AL,Coffee County,6,4,5,5,"52,342",392,7.1
+1033,AL,Colbert County,3,3,2,2,"55,241",237,6
+1035,AL,Conecuh County,9,7,11,11,"12,067",-225,-13.6
+1037,AL,Coosa County,8,8,7,3,"10,663",20,5.2
+1039,AL,Covington County,7,6,9,6,"37,049",96,6.2
+1041,AL,Crenshaw County,8,8,6,6,"13,772",-53,-0.8
+1043,AL,Cullman County,6,4,3,3,"83,768",350,5
+1045,AL,Dale County,4,4,5,5,"49,172",29,-1.4
+1047,AL,Dallas County,4,4,5,5,"37,196","-1,098",-26.4
+1049,AL,DeKalb County,6,6,6,6,"71,513",106,1.9
+1051,AL,Elmore County,2,2,2,2,"81,209",198,1.1
+1053,AL,Escambia County,6,6,6,6,"36,633",109,4.5
+1055,AL,Etowah County,3,3,2,2,"102,268",-343,-0.2
+1057,AL,Fayette County,6,6,6,6,"16,302",-143,-5.6
+1059,AL,Franklin County,6,6,6,6,"31,362",64,0
+1061,AL,Geneva County,3,3,2,2,"26,271",-35,2.1
+1063,AL,Greene County,3,8,2,6,"8,111",-98,-12.4
+1065,AL,Hale County,3,3,2,2,"14,651",-98,-7.2
+1067,AL,Henry County,3,3,2,2,"17,205",32,4.5
+1069,AL,Houston County,3,3,2,2,"105,882","1,112",9
+1071,AL,Jackson County,6,6,5,5,"51,626",5,2.3
+1073,AL,Jefferson County,1,1,1,1,"658,573",-856,-2.9
+1075,AL,Lamar County,9,8,10,7,"13,805",-77,-4.7
+1077,AL,Lauderdale County,3,3,2,2,"92,729",125,4.2
+1079,AL,Lawrence County,3,3,2,2,"32,924",-17,2
+1081,AL,Lee County,3,3,2,2,"164,542",886,1.2
+1083,AL,Limestone County,2,2,2,2,"98,915","2,738",26.4
+1085,AL,Lowndes County,2,2,2,2,"9,726",-248,-22.7
+1087,AL,Macon County,6,6,5,6,"18,068",-253,-8.8
+1089,AL,Madison County,2,2,2,2,"372,909","5,905",13.4
+1091,AL,Marengo County,7,7,11,11,"18,863",-193,-6.6
+1093,AL,Marion County,8,7,4,11,"29,709",-41,2.2
+1095,AL,Marshall County,4,4,5,5,"96,774",604,3.8
+1097,AL,Mobile County,2,2,2,2,"413,210",-698,-3.8
+1099,AL,Monroe County,7,7,11,11,"20,733",-329,-12
+1101,AL,Montgomery County,2,2,2,2,"226,486",-18,-4
+1103,AL,Morgan County,3,3,2,2,"119,679",476,3.3
+1105,AL,Perry County,8,8,6,4,"8,923",-147,-13.6
+1107,AL,Pickens County,8,3,6,2,"19,930",-50,-1
+1109,AL,Pike County,6,6,5,5,"33,114",-128,-3.9
+1111,AL,Randolph County,6,6,4,4,"22,722",-5,1.2
+1113,AL,Russell County,2,2,2,2,"57,961",177,-0.4
+1115,AL,St. Clair County,1,1,1,1,"89,512",858,9.6
+1117,AL,Shelby County,1,1,1,1,"217,702","2,119",7
+1119,AL,Sumter County,8,8,6,6,"12,427",-207,-14.4
+1121,AL,Talladega County,4,4,5,3,"79,978",-159,0.6
+1123,AL,Tallapoosa County,6,6,6,6,"40,367",-168,-0.4
+1125,AL,Tuscaloosa County,3,3,2,2,"209,355","1,036",2.3
+1127,AL,Walker County,1,1,1,1,"63,521",-148,1.2
+1129,AL,Washington County,8,8,7,7,"16,326",-76,-3.1
+1131,AL,Wilcox County,8,9,7,10,"10,373",-226,-18.8
+1133,AL,Winston County,6,6,4,4,"23,629",-64,0.8
+2000,AK,Alaska,,,,,"731,545","-3,594",-12
+2013,AK,Aleutians East Borough,9,9,12,12,"3,337",-58,-17.8
+2016,AK,Aleutians West Census Area,7,9,11,11,"5,634",-6,-6.7
+2020,AK,Anchorage Municipality,2,2,2,2,"288,000","-2,521",-15.9
+2050,AK,Bethel Census Area,7,7,11,11,"18,386",167,-4.7
+2060,AK,Bristol Bay Borough,9,9,12,12,836,-44,-52.4
+2068,AK,Denali Borough,8,8,7,7,"2,097",65,28.6
+2070,AK,Dillingham Census Area,9,9,12,12,"4,916",-75,-24.2
+2090,AK,Fairbanks North Star Borough,3,3,2,2,"96,849","-1,716",-28.1
+2100,AK,Haines Borough,9,9,10,12,"2,530",42,11.2
+2105,AK,Hoonah-Angoon Census Area,,9,,10,"2,148",-7,-4.2
+2110,AK,Juneau City and Borough,5,5,8,8,"31,974",-63,-7.1
+2122,AK,Kenai Peninsula Borough,7,7,11,11,"58,708",147,0.4
+2130,AK,Ketchikan Gateway Borough,7,7,8,8,"13,901",45,-1.3
+2150,AK,Kodiak Island Borough,7,7,8,11,"12,998",-252,-28
+2158,AK,Kusilvak Census Area,9,9,12,12,"8,314",-9,-16.7
+2164,AK,Lake and Peninsula Borough,9,9,12,12,"1,592",-4,-15.7
+2170,AK,Matanuska-Susitna Borough,2,2,2,2,"108,317","1,202",4.5
+2180,AK,Nome Census Area,7,7,11,11,"10,004",-49,-14.5
+2185,AK,North Slope Borough,7,7,11,11,"9,832",-18,-11.5
+2188,AK,Northwest Arctic Borough,7,7,11,11,"7,621",-73,-19.5
+2195,AK,Petersburg Borough,,9,,11,"3,266",22,6.5
+2198,AK,Prince of Wales-Hyder Census Area,,9,,10,"6,203",-157,-26.1
+2220,AK,Sitka City and Borough,7,7,11,11,"8,493",-61,-9.4
+2230,AK,Skagway Municipality,,9,,12,"1,183",14,17
+2240,AK,Southeast Fairbanks Census Area,8,9,7,12,"6,893",-44,-16.9
+2261,AK,Valdez-Cordova Census Area,9,9,11,11,"9,202",41,-2.1
+2275,AK,Wrangell City and Borough,,9,,12,"2,502",-36,-9.9
+2282,AK,Yakutat City and Borough,9,9,12,12,579,-17,-35.7
+2290,AK,Yukon-Koyukuk Census Area,8,9,7,12,"5,230",-129,-25.9
+4000,AZ,Arizona,,,,,"7,278,717","120,693",13.7
+4001,AZ,Apache County,6,6,6,6,"71,887",156,-1
+4003,AZ,Cochise County,4,3,5,2,"125,922",-489,-4.2
+4005,AZ,Coconino County,3,3,2,2,"143,476",953,2.4
+4007,AZ,Gila County,4,4,3,3,"54,018",217,9.5
+4009,AZ,Graham County,6,7,8,8,"38,837",842,16.6
+4011,AZ,Greenlee County,7,7,8,9,"9,498",50,-4.6
+4012,AZ,La Paz County,6,6,4,4,"21,108",69,9.1
+4013,AZ,Maricopa County,1,1,1,1,"4,485,414","83,011",14.2
+4015,AZ,Mohave County,4,3,3,2,"212,181","2,889",21.2
+4017,AZ,Navajo County,4,4,6,5,"110,924",682,3.2
+4019,AZ,Pima County,2,2,2,2,"1,047,279","10,725",9.6
+4021,AZ,Pinal County,1,1,1,1,"462,789","15,983",32.2
+4023,AZ,Santa Cruz County,4,4,5,5,"46,498",103,-4.3
+4025,AZ,Yavapai County,3,3,2,2,"235,099","3,327",19.6
+4027,AZ,Yuma County,3,3,2,2,"213,787","2,175",4.2
+5000,AR,Arkansas,,,,,"3,017,804","8,071",0.9
+5001,AR,Arkansas County,6,6,6,6,"17,486",-240,-13.2
+5003,AR,Ashley County,7,7,11,11,"19,657",-355,-16
+5005,AR,Baxter County,7,7,8,8,"41,932",308,15.7
+5007,AR,Benton County,2,2,2,2,"279,141","6,875",17.9
+5009,AR,Boone County,7,7,8,8,"37,432",47,2.8
+5011,AR,Bradley County,6,7,6,9,"10,763",-75,-5.6
+5013,AR,Calhoun County,9,9,8,8,"5,189",-38,-5.6
+5015,AR,Carroll County,6,6,6,6,"28,380",283,10.3
+5017,AR,Chicot County,7,7,9,9,"10,118",-324,-27.7
+5019,AR,Clark County,7,7,8,8,"22,320",7,0.7
+5021,AR,Clay County,7,7,9,9,"14,551",-212,-11.6
+5023,AR,Cleburne County,6,6,6,6,"24,919",-75,3.4
+5025,AR,Cleveland County,3,3,2,2,"7,956",-39,-3.3
+5027,AR,Columbia County,7,7,8,8,"23,457",-129,-4.7
+5029,AR,Conway County,6,6,6,6,"20,846",21,0.4
+5031,AR,Craighead County,3,3,2,2,"110,332","1,516",10
+5033,AR,Crawford County,2,2,2,2,"63,257",-122,-3.5
+5035,AR,Crittenden County,1,1,1,1,"47,955",-408,-12.4
+5037,AR,Cross County,6,6,4,4,"16,419",-211,-12.1
+5039,AR,Dallas County,6,6,6,6,"7,009",-143,-19.1
+5041,AR,Desha County,6,6,6,6,"11,361",-146,-9.5
+5043,AR,Drew County,7,6,11,6,"18,219",-109,-7.6
+5045,AR,Faulkner County,2,2,2,2,"126,007",869,2.2
+5047,AR,Franklin County,2,6,2,6,"17,715",-49,-2
+5049,AR,Fulton County,9,9,9,9,"12,477",169,19.1
+5051,AR,Garland County,3,3,2,2,"99,386",420,7
+5053,AR,Grant County,2,2,2,2,"18,265",85,5.5
+5055,AR,Greene County,6,4,5,5,"45,325",-14,-2.1
+5057,AR,Hempstead County,6,6,5,6,"21,532",-153,-9.8
+5059,AR,Hot Spring County,6,6,6,5,"33,771",99,3.5
+5061,AR,Howard County,7,6,9,6,"13,202",-100,-7.6
+5063,AR,Independence County,7,7,8,8,"37,825",57,-0.6
+5065,AR,Izard County,9,9,10,10,"13,629",47,8.5
+5067,AR,Jackson County,6,6,6,6,"16,719",-34,-0.8
+5069,AR,Jefferson County,3,3,2,2,"66,824","-1,243",-17.9
+5071,AR,Johnson County,6,7,6,9,"26,578",-81,-5.8
+5073,AR,Lafayette County,8,8,7,7,"6,624",-55,-3.2
+5075,AR,Lawrence County,6,6,6,6,"16,406",-26,1.8
+5077,AR,Lee County,6,7,4,9,"8,857",-119,-9
+5079,AR,Lincoln County,3,3,2,2,"13,024",-160,-8.5
+5081,AR,Little River County,6,3,6,2,"12,259",-38,0.2
+5083,AR,Logan County,6,6,6,6,"21,466",-207,-6.8
+5085,AR,Lonoke County,2,2,2,2,"73,309",-82,-3.5
+5087,AR,Madison County,2,2,2,2,"16,576",214,8.9
+5089,AR,Marion County,9,9,10,10,"16,694",29,10.1
+5091,AR,Miller County,3,3,2,2,"43,257",-105,-3.5
+5093,AR,Mississippi County,4,4,5,3,"40,651",-585,-16.4
+5095,AR,Monroe County,7,7,9,9,"6,701",-179,-19.6
+5097,AR,Montgomery County,8,8,7,7,"8,986",76,15.3
+5099,AR,Nevada County,7,7,8,9,"8,252",-56,-6.5
+5101,AR,Newton County,9,9,8,8,"7,753",-47,-2.8
+5103,AR,Ouachita County,7,7,8,8,"23,382",-238,-6.3
+5105,AR,Perry County,2,2,2,2,"10,455",75,9.3
+5107,AR,Phillips County,7,6,8,3,"17,782",-272,-15.9
+5109,AR,Pike County,9,9,10,10,"10,718",52,7.7
+5111,AR,Poinsett County,3,3,2,2,"23,528",-375,-14.8
+5113,AR,Polk County,7,7,11,11,"19,964",-55,0.9
+5115,AR,Pope County,5,5,8,8,"64,072",478,4.8
+5117,AR,Prairie County,8,8,7,7,"8,062",-20,2.1
+5119,AR,Pulaski County,2,2,2,2,"391,911",-7,-3.2
+5121,AR,Randolph County,7,7,11,9,"17,958",-12,0.4
+5123,AR,St. Francis County,6,6,3,3,"24,994",-515,-20
+5125,AR,Saline County,2,2,2,2,"122,437","1,363",9.8
+5127,AR,Scott County,6,6,6,6,"10,281",-58,-5.1
+5129,AR,Searcy County,9,9,10,10,"7,881",-49,-1.1
+5131,AR,Sebastian County,2,2,2,2,"127,827",257,-1.9
+5133,AR,Sevier County,7,6,11,6,"17,007",-54,-8.9
+5135,AR,Sharp County,7,7,9,9,"17,442",152,11.6
+5137,AR,Stone County,9,9,9,9,"12,506",52,8.6
+5139,AR,Union County,5,7,8,8,"38,682",-457,-9.9
+5141,AR,Van Buren County,8,8,7,6,"16,545",-90,1.2
+5143,AR,Washington County,2,2,2,2,"239,187","2,576",4.1
+5145,AR,White County,4,4,5,5,"78,753",372,4.2
+5147,AR,Woodruff County,9,9,9,10,"6,320",-146,-17.5
+5149,AR,Yell County,6,6,5,5,"21,341",-121,-6.3
+6000,CA,California,,,,,"39,512,223","50,635",-3.3
+6001,CA,Alameda County,1,1,1,1,"1,671,329","4,573",-1.8
+6003,CA,Alpine County,8,8,4,4,"1,129",40,32.5
+6005,CA,Amador County,6,6,4,4,"39,752",347,11.8
+6007,CA,Butte County,3,3,2,2,"219,186","-11,153",-49.6
+6009,CA,Calaveras County,6,6,6,6,"45,905",207,7.4
+6011,CA,Colusa County,6,6,4,4,"21,547",129,-1.1
+6013,CA,Contra Costa County,1,1,1,1,"1,153,526","3,007",-0.5
+6015,CA,Del Norte County,7,7,8,8,"27,812",72,2.4
+6017,CA,El Dorado County,1,1,1,1,"192,843","2,097",11.4
+6019,CA,Fresno County,2,2,2,2,"999,101","7,151",0.1
+6021,CA,Glenn County,6,6,6,6,"28,393",426,10.9
+6023,CA,Humboldt County,5,5,8,8,"135,558",-686,-4.7
+6025,CA,Imperial County,3,3,2,2,"181,215",-308,-10.8
+6027,CA,Inyo County,7,7,8,11,"18,039",93,4.2
+6029,CA,Kern County,2,2,2,2,"900,202","6,444",-0.2
+6031,CA,Kings County,3,3,2,2,"152,940","1,558",0.8
+6033,CA,Lake County,4,4,5,5,"64,386",69,2.9
+6035,CA,Lassen County,6,7,6,8,"30,573",-45,-4.1
+6037,CA,Los Angeles County,1,1,1,1,"10,039,107","-34,799",-7.9
+6039,CA,Madera County,3,3,2,2,"157,327",445,-3.8
+6041,CA,Marin County,1,1,1,1,"258,826",-836,-3.8
+6043,CA,Mariposa County,8,8,7,7,"17,203",-202,-9.8
+6045,CA,Mendocino County,4,4,5,5,"86,749",-652,-8.3
+6047,CA,Merced County,3,2,2,2,"277,680","3,529",4.5
+6049,CA,Modoc County,6,6,6,6,"8,841",41,7.9
+6051,CA,Mono County,7,7,9,11,"14,444",41,-3.9
+6053,CA,Monterey County,2,2,2,2,"434,061",111,-6.8
+6055,CA,Napa County,3,3,2,2,"137,744","-1,045",-7.2
+6057,CA,Nevada County,4,4,3,3,"99,755",247,4.6
+6059,CA,Orange County,1,1,1,1,"3,175,692",-281,-4.8
+6061,CA,Placer County,1,1,1,1,"398,329","5,999",14.6
+6063,CA,Plumas County,7,7,12,12,"18,807",66,6.6
+6065,CA,Riverside County,1,1,1,1,"2,470,546","24,757",5.5
+6067,CA,Sacramento County,1,1,1,1,"1,552,058","13,312",4.2
+6069,CA,San Benito County,1,1,1,1,"62,808","1,341",14.3
+6071,CA,San Bernardino County,1,1,1,1,"2,180,085","13,332",-0.3
+6073,CA,San Diego County,1,1,1,1,"3,338,330","4,469",-3.9
+6075,CA,San Francisco County,1,1,1,1,"881,549",853,-1.8
+6077,CA,San Joaquin County,2,2,2,2,"762,148","9,657",7.3
+6079,CA,San Luis Obispo County,3,2,2,2,"283,111",-243,-0.9
+6081,CA,San Mateo County,1,1,1,1,"766,573","-2,108",-7
+6083,CA,Santa Barbara County,2,2,2,2,"446,499",719,-3.1
+6085,CA,Santa Clara County,1,1,1,1,"1,927,852","-4,485",-7.8
+6087,CA,Santa Cruz County,2,2,2,2,"273,213",-628,-4.7
+6089,CA,Shasta County,3,3,2,2,"180,080",371,3.9
+6091,CA,Sierra County,8,8,7,7,"3,005",8,6.7
+6093,CA,Siskiyou County,7,6,11,6,"43,539",-11,3.1
+6095,CA,Solano County,2,2,2,2,"447,643","1,918",1.2
+6097,CA,Sonoma County,2,2,2,2,"494,336","-4,307",-8.9
+6099,CA,Stanislaus County,2,2,2,2,"550,660","2,534",-1
+6101,CA,Sutter County,3,3,2,2,"96,971",623,2
+6103,CA,Tehama County,4,4,5,5,"65,084","1,066",15.3
+6105,CA,Trinity County,8,8,6,6,"12,285",-282,-19.3
+6107,CA,Tulare County,2,2,2,2,"466,195","1,606",-4.8
+6109,CA,Tuolumne County,4,4,5,5,"54,478",91,4.6
+6111,CA,Ventura County,2,2,2,2,"846,006","-2,136",-6
+6113,CA,Yolo County,1,1,1,1,"220,500",382,-2.1
+6115,CA,Yuba County,3,3,2,2,"78,668","1,111",6.9
+8000,CO,Colorado,,,,,"5,758,736","67,449",7.3
+8001,CO,Adams County,1,1,1,1,"517,421","6,067",4.8
+8003,CO,Alamosa County,7,7,11,11,"16,233",-15,-6
+8005,CO,Arapahoe County,1,1,1,1,"656,590","4,793",2.1
+8007,CO,Archuleta County,7,7,10,10,"14,029",299,19
+8009,CO,Baca County,9,9,12,12,"3,581",-3,1.7
+8011,CO,Bent County,7,7,11,12,"5,577",-231,-37.4
+8013,CO,Boulder County,2,2,2,2,"326,196","1,560",2.8
+8014,CO,Broomfield County,1,1,1,1,"70,465","1,141",12.8
+8015,CO,Chaffee County,7,7,11,11,"20,356",315,17.8
+8017,CO,Cheyenne County,9,9,12,12,"1,831",-28,-17.3
+8019,CO,Clear Creek County,1,1,1,1,"9,700",96,8.2
+8021,CO,Conejos County,9,9,12,12,"8,205",24,1.6
+8023,CO,Costilla County,9,9,12,12,"3,887",75,19
+8025,CO,Crowley County,8,8,7,7,"6,061",104,18.1
+8027,CO,Custer County,8,8,7,7,"5,068",134,28
+8029,CO,Delta County,6,6,6,6,"31,162",278,12.5
+8031,CO,Denver County,1,1,1,1,"727,211","10,946",9
+8033,CO,Dolores County,9,9,10,12,"2,055",-5,-3.4
+8035,CO,Douglas County,1,1,1,1,"351,154","8,165",17.8
+8037,CO,Eagle County,5,5,8,8,"55,127",184,-4.5
+8039,CO,Elbert County,1,1,1,1,"26,729",426,14.3
+8041,CO,El Paso County,2,2,2,2,"720,403","8,314",5.1
+8043,CO,Fremont County,4,4,5,5,"47,839",-120,1.4
+8045,CO,Garfield County,5,5,9,8,"60,061",360,-0.7
+8047,CO,Gilpin County,1,1,1,1,"6,243",131,18.9
+8049,CO,Grand County,8,7,4,10,"15,734",223,11.5
+8051,CO,Gunnison County,7,7,11,11,"17,462",295,13.5
+8053,CO,Hinsdale County,9,9,12,12,820,12,16
+8055,CO,Huerfano County,6,6,6,6,"6,897",10,8.4
+8057,CO,Jackson County,9,9,12,10,"1,392",-3,-7.9
+8059,CO,Jefferson County,1,1,1,1,"582,881","3,489",3.9
+8061,CO,Kiowa County,9,9,12,12,"1,406",27,14.4
+8063,CO,Kit Carson County,7,7,11,11,"7,097",-62,-9.4
+8065,CO,Lake County,7,6,8,4,"8,127",281,27.5
+8067,CO,La Plata County,6,4,5,5,"56,221",-78,-3.2
+8069,CO,Larimer County,2,2,2,2,"356,899","6,239",14.6
+8071,CO,Las Animas County,7,7,11,11,"14,506",-2,2.9
+8073,CO,Lincoln County,8,8,4,7,"5,701",95,13.6
+8075,CO,Logan County,7,7,8,8,"22,409",141,5.4
+8077,CO,Mesa County,3,3,2,2,"154,210","1,259",7.4
+8079,CO,Mineral County,9,9,12,12,769,-3,-7.8
+8081,CO,Moffat County,7,7,11,8,"13,283",100,0.8
+8083,CO,Montezuma County,6,6,6,6,"26,183",31,1.9
+8085,CO,Montrose County,7,4,8,5,"42,758",552,13.1
+8087,CO,Morgan County,6,6,3,3,"29,068",299,3.5
+8089,CO,Otero County,6,6,6,6,"18,278",-60,-2.3
+8091,CO,Ouray County,9,9,10,10,"4,952",130,29.1
+8093,CO,Park County,1,1,1,1,"18,845",320,16.1
+8095,CO,Phillips County,9,9,10,10,"4,265",-20,-1.2
+8097,CO,Pitkin County,7,7,9,8,"17,767",-209,-16.1
+8099,CO,Prowers County,7,7,11,11,"12,172",93,4.2
+8101,CO,Pueblo County,3,3,2,2,"168,424","1,002",6.2
+8103,CO,Rio Blanco County,9,9,12,10,"6,324",-6,-4.1
+8105,CO,Rio Grande County,7,7,11,11,"11,267",-4,-0.4
+8107,CO,Routt County,7,7,11,8,"25,638",131,2.2
+8109,CO,Saguache County,9,9,12,12,"6,824",-16,-3.7
+8111,CO,San Juan County,9,9,10,10,728,-36,-49.6
+8113,CO,San Miguel County,9,9,12,12,"8,179",-1,-4.6
+8115,CO,Sedgwick County,9,9,10,10,"2,248",-28,-4
+8117,CO,Summit County,7,5,8,8,"31,011",194,-0.1
+8119,CO,Teller County,2,2,2,2,"25,388",275,11.8
+8121,CO,Washington County,9,9,10,10,"4,908",20,4.1
+8123,CO,Weld County,3,2,2,2,"324,492","9,677",22.3
+8125,CO,Yuma County,7,7,11,11,"10,019",72,3
+9000,CT,Connecticut,,,,,"3,565,287","-6,233",-2.7
+9001,CT,Fairfield County,2,2,2,2,"943,332",-639,-3.5
+9003,CT,Hartford County,1,1,1,1,"891,720",-860,-1.9
+9005,CT,Litchfield County,4,4,5,3,"180,333",-762,-1.7
+9007,CT,Middlesex County,1,1,1,1,"162,436",-434,-0.8
+9009,CT,New Haven County,2,2,2,2,"854,757","-2,214",-3.3
+9011,CT,New London County,2,2,2,2,"265,206","-1,079",-4
+9013,CT,Tolland County,1,1,1,1,"150,721",32,-0.4
+9015,CT,Windham County,4,2,5,2,"116,782",-277,-2.3
+10000,DE,Delaware,,,,,"973,764","8,285",7.3
+10001,DE,Kent County,3,3,2,2,"180,786","2,246",10.4
+10003,DE,New Castle County,1,1,1,1,"558,753","1,203",-0.2
+10005,DE,Sussex County,4,2,5,2,"234,225","4,836",22.8
+11000,DC,District of Columbia,,,,,"705,749","4,202",0.6
+11001,DC,District of Columbia,1,1,1,1,"705,749","4,202",0.6
+12000,FL,Florida,,,,,"21,477,737","233,420",10.4
+12001,FL,Alachua County,3,2,2,2,"269,043",192,-1.9
+12003,FL,Baker County,1,1,1,1,"29,210",857,28
+12005,FL,Bay County,3,3,2,2,"174,705","-11,535",-65.4
+12007,FL,Bradford County,6,6,6,4,"28,201",449,18.2
+12009,FL,Brevard County,2,2,2,2,"601,942","6,739",14.9
+12011,FL,Broward County,1,1,1,1,"1,952,778","6,671",0.5
+12013,FL,Calhoun County,6,6,7,6,"14,105",-438,-28.6
+12015,FL,Charlotte County,3,3,2,2,"188,910","4,061",31.2
+12017,FL,Citrus County,4,3,5,2,"149,657","1,975",24.2
+12019,FL,Clay County,1,1,1,1,"219,252","3,344",14
+12021,FL,Collier County,2,2,2,2,"384,902","6,701",19.4
+12023,FL,Columbia County,6,4,5,3,"71,686","1,018",15
+12027,FL,DeSoto County,6,6,5,5,"38,001",633,16
+12029,FL,Dixie County,6,6,7,7,"16,826",141,13.7
+12031,FL,Duval County,1,1,1,1,"957,755","9,103",5.2
+12033,FL,Escambia County,2,2,2,2,"318,316","3,212",9.3
+12035,FL,Flagler County,4,2,5,2,"115,081","2,996",31.3
+12037,FL,Franklin County,6,6,7,6,"12,125",449,38.7
+12039,FL,Gadsden County,2,2,2,2,"45,660",-267,-5.7
+12041,FL,Gilchrist County,3,2,2,2,"18,582",298,17.4
+12043,FL,Glades County,6,6,4,4,"13,811",125,13.7
+12045,FL,Gulf County,6,3,6,2,"13,639","-2,507",-165.4
+12047,FL,Hamilton County,6,6,7,6,"14,428",166,9.1
+12049,FL,Hardee County,6,6,5,3,"26,937",-231,-14
+12051,FL,Hendry County,4,4,5,3,"42,022",686,11.2
+12053,FL,Hernando County,1,1,1,1,"193,920","3,338",23.8
+12055,FL,Highlands County,4,3,5,2,"106,221","1,288",19.5
+12057,FL,Hillsborough County,1,1,1,1,"1,471,968","20,049",9.9
+12059,FL,Holmes County,6,6,6,6,"19,617",174,11.5
+12061,FL,Indian River County,3,3,2,2,"159,923","2,736",22.8
+12063,FL,Jackson County,6,6,6,6,"46,414","-1,698",-33.4
+12065,FL,Jefferson County,2,2,2,2,"14,246",-75,-3.5
+12067,FL,Lafayette County,8,9,7,12,"8,422",-269,-30.3
+12069,FL,Lake County,1,1,1,1,"367,118","10,398",31.4
+12071,FL,Lee County,2,2,2,2,"770,577","16,107",22.6
+12073,FL,Leon County,2,2,2,2,"293,582","1,925",3.1
+12075,FL,Levy County,8,6,7,6,"41,503",705,20.5
+12077,FL,Liberty County,8,8,7,7,"8,354",-73,-8
+12079,FL,Madison County,6,6,6,6,"18,493",-47,0.9
+12081,FL,Manatee County,2,2,2,2,"403,253","8,866",24.2
+12083,FL,Marion County,2,2,2,2,"365,579","6,517",22.5
+12085,FL,Martin County,2,2,2,2,"161,000",258,6.4
+12086,FL,Miami-Dade County,1,1,1,1,"2,716,940","2,086",-2.6
+12087,FL,Monroe County,4,4,3,3,"74,228",-529,-6.4
+12089,FL,Nassau County,1,1,1,1,"88,625","2,689",32.1
+12091,FL,Okaloosa County,3,3,2,2,"210,738","3,804",14.5
+12093,FL,Okeechobee County,4,4,5,3,"42,168",514,10
+12095,FL,Orange County,1,1,1,1,"1,393,452","11,912",2.8
+12097,FL,Osceola County,1,1,1,1,"375,751","7,295",14.1
+12099,FL,Palm Beach County,1,1,1,1,"1,496,770","13,894",9.7
+12101,FL,Pasco County,1,1,1,1,"553,947","14,857",29.4
+12103,FL,Pinellas County,1,1,1,1,"974,996","1,938",6.9
+12105,FL,Polk County,2,2,2,2,"724,777","18,180",24.2
+12107,FL,Putnam County,4,4,3,3,"74,521",478,9.2
+12109,FL,St. Johns County,1,1,1,1,"264,672","10,858",41.3
+12111,FL,St. Lucie County,2,2,2,2,"328,297","7,872",25.5
+12113,FL,Santa Rosa County,2,2,2,2,"184,313","5,018",26
+12115,FL,Sarasota County,2,2,2,2,"433,742","7,413",24.8
+12117,FL,Seminole County,1,1,1,1,"471,826","3,704",5.7
+12119,FL,Sumter County,4,3,3,2,"132,420","3,701",39.9
+12121,FL,Suwannee County,6,6,6,6,"44,417",238,8
+12123,FL,Taylor County,6,6,6,6,"21,569",24,3.1
+12125,FL,Union County,6,6,7,4,"15,237",-91,-1
+12127,FL,Volusia County,2,2,2,2,"553,284","7,183",17.1
+12129,FL,Wakulla County,2,2,2,2,"33,739","1,326",38.1
+12131,FL,Walton County,6,3,6,2,"74,071","3,339",45
+12133,FL,Washington County,6,6,6,6,"25,473",680,28.8
+13000,GA,Georgia,,,,,"10,617,423","106,292",6.1
+13001,GA,Appling County,7,7,9,9,"18,386",-140,-8.2
+13003,GA,Atkinson County,9,9,8,10,"8,165",-97,-19.1
+13005,GA,Bacon County,7,7,9,9,"11,164",32,-1.7
+13007,GA,Baker County,3,3,2,2,"3,038",-48,-18.3
+13009,GA,Baldwin County,4,4,5,5,"44,890",-3,1.5
+13011,GA,Banks County,8,8,7,6,"19,234",262,10.6
+13013,GA,Barrow County,1,1,1,1,"83,240","2,406",24.3
+13015,GA,Bartow County,1,1,1,1,"107,738","1,360",10
+13017,GA,Ben Hill County,7,7,8,8,"16,700",-122,-5.6
+13019,GA,Berrien County,6,6,6,6,"19,397",131,6.8
+13021,GA,Bibb County,3,3,2,2,"153,159",256,-0.4
+13023,GA,Bleckley County,6,6,6,6,"12,873",52,2.6
+13025,GA,Brantley County,3,3,2,2,"19,109",124,6.2
+13027,GA,Brooks County,3,3,2,2,"15,457",-22,1.9
+13029,GA,Bryan County,2,2,2,2,"39,627","1,568",33.1
+13031,GA,Bulloch County,4,4,5,5,"79,608","2,366",25.7
+13033,GA,Burke County,2,2,2,2,"22,383",-56,-4.4
+13035,GA,Butts County,1,1,1,1,"24,936",744,29.5
+13037,GA,Calhoun County,8,8,7,7,"6,189",-164,-26.9
+13039,GA,Camden County,4,4,3,3,"54,666","1,015",11.4
+13043,GA,Candler County,7,7,9,9,"10,803",-24,-2.6
+13045,GA,Carroll County,1,1,1,1,"119,992","1,995",13
+13047,GA,Catoosa County,2,2,2,2,"67,580",200,3.1
+13049,GA,Charlton County,6,6,4,4,"13,392",473,35.6
+13051,GA,Chatham County,2,2,2,2,"289,430",264,-2.4
+13053,GA,Chattahoochee County,2,2,2,2,"10,907",307,8.5
+13055,GA,Chattooga County,6,6,5,5,"24,789",7,0.7
+13057,GA,Cherokee County,1,1,1,1,"258,773","4,859",14.7
+13059,GA,Clarke County,3,3,2,2,"128,331","1,063",4.2
+13061,GA,Clay County,9,9,12,12,"2,834",-50,-12.6
+13063,GA,Clayton County,1,1,1,1,"292,256","3,059",2.9
+13065,GA,Clinch County,6,6,6,7,"6,618",15,-1.5
+13067,GA,Cobb County,1,1,1,1,"760,141","4,071",-0.5
+13069,GA,Coffee County,7,7,8,8,"43,273",218,0.8
+13071,GA,Colquitt County,6,6,5,5,"45,600",145,0.2
+13073,GA,Columbia County,2,2,2,2,"156,714","2,637",12.3
+13075,GA,Cook County,6,6,6,6,"17,270",99,5.6
+13077,GA,Coweta County,1,1,1,1,"148,509","2,511",13
+13079,GA,Crawford County,3,3,2,2,"12,404",70,9.1
+13081,GA,Crisp County,6,6,5,5,"22,372",-245,-9.5
+13083,GA,Dade County,2,2,2,2,"16,116",-111,-4.9
+13085,GA,Dawson County,1,1,1,1,"26,108",981,36.8
+13087,GA,Decatur County,6,6,5,5,"26,404",-169,-7.5
+13089,GA,DeKalb County,1,1,1,1,"759,297","4,391",-1.8
+13091,GA,Dodge County,7,6,9,6,"20,605",-188,-7.8
+13093,GA,Dooly County,6,6,6,6,"13,390",-319,-21.3
+13095,GA,Dougherty County,3,3,2,2,"87,956","-1,244",-17.5
+13097,GA,Douglas County,1,1,1,1,"146,343","1,319",4.5
+13099,GA,Early County,6,6,6,6,"10,190",-96,-8
+13101,GA,Echols County,3,3,2,2,"4,006",6,-1.7
+13103,GA,Effingham County,2,2,2,2,"64,296","2,068",27.6
+13105,GA,Elbert County,6,6,6,6,"19,194",99,8.4
+13107,GA,Emanuel County,7,7,9,9,"22,646",39,0.9
+13109,GA,Evans County,6,6,7,6,"10,654",-48,-4.4
+13111,GA,Fannin County,8,8,4,4,"26,188",207,12.7
+13113,GA,Fayette County,1,1,1,1,"114,421","1,240",11.3
+13115,GA,Floyd County,3,3,2,2,"98,498",534,5.5
+13117,GA,Forsyth County,1,1,1,1,"244,252","7,259",25.6
+13119,GA,Franklin County,8,8,7,6,"23,349",315,14.1
+13121,GA,Fulton County,1,1,1,1,"1,063,937","13,806",8.1
+13123,GA,Gilmer County,6,6,4,4,"31,369",534,18.8
+13125,GA,Glascock County,9,9,12,12,"2,971",-6,0
+13127,GA,Glynn County,3,3,2,2,"85,292",317,3.8
+13129,GA,Gordon County,6,4,5,3,"57,963",335,4.2
+13131,GA,Grady County,6,6,6,6,"24,633",-141,-7.2
+13133,GA,Greene County,6,6,6,4,"18,324",591,35.6
+13135,GA,Gwinnett County,1,1,1,1,"936,250","8,913",2.5
+13137,GA,Habersham County,6,6,5,5,"45,328",-45,-2.9
+13139,GA,Hall County,3,3,2,2,"204,441","2,903",9.4
+13141,GA,Hancock County,7,7,8,8,"8,457",89,18.9
+13143,GA,Haralson County,1,1,1,1,"29,792",231,7.8
+13145,GA,Harris County,2,2,2,2,"35,236",676,20.2
+13147,GA,Hart County,6,6,6,6,"26,205",134,7.5
+13149,GA,Heard County,1,1,1,1,"11,923",52,4.6
+13151,GA,Henry County,1,1,1,1,"234,561","4,833",16.9
+13153,GA,Houston County,3,3,2,2,"157,863","2,340",10.7
+13155,GA,Irwin County,7,7,8,9,"9,416",20,3.2
+13157,GA,Jackson County,6,4,6,3,"72,977","2,652",32.6
+13159,GA,Jasper County,1,1,1,1,"14,219",190,12.7
+13161,GA,Jeff Davis County,7,7,9,9,"15,115",67,1.8
+13163,GA,Jefferson County,6,6,6,7,"15,362",-62,-0.9
+13165,GA,Jenkins County,6,6,6,6,"8,676",-89,-9.1
+13167,GA,Johnson County,9,7,8,8,"9,643",-63,-5.8
+13169,GA,Jones County,3,3,2,2,"28,735",55,4.6
+13171,GA,Lamar County,1,1,1,1,"19,077",116,7.3
+13173,GA,Lanier County,3,3,2,2,"10,423",68,6.4
+13175,GA,Laurens County,6,5,5,8,"47,546",210,3.3
+13177,GA,Lee County,3,3,2,2,"29,992",241,5.5
+13179,GA,Liberty County,3,3,2,2,"61,435",829,-2.4
+13181,GA,Lincoln County,8,2,7,2,"7,921",-4,2
+13183,GA,Long County,3,3,2,2,"19,559",468,16.1
+13185,GA,Lowndes County,3,3,2,2,"117,406","1,097",3.8
+13187,GA,Lumpkin County,6,6,4,4,"33,610",711,21.8
+13189,GA,McDuffie County,2,2,2,2,"21,312",-220,-10.8
+13191,GA,McIntosh County,3,3,2,2,"14,378",56,5.9
+13193,GA,Macon County,6,6,6,6,"12,947",-213,-13.6
+13195,GA,Madison County,3,3,2,2,"29,880",238,7.8
+13197,GA,Marion County,2,2,2,2,"8,359",-14,-1.3
+13199,GA,Meriwether County,1,1,1,1,"21,167",73,4.8
+13201,GA,Miller County,8,8,7,7,"5,718",34,8.6
+13205,GA,Mitchell County,6,6,6,6,"21,863",-272,-12.8
+13207,GA,Monroe County,3,3,2,2,"27,578",75,6.5
+13209,GA,Montgomery County,9,9,11,8,"9,172",4,-1.2
+13211,GA,Morgan County,6,1,4,1,"19,276",445,21
+13213,GA,Murray County,3,3,2,2,"40,096",153,2.4
+13215,GA,Muscogee County,2,2,2,2,"195,769","1,600",3.8
+13217,GA,Newton County,1,1,1,1,"111,744","2,323",16.8
+13219,GA,Oconee County,3,3,2,2,"40,280",802,17.5
+13221,GA,Oglethorpe County,3,3,2,2,"15,259",179,11.1
+13223,GA,Paulding County,1,1,1,1,"168,667","4,614",23
+13225,GA,Peach County,6,3,5,2,"27,546",183,4.7
+13227,GA,Pickens County,1,1,1,1,"32,591",577,19.4
+13229,GA,Pierce County,6,6,5,5,"19,465",77,2
+13231,GA,Pike County,1,1,1,1,"18,962",315,15.9
+13233,GA,Polk County,6,4,3,3,"42,613",267,4.1
+13235,GA,Pulaski County,6,3,6,2,"11,137",57,6.9
+13237,GA,Putnam County,6,6,4,4,"22,119",299,16.4
+13239,GA,Quitman County,9,9,12,11,"2,299",39,20.2
+13241,GA,Rabun County,9,7,10,10,"17,137",280,20.4
+13243,GA,Randolph County,6,6,6,6,"6,778",-34,-3.8
+13245,GA,Richmond County,2,2,2,2,"202,518",851,0
+13247,GA,Rockdale County,1,1,1,1,"90,896",391,1.9
+13249,GA,Schley County,8,8,5,5,"5,257",27,3.6
+13251,GA,Screven County,6,6,6,6,"13,966",6,-1
+13253,GA,Seminole County,6,6,6,6,"8,090",-180,-19.3
+13255,GA,Spalding County,1,1,1,1,"66,703",596,9
+13257,GA,Stephens County,7,7,8,8,"25,925",-82,-1.6
+13259,GA,Stewart County,8,8,7,6,"6,621",186,32.9
+13261,GA,Sumter County,6,6,5,5,"29,524",-272,-10.6
+13263,GA,Talbot County,8,8,6,4,"6,195",-95,-10.7
+13265,GA,Taliaferro County,8,8,7,7,"1,537",-75,-38.7
+13267,GA,Tattnall County,6,6,6,6,"25,286",-199,-8.3
+13269,GA,Taylor County,8,8,7,7,"8,020",0,-0.2
+13271,GA,Telfair County,7,7,9,11,"15,860",-114,-6
+13273,GA,Terrell County,3,3,2,2,"8,531",-56,-4.4
+13275,GA,Thomas County,4,4,5,5,"44,451",117,2.4
+13277,GA,Tift County,4,5,5,8,"40,644",102,-0.8
+13279,GA,Toombs County,7,7,11,8,"26,830",-72,-5
+13281,GA,Towns County,9,9,12,12,"12,037",171,21.5
+13283,GA,Treutlen County,7,7,9,9,"6,901",88,13.3
+13285,GA,Troup County,4,4,3,3,"69,922",-156,-4
+13287,GA,Turner County,6,6,6,6,"7,985",77,7.4
+13289,GA,Twiggs County,3,3,2,2,"8,120",-54,2
+13291,GA,Union County,9,9,12,12,"24,511",606,30.6
+13293,GA,Upson County,6,6,3,3,"26,320",135,8.9
+13295,GA,Walker County,2,2,2,2,"69,761",318,5.9
+13297,GA,Walton County,1,1,1,1,"94,593","1,391",12.3
+13299,GA,Ware County,4,5,8,8,"35,734",147,3.6
+13301,GA,Warren County,8,8,7,7,"5,254",7,2.7
+13303,GA,Washington County,7,7,9,9,"20,374",-36,-1.3
+13305,GA,Wayne County,6,6,5,5,"29,927",117,3.9
+13307,GA,Webster County,8,8,7,6,"2,607",1,0
+13309,GA,Wheeler County,9,9,10,9,"7,855",-43,-5.6
+13311,GA,White County,8,6,7,6,"30,798",810,27.4
+13313,GA,Whitfield County,3,3,2,2,"104,628",379,-0.9
+13315,GA,Wilcox County,9,8,10,6,"8,635",-192,-21
+13317,GA,Wilkes County,6,6,6,6,"9,777",-87,-3.4
+13319,GA,Wilkinson County,8,8,7,7,"8,954",-89,-7.2
+13321,GA,Worth County,3,3,2,2,"20,247",-55,-1.9
+15000,HI,Hawaii,,,,,"1,415,872","-4,721",-6.2
+15001,HI,Hawaii County,5,5,8,8,"201,513",4,-1.1
+15003,HI,Honolulu County,2,2,2,2,"974,563","-5,295",-8.9
+15005,HI,Kalawao County,9,3,8,2,86,0,0
+15007,HI,Kauai County,5,5,8,8,"72,293",125,0.5
+15009,HI,Maui County,5,3,8,2,"167,417",445,0.4
+16000,ID,Idaho,,,,,"1,787,065","36,529",15.6
+16001,ID,Ada County,2,2,2,2,"481,587","12,823",22.8
+16003,ID,Adams County,8,9,7,12,"4,294",60,13.4
+16005,ID,Bannock County,3,3,2,2,"87,808","1,134",7.7
+16007,ID,Bear Lake County,7,9,11,11,"6,125",81,11
+16009,ID,Benewah County,6,6,6,7,"9,298",80,8.9
+16011,ID,Bingham County,6,4,5,5,"46,811",682,10.1
+16013,ID,Blaine County,7,7,11,8,"23,021",250,7.2
+16015,ID,Boise County,2,2,2,2,"7,831",176,22.6
+16017,ID,Bonner County,6,6,6,5,"45,739","1,034",23.1
+16019,ID,Bonneville County,3,3,2,2,"119,062","2,618",13.6
+16021,ID,Boundary County,7,7,11,9,"12,245",229,18.7
+16023,ID,Butte County,8,3,7,2,"2,597",10,2.7
+16025,ID,Camas County,9,9,12,8,"1,106",-15,-16.2
+16027,ID,Canyon County,2,2,2,2,"229,849","6,613",22.2
+16029,ID,Caribou County,6,6,6,6,"7,155",118,11.3
+16031,ID,Cassia County,7,7,8,8,"24,030",239,1.4
+16033,ID,Clark County,8,9,7,12,845,-6,-14.2
+16035,ID,Clearwater County,6,6,6,6,"8,756",-2,2.5
+16037,ID,Custer County,9,8,12,7,"4,315",65,16.1
+16039,ID,Elmore County,4,6,5,5,"27,511",149,-4.1
+16041,ID,Franklin County,3,3,2,2,"13,876",172,5.5
+16043,ID,Fremont County,6,6,5,5,"13,099",-56,-11.1
+16045,ID,Gem County,2,2,2,2,"18,112",525,29.5
+16047,ID,Gooding County,7,7,9,9,"15,179",63,-0.6
+16049,ID,Idaho County,6,6,6,6,"16,667",191,13.3
+16051,ID,Jefferson County,3,3,2,2,"29,871",466,4.5
+16053,ID,Jerome County,7,7,8,8,"24,412",346,5.5
+16055,ID,Kootenai County,3,3,2,2,"165,697","4,488",25.4
+16057,ID,Latah County,4,4,5,5,"40,108",279,1.8
+16059,ID,Lemhi County,7,7,11,11,"8,027",95,15
+16061,ID,Lewis County,8,8,7,7,"3,838",6,2.6
+16063,ID,Lincoln County,9,9,10,8,"5,366",-32,-10.2
+16065,ID,Madison County,6,4,5,5,"39,907",646,-8
+16067,ID,Minidoka County,7,7,8,8,"21,039",320,9.1
+16069,ID,Nez Perce County,3,3,2,2,"40,408",152,3.7
+16071,ID,Oneida County,8,8,7,7,"4,531",69,12.9
+16073,ID,Owyhee County,2,2,2,2,"11,823",154,8.9
+16075,ID,Payette County,6,6,5,5,"23,951",444,14.8
+16077,ID,Power County,3,6,2,6,"7,681",-19,-9.6
+16079,ID,Shoshone County,6,6,7,7,"12,882",92,7.2
+16081,ID,Teton County,9,9,8,8,"12,142",491,33.2
+16083,ID,Twin Falls County,5,5,8,8,"86,878",849,5
+16085,ID,Valley County,8,8,7,6,"11,392",371,30.3
+16087,ID,Washington County,6,6,6,6,"10,194",79,5.5
+17000,IL,Illinois,,,,,"12,671,821","-51,250",-6.8
+17001,IL,Adams County,5,5,8,8,"65,435",-188,-1.7
+17003,IL,Alexander County,7,3,8,2,"5,761",-280,-44.6
+17005,IL,Bond County,1,1,1,1,"16,426",-211,-12.2
+17007,IL,Boone County,2,2,2,2,"53,544",64,-1.5
+17009,IL,Brown County,7,7,10,10,"6,578",15,2.3
+17011,IL,Bureau County,6,7,5,8,"32,628",-331,-8
+17013,IL,Calhoun County,1,1,1,1,"4,739",-90,-15.3
+17015,IL,Carroll County,7,7,9,9,"14,305",-9,3.7
+17017,IL,Cass County,6,6,6,6,"12,147",-165,-16.6
+17019,IL,Champaign County,3,3,2,2,"209,689",-229,-5.2
+17021,IL,Christian County,6,6,5,5,"32,304",-349,-8.5
+17023,IL,Clark County,6,6,6,6,"15,441",-159,-8.2
+17025,IL,Clay County,7,7,9,9,"13,184",-82,-3.9
+17027,IL,Clinton County,1,1,1,1,"37,562",-135,-4.8
+17029,IL,Coles County,5,5,8,8,"50,621",-208,-3.1
+17031,IL,Cook County,1,1,1,1,"5,150,233","-21,727",-8
+17033,IL,Crawford County,6,7,6,9,"18,667",-163,-7.6
+17035,IL,Cumberland County,9,9,8,8,"10,766",-38,-4.5
+17037,IL,DeKalb County,1,1,1,1,"104,897",548,1.6
+17039,IL,De Witt County,6,3,6,2,"15,638",-156,-7.1
+17041,IL,Douglas County,6,6,6,6,"19,465",7,-3.3
+17043,IL,DuPage County,1,1,1,1,"922,921","-4,326",-8.6
+17045,IL,Edgar County,6,6,6,6,"17,161",-199,-8.2
+17047,IL,Edwards County,9,9,12,12,"6,395",8,-1.1
+17049,IL,Effingham County,7,7,8,8,"34,008",-173,-7.8
+17051,IL,Fayette County,6,6,4,4,"21,336",-32,-2
+17053,IL,Ford County,3,3,2,2,"12,961",-251,-16.2
+17055,IL,Franklin County,5,4,9,6,"38,469",-226,-4.5
+17057,IL,Fulton County,6,6,5,5,"34,340",-490,-10.1
+17059,IL,Gallatin County,8,8,7,7,"4,828",-217,-36.1
+17061,IL,Greene County,6,6,4,4,"12,969",-96,-5.8
+17063,IL,Grundy County,1,1,1,1,"51,054",81,-1.8
+17065,IL,Hamilton County,7,7,8,9,"8,116",-32,-0.9
+17067,IL,Hancock County,7,7,9,8,"17,708",-120,-5.6
+17069,IL,Hardin County,9,9,10,12,"3,821",-72,-9.9
+17071,IL,Henderson County,9,9,8,8,"6,646",-51,-2.5
+17073,IL,Henry County,2,2,2,2,"48,913",-156,-1.8
+17075,IL,Iroquois County,6,6,6,4,"27,114",-370,-11.1
+17077,IL,Jackson County,5,3,8,2,"56,750",-539,-11.6
+17079,IL,Jasper County,7,7,9,9,"9,610",-14,-3.8
+17081,IL,Jefferson County,7,7,8,8,"37,684",-24,-0.8
+17083,IL,Jersey County,1,1,1,1,"21,773",-22,0.1
+17085,IL,Jo Daviess County,6,6,6,6,"21,235",-96,-0.8
+17087,IL,Johnson County,7,8,10,6,"12,417",-6,3.1
+17089,IL,Kane County,1,1,1,1,"532,403",-317,-5.8
+17091,IL,Kankakee County,3,3,2,2,"109,862",-91,-1.5
+17093,IL,Kendall County,1,1,1,1,"128,990","1,273",3
+17095,IL,Knox County,4,4,5,5,"49,699",-279,-4.4
+17097,IL,Lake County,1,1,1,1,"696,535","-3,052",-8
+17099,IL,LaSalle County,4,4,3,3,"108,669",-490,-3.3
+17101,IL,Lawrence County,7,7,9,9,"15,678",-135,-5.2
+17103,IL,Lee County,4,6,3,3,"34,096",-200,-4.7
+17105,IL,Livingston County,4,4,5,3,"35,648",-66,-2.1
+17107,IL,Logan County,6,6,5,5,"28,618",-294,-8.5
+17109,IL,McDonough County,5,5,8,8,"29,682",-302,-8.9
+17111,IL,McHenry County,1,1,1,1,"307,774",-477,-4.5
+17113,IL,McLean County,3,3,2,2,"171,517",-893,-8.9
+17115,IL,Macon County,3,3,2,2,"104,009",-495,-5.1
+17117,IL,Macoupin County,1,1,1,1,"44,926",-392,-6.2
+17119,IL,Madison County,1,1,1,1,"262,966","-1,060",-3.5
+17121,IL,Marion County,4,4,3,3,"37,205",-176,-4.5
+17123,IL,Marshall County,2,2,2,2,"11,438",-45,-0.9
+17125,IL,Mason County,6,6,6,6,"13,359",-174,-9.5
+17127,IL,Massac County,7,7,8,8,"13,772",-251,-15.1
+17129,IL,Menard County,3,3,2,2,"12,196",-93,-7.3
+17131,IL,Mercer County,2,2,2,2,"15,437",-114,-3.9
+17133,IL,Monroe County,1,1,1,1,"34,637",264,6.6
+17135,IL,Montgomery County,6,6,6,4,"28,414",-277,-7.5
+17137,IL,Morgan County,4,4,5,5,"33,658",-369,-9.8
+17139,IL,Moultrie County,6,6,6,6,"14,501",-147,-11.2
+17141,IL,Ogle County,4,4,5,3,"50,643",-138,-3.3
+17143,IL,Peoria County,2,2,2,2,"179,179","-1,441",-11.5
+17145,IL,Perry County,7,6,9,6,"20,916",-228,-9
+17147,IL,Piatt County,3,3,2,2,"16,344",-22,-2.2
+17149,IL,Pike County,7,7,9,9,"15,561",-34,-3.3
+17151,IL,Pope County,9,8,10,7,"4,177",-7,1.7
+17153,IL,Pulaski County,9,8,10,7,"5,335",-99,-14.9
+17155,IL,Putnam County,8,8,5,5,"5,739",3,2.1
+17157,IL,Randolph County,6,6,4,4,"31,782",-395,-10.5
+17159,IL,Richland County,7,7,11,11,"15,513",-182,-10
+17161,IL,Rock Island County,2,2,2,2,"141,879",-742,-6
+17163,IL,St. Clair County,1,1,1,1,"259,686","-1,674",-7.9
+17165,IL,Saline County,7,6,8,6,"23,491",-298,-9.9
+17167,IL,Sangamon County,3,3,2,2,"194,672",-967,-5.5
+17169,IL,Schuyler County,7,7,9,9,"6,768",-102,-9.1
+17171,IL,Scott County,9,9,8,8,"4,951",24,5.5
+17173,IL,Shelby County,6,6,6,6,"21,634",-92,-3.4
+17175,IL,Stark County,2,2,2,2,"5,342",-76,-10.6
+17177,IL,Stephenson County,4,4,5,5,"44,498",-299,-5.1
+17179,IL,Tazewell County,2,2,2,2,"131,803",-647,-4.4
+17181,IL,Union County,7,6,9,6,"16,653",-179,-7.7
+17183,IL,Vermilion County,3,3,2,2,"75,758",-944,-12
+17185,IL,Wabash County,6,7,6,11,"11,520",-3,-1.8
+17187,IL,Warren County,7,6,8,6,"16,844",-148,-10.3
+17189,IL,Washington County,6,6,4,4,"13,887",-112,-8.8
+17191,IL,Wayne County,7,7,9,9,"16,215",-111,-5.3
+17193,IL,White County,6,6,6,6,"13,537",-81,-1
+17195,IL,Whiteside County,4,4,5,5,"55,175",-378,-6.1
+17197,IL,Will County,1,1,1,1,"690,743",-406,-4.2
+17199,IL,Williamson County,5,3,8,2,"66,597",-385,-5
+17201,IL,Winnebago County,2,2,2,2,"282,572","-1,058",-5.6
+17203,IL,Woodford County,2,2,2,2,"38,459",-68,-2.4
+18000,IN,Indiana,,,,,"6,732,219","36,722",2.7
+18001,IN,Adams County,6,6,5,5,"35,777",182,-6.5
+18003,IN,Allen County,2,2,2,2,"379,299","4,220",5.9
+18005,IN,Bartholomew County,3,3,2,2,"83,779","1,057",9.4
+18007,IN,Benton County,3,3,2,2,"8,748",95,8.5
+18009,IN,Blackford County,6,6,6,6,"11,758",-166,-10
+18011,IN,Boone County,1,1,1,1,"67,843",913,9.2
+18013,IN,Brown County,1,1,1,1,"15,092",-138,-6.7
+18015,IN,Carroll County,3,3,2,2,"20,257",69,1.4
+18017,IN,Cass County,4,4,5,5,"37,689",-206,-6.4
+18019,IN,Clark County,1,1,1,1,"118,302","1,022",6.6
+18021,IN,Clay County,3,3,2,2,"26,225",50,1.3
+18023,IN,Clinton County,6,6,5,3,"32,399",207,3.3
+18025,IN,Crawford County,8,8,4,4,"10,577",-17,-1.1
+18027,IN,Daviess County,7,7,8,8,"33,351",73,-4.3
+18029,IN,Dearborn County,1,1,1,1,"49,458",-24,-0.4
+18031,IN,Decatur County,6,6,3,3,"26,559",-166,-8.1
+18033,IN,DeKalb County,4,4,5,5,"43,475",267,3.9
+18035,IN,Delaware County,3,3,2,2,"114,135",-162,-0.5
+18037,IN,Dubois County,7,5,8,8,"42,736",62,-2
+18039,IN,Elkhart County,3,3,2,2,"206,341",724,-3.2
+18041,IN,Fayette County,7,6,8,3,"23,102",26,1.8
+18043,IN,Floyd County,1,1,1,1,"78,522",688,7.2
+18045,IN,Fountain County,6,6,6,6,"16,346",-44,-2.9
+18047,IN,Franklin County,1,6,1,4,"22,758",52,-0.5
+18049,IN,Fulton County,7,7,9,9,"19,974",-79,-5
+18051,IN,Gibson County,2,6,2,6,"33,659",49,1.5
+18053,IN,Grant County,4,4,5,3,"65,769",-270,-3.2
+18055,IN,Greene County,3,6,2,6,"31,922",-137,-1.8
+18057,IN,Hamilton County,1,1,1,1,"338,011","7,700",17.2
+18059,IN,Hancock County,1,1,1,1,"78,168","1,690",19.1
+18061,IN,Harrison County,1,1,1,1,"40,515",301,6
+18063,IN,Hendricks County,1,1,1,1,"170,311","3,403",16.7
+18065,IN,Henry County,4,4,3,3,"47,972",-159,-1.2
+18067,IN,Howard County,3,3,2,2,"82,544",287,3.6
+18069,IN,Huntington County,6,6,5,5,"36,520",277,7.1
+18071,IN,Jackson County,4,4,5,5,"44,231",163,0.7
+18073,IN,Jasper County,1,1,1,1,"33,562",197,5.1
+18075,IN,Jay County,6,6,6,6,"20,436",-291,-16.6
+18077,IN,Jefferson County,6,6,3,3,"32,308",151,4.1
+18079,IN,Jennings County,6,6,5,5,"27,735",56,0.8
+18081,IN,Johnson County,1,1,1,1,"158,167","2,074",10
+18083,IN,Knox County,4,5,5,8,"36,594",-2,0.1
+18085,IN,Kosciusko County,4,4,5,5,"79,456",40,-3.3
+18087,IN,LaGrange County,6,6,6,6,"39,614",239,-5.8
+18089,IN,Lake County,1,1,1,1,"485,493","1,053",1.4
+18091,IN,LaPorte County,3,3,2,2,"109,888",-93,-1.1
+18093,IN,Lawrence County,4,6,5,5,"45,370",-260,-3.5
+18095,IN,Madison County,3,1,2,1,"129,569",-4,0.6
+18097,IN,Marion County,1,1,1,1,"964,582","5,882",-0.1
+18099,IN,Marshall County,6,6,5,5,"46,258",-38,-3.1
+18101,IN,Martin County,6,7,6,9,"10,255",36,2.8
+18103,IN,Miami County,6,6,5,5,"35,516",-130,-4.2
+18105,IN,Monroe County,3,3,2,2,"148,431","1,201",6.3
+18107,IN,Montgomery County,6,6,3,3,"38,338",64,0.8
+18109,IN,Morgan County,1,1,1,1,"70,489",352,3.6
+18111,IN,Newton County,1,1,1,1,"13,984",-2,0.8
+18113,IN,Noble County,6,6,5,5,"47,744",201,0.6
+18115,IN,Ohio County,1,1,1,1,"5,875",-4,0.2
+18117,IN,Orange County,6,6,4,4,"19,646",98,4
+18119,IN,Owen County,3,3,2,2,"20,799",-63,0
+18121,IN,Parke County,6,6,6,4,"16,937",-41,-4
+18123,IN,Perry County,6,6,9,6,"19,169",92,3.8
+18125,IN,Pike County,6,8,5,5,"12,389",1,1.2
+18127,IN,Porter County,1,1,1,1,"170,389",901,5.5
+18129,IN,Posey County,2,2,2,2,"25,427",-127,-4.2
+18131,IN,Pulaski County,6,6,4,4,"12,353",-139,-10.2
+18133,IN,Putnam County,1,1,1,1,"37,576",90,2.1
+18135,IN,Randolph County,6,6,6,6,"24,665",-141,-6.3
+18137,IN,Ripley County,6,6,4,4,"28,324",-126,-6
+18139,IN,Rush County,6,6,4,4,"16,581",-54,-3.1
+18141,IN,St. Joseph County,2,2,2,2,"271,826",854,-0.4
+18143,IN,Scott County,6,1,3,1,"23,873",89,5.7
+18145,IN,Shelby County,1,1,1,1,"44,729",207,3.5
+18147,IN,Spencer County,8,8,7,7,"20,277",-108,-4.2
+18149,IN,Starke County,6,6,6,4,"22,995",44,2.9
+18151,IN,Steuben County,7,7,8,8,"34,594",107,3.5
+18153,IN,Sullivan County,3,3,2,2,"20,669",-27,-1.3
+18155,IN,Switzerland County,8,8,4,4,"10,751",20,1.9
+18157,IN,Tippecanoe County,3,3,2,2,"195,732","1,915",4.7
+18159,IN,Tipton County,3,6,2,4,"15,148",36,3.3
+18161,IN,Union County,8,1,4,1,"7,054",25,3.8
+18163,IN,Vanderburgh County,2,2,2,2,"181,451",331,0.9
+18165,IN,Vermillion County,3,3,2,2,"15,498",-12,1.2
+18167,IN,Vigo County,3,3,2,2,"107,038",-329,-3.3
+18169,IN,Wabash County,6,6,5,5,"30,996",-202,-3.3
+18171,IN,Warren County,8,8,7,7,"8,265",-15,-1.8
+18173,IN,Warrick County,2,2,2,2,"62,998",524,8.3
+18175,IN,Washington County,1,1,1,1,"28,036",104,3.1
+18177,IN,Wayne County,5,5,8,8,"65,884",-162,-0.8
+18179,IN,Wells County,2,2,2,2,"28,296",213,5
+18181,IN,White County,6,6,6,6,"24,102",-31,-1.6
+18183,IN,Whitley County,2,2,2,2,"33,964",-83,-5.3
+19000,IA,Iowa,,,,,"3,155,070","6,452",-0.7
+19001,IA,Adair County,8,8,7,7,"7,152",78,10.3
+19003,IA,Adams County,9,9,12,12,"3,602",-42,-9.7
+19005,IA,Allamakee County,6,6,6,6,"13,687",-165,-12.9
+19007,IA,Appanoose County,7,7,9,9,"12,426",25,5.6
+19009,IA,Audubon County,8,8,7,7,"5,496",25,5.5
+19011,IA,Benton County,3,2,2,2,"25,645",20,0.2
+19013,IA,Black Hawk County,3,3,2,2,"131,228",-495,-7.2
+19015,IA,Boone County,6,6,5,5,"26,234",-78,-2.1
+19017,IA,Bremer County,3,3,2,2,"25,062",121,2.8
+19019,IA,Buchanan County,6,6,6,6,"21,175",-3,-3.3
+19021,IA,Buena Vista County,7,7,8,8,"19,620",-206,-17.5
+19023,IA,Butler County,8,8,7,7,"14,439",-86,-3.2
+19025,IA,Calhoun County,9,9,10,10,"9,668",-43,-2.2
+19027,IA,Carroll County,7,7,11,11,"20,165",12,0
+19029,IA,Cass County,6,6,6,6,"12,836",-112,-5.4
+19031,IA,Cedar County,6,6,6,6,"18,627",63,2.3
+19033,IA,Cerro Gordo County,5,5,8,8,"42,450",-192,-3.2
+19035,IA,Cherokee County,6,6,6,6,"11,235",-60,-0.7
+19037,IA,Chickasaw County,6,6,6,6,"11,933",-19,-4.4
+19039,IA,Clarke County,6,6,6,6,"9,395",-107,-13
+19041,IA,Clay County,7,7,8,8,"16,016",-90,-8
+19043,IA,Clayton County,8,8,7,7,"17,549",9,1.1
+19045,IA,Clinton County,4,4,5,5,"46,429",-8,0.1
+19047,IA,Crawford County,6,7,6,11,"16,820",-269,-20.5
+19049,IA,Dallas County,2,2,2,2,"93,453","3,500",29.4
+19051,IA,Davis County,9,9,9,8,"9,000",28,-4.2
+19053,IA,Decatur County,9,9,12,12,"7,870",-20,-4.9
+19055,IA,Delaware County,6,6,6,6,"17,011",-70,-5.5
+19057,IA,Des Moines County,5,5,8,8,"38,967",-182,-4.7
+19059,IA,Dickinson County,7,7,8,8,"17,258",137,9.8
+19061,IA,Dubuque County,3,3,2,2,"97,311",389,1.7
+19063,IA,Emmet County,7,7,9,9,"9,208",-69,-6.9
+19065,IA,Fayette County,6,6,6,6,"19,650",-29,-0.7
+19067,IA,Floyd County,7,7,9,9,"15,642",-110,-7.5
+19069,IA,Franklin County,7,7,9,9,"10,070",-15,-2.5
+19071,IA,Fremont County,8,8,6,6,"6,960",-21,-3.2
+19073,IA,Greene County,6,6,6,6,"8,888",-77,-7.4
+19075,IA,Grundy County,3,3,2,2,"12,232",-40,-2.4
+19077,IA,Guthrie County,2,2,2,2,"10,689",-31,-2.3
+19079,IA,Hamilton County,6,6,6,6,"14,773",-113,-7.1
+19081,IA,Hancock County,7,7,9,9,"10,630",-80,-6.1
+19083,IA,Hardin County,6,6,6,6,"16,846",-91,-2.8
+19085,IA,Harrison County,2,2,2,2,"14,049",-56,-2.1
+19087,IA,Henry County,7,6,9,6,"19,954",-79,-5.6
+19089,IA,Howard County,7,6,11,6,"9,158",-14,-1.1
+19091,IA,Humboldt County,7,7,9,9,"9,558",-1,-0.2
+19093,IA,Ida County,8,8,7,7,"6,860",14,7.4
+19095,IA,Iowa County,8,6,6,6,"16,184",29,2
+19097,IA,Jackson County,6,6,6,6,"19,439",12,1.1
+19099,IA,Jasper County,6,6,5,5,"37,185",-4,-0.8
+19101,IA,Jefferson County,7,7,9,8,"18,295",39,3.7
+19103,IA,Johnson County,3,3,2,2,"151,140",591,-2.5
+19105,IA,Jones County,3,2,2,2,"20,681",8,0.6
+19107,IA,Keokuk County,8,8,7,7,"10,246",33,1.6
+19109,IA,Kossuth County,7,7,11,11,"14,813",-65,-5.3
+19111,IA,Lee County,5,5,8,8,"33,657",-252,-6.6
+19113,IA,Linn County,3,2,2,2,"226,706",943,0.1
+19115,IA,Louisa County,8,8,5,7,"11,035",-118,-12.1
+19117,IA,Lucas County,6,6,6,6,"8,600",-17,-5.1
+19119,IA,Lyon County,8,8,6,6,"11,755",-60,-9.8
+19121,IA,Madison County,2,2,2,2,"16,338",132,7.9
+19123,IA,Mahaska County,7,7,8,8,"22,095",77,1.4
+19125,IA,Marion County,6,6,6,6,"33,253",-6,-0.6
+19127,IA,Marshall County,4,4,5,5,"39,369",-519,-14
+19129,IA,Mills County,2,2,2,2,"15,109",41,2.5
+19131,IA,Mitchell County,7,7,9,9,"10,586",15,1
+19133,IA,Monona County,6,6,6,6,"8,615",-44,0.8
+19135,IA,Monroe County,7,7,9,9,"7,707",-61,-7.6
+19137,IA,Montgomery County,6,6,6,6,"9,917",-44,-1.6
+19139,IA,Muscatine County,4,4,5,5,"42,664",-210,-8.5
+19141,IA,O'Brien County,7,7,9,9,"13,753",-45,-2.3
+19143,IA,Osceola County,7,7,9,9,"5,958",-70,-10
+19145,IA,Page County,7,6,11,6,"15,107",-122,-4.4
+19147,IA,Palo Alto County,7,7,9,9,"8,886",-17,-1.7
+19149,IA,Plymouth County,6,3,6,2,"25,177",153,4.5
+19151,IA,Pocahontas County,9,9,10,10,"6,619",-95,-12.2
+19153,IA,Polk County,2,2,2,2,"490,161","4,328",2.4
+19155,IA,Pottawattamie County,2,2,2,2,"93,206",-58,-2.4
+19157,IA,Poweshiek County,7,7,9,9,"18,504",37,3.8
+19159,IA,Ringgold County,9,9,12,12,"4,894",-46,-7.1
+19161,IA,Sac County,9,9,10,10,"9,721",16,3
+19163,IA,Scott County,2,2,2,2,"172,943",140,-2.4
+19165,IA,Shelby County,6,6,6,6,"11,454",-105,-7.1
+19167,IA,Sioux County,6,7,6,11,"34,855",53,-5.2
+19169,IA,Story County,3,3,2,2,"97,117",336,-0.1
+19171,IA,Tama County,6,6,6,6,"16,854",-15,-2.3
+19173,IA,Taylor County,9,9,10,10,"6,121",-39,-7.7
+19175,IA,Union County,6,6,6,6,"12,241",-57,-4
+19177,IA,Van Buren County,9,9,10,10,"7,044",31,5.7
+19179,IA,Wapello County,5,5,8,8,"34,969",-22,-1.9
+19181,IA,Warren County,2,2,2,2,"51,466",452,6
+19183,IA,Washington County,3,3,2,2,"21,965",-93,-6.5
+19185,IA,Wayne County,9,9,12,12,"6,441",36,6.7
+19187,IA,Webster County,5,5,8,8,"35,904",-435,-12.2
+19189,IA,Winnebago County,7,7,9,9,"10,354",-185,-15.4
+19191,IA,Winneshiek County,7,7,11,11,"19,991",-26,-0.6
+19193,IA,Woodbury County,3,3,2,2,"103,107",592,1
+19195,IA,Worth County,9,9,8,8,"7,381",-32,-5.4
+19197,IA,Wright County,7,7,9,9,"12,562",-128,-9.6
+20000,KS,Kansas,,,,,"2,913,314","1,955",-2.8
+20001,KS,Allen County,7,7,11,11,"12,369",-132,-8.6
+20003,KS,Anderson County,6,6,4,4,"7,858",10,0.5
+20005,KS,Atchison County,6,6,3,3,"16,073",-100,-5.7
+20007,KS,Barber County,9,9,12,12,"4,427",-38,-9
+20009,KS,Barton County,7,7,8,8,"25,779",-278,-9.5
+20011,KS,Bourbon County,6,6,4,4,"14,534",-8,-2.5
+20013,KS,Brown County,6,6,6,6,"9,564",-46,-5.2
+20015,KS,Butler County,2,2,2,2,"66,911",78,-0.2
+20017,KS,Chase County,8,9,5,10,"2,648",48,16.8
+20019,KS,Chautauqua County,9,8,10,7,"3,250",-54,-12.8
+20021,KS,Cherokee County,6,6,6,6,"19,939",-96,-2.2
+20023,KS,Cheyenne County,9,9,12,12,"2,657",12,9.8
+20025,KS,Clark County,9,9,10,10,"1,994",0,-0.5
+20027,KS,Clay County,7,6,9,6,"8,002",-1,1.7
+20029,KS,Cloud County,7,7,9,9,"8,786",52,9
+20031,KS,Coffey County,6,6,4,6,"8,179",-53,-8
+20033,KS,Comanche County,9,9,12,12,"1,700",-36,-23.9
+20035,KS,Cowley County,4,4,5,5,"34,908",-241,-6.3
+20037,KS,Crawford County,4,4,5,5,"38,818",-93,-4.7
+20039,KS,Decatur County,9,9,12,12,"2,827",-33,-8.8
+20041,KS,Dickinson County,7,7,9,9,"18,466",-216,-11.6
+20043,KS,Doniphan County,3,3,2,2,"7,600",-58,-7.3
+20045,KS,Douglas County,3,3,2,2,"122,259","1,150",6
+20047,KS,Edwards County,9,9,10,10,"2,798",-22,-9.3
+20049,KS,Elk County,8,8,7,7,"2,530",46,23.1
+20051,KS,Ellis County,5,5,8,8,"28,553",-93,-4.9
+20053,KS,Ellsworth County,7,7,9,9,"6,102",-61,-7.7
+20055,KS,Finney County,5,5,8,8,"36,467",-61,-12.9
+20057,KS,Ford County,5,5,8,8,"33,619",-258,-17.8
+20059,KS,Franklin County,1,6,1,3,"25,544",-81,-5
+20061,KS,Geary County,5,4,8,5,"31,670","-1,107",-54.9
+20063,KS,Gove County,9,9,12,12,"2,636",25,13.3
+20065,KS,Graham County,9,9,12,12,"2,482",7,10.9
+20067,KS,Grant County,7,7,11,9,"7,150",-144,-30.3
+20069,KS,Gray County,9,9,10,10,"5,988",-88,-23.7
+20071,KS,Greeley County,9,9,12,12,"1,232",3,-8.9
+20073,KS,Greenwood County,6,6,6,6,"5,982",-29,-2.3
+20075,KS,Hamilton County,9,9,12,10,"2,539",-61,-28.4
+20077,KS,Harper County,8,8,7,7,"5,436",-72,-6.9
+20079,KS,Harvey County,2,2,2,2,"34,429",246,6.1
+20081,KS,Haskell County,9,9,10,10,"3,968",-22,-12.6
+20083,KS,Hodgeman County,9,9,10,10,"1,794",-28,-11.6
+20085,KS,Jackson County,3,3,2,2,"13,171",-99,-10.7
+20087,KS,Jefferson County,3,3,2,2,"19,043",187,8.7
+20089,KS,Jewell County,9,9,12,12,"2,879",34,13.3
+20091,KS,Johnson County,1,1,1,1,"602,401","4,274",2.1
+20093,KS,Kearny County,9,9,10,8,"3,838",-103,-36.3
+20095,KS,Kingman County,6,2,6,2,"7,152",-68,-6.8
+20097,KS,Kiowa County,9,9,10,10,"2,475",-14,-7.7
+20099,KS,Labette County,7,7,8,8,"19,618",-288,-15.9
+20101,KS,Lane County,9,9,10,12,"1,535",-11,-4.5
+20103,KS,Leavenworth County,1,1,1,1,"81,758",261,-0.5
+20105,KS,Lincoln County,9,9,10,10,"2,962",-36,-7.4
+20107,KS,Linn County,1,1,1,1,"9,703",-68,-3.7
+20109,KS,Logan County,9,9,12,12,"2,794",-18,-14.3
+20111,KS,Lyon County,5,4,8,5,"33,195",-105,-6.6
+20113,KS,McPherson County,6,7,5,8,"28,542",14,1.6
+20115,KS,Marion County,6,6,6,6,"11,884",-39,-0.4
+20117,KS,Marshall County,7,6,9,6,"9,707",-8,-2.7
+20119,KS,Meade County,9,9,10,10,"4,033",-65,-17.5
+20121,KS,Miami County,1,1,1,1,"34,237",500,11.9
+20123,KS,Mitchell County,7,7,11,11,"5,979",-131,-16.7
+20125,KS,Montgomery County,5,5,8,8,"31,829",-262,-7.2
+20127,KS,Morris County,9,8,9,6,"5,620",63,10.4
+20129,KS,Morton County,9,9,10,12,"2,587",-106,-44.7
+20131,KS,Nemaha County,8,6,6,6,"10,231",106,4
+20133,KS,Neosho County,7,7,9,9,"16,007",-18,-1.8
+20135,KS,Ness County,9,9,12,12,"2,750",-46,-8.3
+20137,KS,Norton County,7,7,11,11,"5,361",-58,-8.9
+20139,KS,Osage County,3,3,2,2,"15,949",11,3.2
+20141,KS,Osborne County,9,9,12,12,"3,421",-38,-12.8
+20143,KS,Ottawa County,9,9,8,8,"5,704",-48,-5.4
+20145,KS,Pawnee County,7,7,9,9,"6,414",-159,-24
+20147,KS,Phillips County,7,7,11,11,"5,234",-42,-5.1
+20149,KS,Pottawatomie County,6,3,5,2,"24,383",174,0.9
+20151,KS,Pratt County,7,7,11,11,"9,164",-176,-20
+20153,KS,Rawlins County,9,9,12,12,"2,530",28,6.8
+20155,KS,Reno County,4,4,5,5,"61,998",-333,-4.9
+20157,KS,Republic County,9,9,12,12,"4,636",-16,-2.8
+20159,KS,Rice County,7,7,9,9,"9,537",54,4.9
+20161,KS,Riley County,5,3,8,2,"74,232",-480,-13.2
+20163,KS,Rooks County,9,9,10,10,"4,920",-75,-11.1
+20165,KS,Rush County,9,9,10,10,"3,036",-20,-7.2
+20167,KS,Russell County,7,7,9,9,"6,856",-46,-3.2
+20169,KS,Saline County,5,5,8,8,"54,224",-163,-6.3
+20171,KS,Scott County,7,7,9,9,"4,823",-86,-17.5
+20173,KS,Sedgwick County,2,2,2,2,"516,042","2,558",0.7
+20175,KS,Seward County,7,5,8,8,"21,428",-474,-35.6
+20177,KS,Shawnee County,3,3,2,2,"176,875",-415,-3.5
+20179,KS,Sheridan County,9,9,12,12,"2,521",-1,-4.8
+20181,KS,Sherman County,7,7,11,11,"5,917",0,0.7
+20183,KS,Smith County,9,9,12,12,"3,583",-7,-2.8
+20185,KS,Stafford County,9,9,10,10,"4,156",-6,-2.2
+20187,KS,Stanton County,9,9,12,12,"2,006",-19,-14.9
+20189,KS,Stevens County,7,7,9,9,"5,485",-51,-15.1
+20191,KS,Sumner County,2,2,2,2,"22,836",-183,-7.9
+20193,KS,Thomas County,7,7,11,11,"7,777",67,1.3
+20195,KS,Trego County,9,9,10,10,"2,803",6,10
+20197,KS,Wabaunsee County,3,3,2,2,"6,931",19,-0.7
+20199,KS,Wallace County,9,9,12,12,"1,518",29,14
+20201,KS,Washington County,9,9,10,12,"5,406",-44,-5.7
+20203,KS,Wichita County,9,9,12,12,"2,119",7,-3.3
+20205,KS,Wilson County,7,7,9,10,"8,525",-141,-16.3
+20207,KS,Woodson County,9,9,12,12,"3,138",-46,-12.7
+20209,KS,Wyandotte County,1,1,1,1,"165,429",108,-5.7
+21000,KY,Kentucky,,,,,"4,467,673","6,520",-0.2
+21001,KY,Adair County,7,7,9,9,"19,202",3,1.9
+21003,KY,Allen County,6,3,6,2,"21,315",193,9.2
+21005,KY,Anderson County,6,6,5,3,"22,747",106,2.9
+21007,KY,Ballard County,9,9,8,8,"7,888",-104,-10.3
+21009,KY,Barren County,6,6,5,5,"44,249",134,2.2
+21011,KY,Bath County,8,8,5,5,"12,500",56,1.9
+21013,KY,Bell County,7,7,8,8,"26,032",-455,-15
+21015,KY,Boone County,1,1,1,1,"133,581","1,680",7.1
+21017,KY,Bourbon County,2,2,2,2,"19,788",-328,-15.1
+21019,KY,Boyd County,2,2,2,2,"46,718",-574,-10
+21021,KY,Boyle County,7,7,8,8,"30,060",-22,-0.5
+21023,KY,Bracken County,1,1,1,1,"8,303",25,3.6
+21025,KY,Breathitt County,7,7,12,12,"12,630",-157,-8.9
+21027,KY,Breckinridge County,8,8,7,7,"20,477",168,7.5
+21029,KY,Bullitt County,1,1,1,1,"81,676",667,6.7
+21031,KY,Butler County,8,3,6,2,"12,879",136,9.8
+21033,KY,Caldwell County,6,7,6,9,"12,747",31,4.5
+21035,KY,Calloway County,7,7,8,8,"39,001",37,2.2
+21037,KY,Campbell County,1,1,1,1,"93,584",120,-1.4
+21039,KY,Carlisle County,9,9,10,10,"4,760",21,3.6
+21041,KY,Carroll County,6,6,4,4,"10,631",-81,-9.2
+21043,KY,Carter County,6,6,6,6,"26,797",-243,-8.1
+21045,KY,Casey County,9,9,10,10,"16,159",233,15.7
+21047,KY,Christian County,3,2,2,2,"70,461",-251,-15.4
+21049,KY,Clark County,2,2,2,2,"36,263",83,2
+21051,KY,Clay County,7,7,10,10,"19,901",-187,-9.1
+21053,KY,Clinton County,9,9,12,12,"10,218",66,5.2
+21055,KY,Crittenden County,6,7,6,9,"8,806",-90,-7.9
+21057,KY,Cumberland County,9,9,10,10,"6,614",-79,-6.2
+21059,KY,Daviess County,3,3,2,2,"101,511",628,3.7
+21061,KY,Edmonson County,3,3,2,2,"12,150",-99,-5.2
+21063,KY,Elliott County,9,9,12,12,"7,517",18,2.7
+21065,KY,Estill County,6,6,6,6,"14,106",-44,0.4
+21067,KY,Fayette County,2,2,2,2,"323,152",726,-2.2
+21069,KY,Fleming County,7,7,9,9,"14,581",96,4.1
+21071,KY,Floyd County,7,7,11,11,"35,589",-307,-5.6
+21073,KY,Franklin County,4,4,5,3,"50,991",190,2.5
+21075,KY,Fulton County,7,9,8,8,"5,969",-97,-10.3
+21077,KY,Gallatin County,1,1,1,1,"8,869",103,8.5
+21079,KY,Garrard County,6,6,6,6,"17,666",147,8.1
+21081,KY,Grant County,1,1,1,1,"25,069",4,-4.4
+21083,KY,Graves County,7,7,8,8,"37,266",-53,-3.4
+21085,KY,Grayson County,6,6,6,6,"26,427",134,5.7
+21087,KY,Green County,8,8,7,7,"10,941",-57,-2.4
+21089,KY,Greenup County,2,2,2,2,"35,098",-234,-3.3
+21091,KY,Hancock County,3,3,2,2,"8,722",-16,-5.4
+21093,KY,Hardin County,3,3,2,2,"110,958",679,1.9
+21095,KY,Harlan County,7,7,9,10,"26,010",-299,-7.5
+21097,KY,Harrison County,6,6,6,4,"18,886",106,4.9
+21099,KY,Hart County,8,8,7,7,"19,035",133,2.5
+21101,KY,Henderson County,2,2,2,2,"45,210",-302,-6.7
+21103,KY,Henry County,1,1,1,1,"16,126",65,3.2
+21105,KY,Hickman County,9,9,10,10,"4,380",-51,-5.4
+21107,KY,Hopkins County,4,5,5,8,"44,686",-338,-7.1
+21109,KY,Jackson County,9,9,10,10,"13,329",-74,-4.6
+21111,KY,Jefferson County,1,1,1,1,"766,757","-1,344",-4.1
+21113,KY,Jessamine County,2,2,2,2,"54,115",358,3
+21115,KY,Johnson County,7,7,11,11,"22,188",-203,-6.4
+21117,KY,Kenton County,1,1,1,1,"166,998",706,-0.1
+21119,KY,Knott County,9,9,12,12,"14,806",-270,-13.9
+21121,KY,Knox County,7,7,9,8,"31,145",-155,-3.8
+21123,KY,Larue County,3,3,2,2,"14,398",99,5.8
+21125,KY,Laurel County,7,5,8,8,"60,813",153,1.7
+21127,KY,Lawrence County,6,6,7,7,"15,317",-266,-13.9
+21129,KY,Lee County,9,9,12,12,"7,403",351,51.6
+21131,KY,Leslie County,9,9,12,10,"9,877",-274,-20.7
+21133,KY,Letcher County,9,9,12,10,"21,553",-260,-8.5
+21135,KY,Lewis County,8,8,5,7,"13,275",7,0.7
+21137,KY,Lincoln County,7,7,8,8,"24,549",-63,-4.3
+21139,KY,Livingston County,9,9,8,8,"9,194",-50,-2.3
+21141,KY,Logan County,6,6,6,6,"27,102",119,2.5
+21143,KY,Lyon County,8,9,7,9,"8,210",39,14.3
+21145,KY,McCracken County,5,5,8,8,"65,418",111,3.1
+21147,KY,McCreary County,9,9,10,10,"17,231",-59,-3.4
+21149,KY,McLean County,3,3,2,2,"9,207",-51,-4.8
+21151,KY,Madison County,4,4,5,5,"92,987",880,7.2
+21153,KY,Magoffin County,9,9,12,12,"12,161",-162,-9.8
+21155,KY,Marion County,6,7,4,9,"19,273",-53,-4.8
+21157,KY,Marshall County,7,7,9,9,"31,100",-102,1.2
+21159,KY,Martin County,8,9,7,12,"11,195",-130,-7.3
+21161,KY,Mason County,6,6,3,3,"17,070",-10,-1.5
+21163,KY,Meade County,1,3,1,2,"28,572",-51,-2.4
+21165,KY,Menifee County,9,9,8,8,"6,489",52,12.7
+21167,KY,Mercer County,6,6,6,6,"21,933",231,12.9
+21169,KY,Metcalfe County,9,9,8,8,"10,071",1,1.6
+21171,KY,Monroe County,9,8,9,7,"10,650",-82,-7.9
+21173,KY,Montgomery County,6,6,5,5,"28,157",48,-0.3
+21175,KY,Morgan County,7,9,9,11,"13,309",-63,-0.7
+21177,KY,Muhlenberg County,6,6,5,6,"30,622",-189,-4.4
+21179,KY,Nelson County,1,6,1,3,"46,233",420,6.2
+21181,KY,Nicholas County,8,8,7,7,"7,269",74,11.9
+21183,KY,Ohio County,6,6,6,6,"23,994",-70,-3.2
+21185,KY,Oldham County,1,1,1,1,"66,799",287,1.5
+21187,KY,Owen County,8,8,4,4,"10,901",20,1.8
+21189,KY,Owsley County,9,9,12,12,"4,415",-59,-12.4
+21191,KY,Pendleton County,1,1,1,1,"14,590",2,-0.8
+21193,KY,Perry County,7,7,11,11,"25,758",-450,-14
+21195,KY,Pike County,7,7,11,11,"57,876",-616,-6.7
+21197,KY,Powell County,6,6,6,6,"12,359",-12,-0.4
+21199,KY,Pulaski County,5,5,8,8,"64,979",395,6.7
+21201,KY,Robertson County,8,8,4,4,"2,108",-22,-10.4
+21203,KY,Rockcastle County,7,7,8,8,"16,695",-128,-2.9
+21205,KY,Rowan County,7,7,9,9,"24,460",-43,-3.9
+21207,KY,Russell County,9,9,10,10,"17,923",133,8.7
+21209,KY,Scott County,2,2,2,2,"57,004","1,036",13.6
+21211,KY,Shelby County,1,1,1,1,"49,024",965,16.5
+21213,KY,Simpson County,6,6,6,4,"18,572",169,6.5
+21215,KY,Spencer County,1,1,1,1,"19,351",330,14.2
+21217,KY,Taylor County,7,7,8,8,"25,769",255,9.1
+21219,KY,Todd County,8,8,7,7,"12,294",-12,-4.6
+21221,KY,Trigg County,3,2,2,2,"14,651",-7,0.2
+21223,KY,Trimble County,1,1,1,1,"8,471",3,1.8
+21225,KY,Union County,6,6,6,6,"14,381",-90,-5.6
+21227,KY,Warren County,3,3,2,2,"132,896","2,146",10.8
+21229,KY,Washington County,8,9,4,9,"12,095",72,4.8
+21231,KY,Wayne County,7,7,9,9,"20,333",-97,-5.2
+21233,KY,Webster County,2,8,2,6,"12,942",-109,-11
+21235,KY,Whitley County,7,7,8,8,"36,264",163,3
+21237,KY,Wolfe County,9,9,12,12,"7,157",-42,-3.9
+21239,KY,Woodford County,2,2,2,2,"26,734",243,7.4
+22000,LA,Louisiana,,,,,"4,648,794","-10,896",-4.9
+22001,LA,Acadia Parish,4,2,5,2,"62,045",-169,-4.7
+22003,LA,Allen Parish,6,6,6,6,"25,627",60,-0.5
+22005,LA,Ascension Parish,2,2,2,2,"126,604","1,746",7.9
+22007,LA,Assumption Parish,6,6,5,4,"21,891",-388,-17.9
+22009,LA,Avoyelles Parish,6,6,6,6,"40,144",-258,-7.8
+22011,LA,Beauregard Parish,6,6,5,5,"37,497",128,0.3
+22013,LA,Bienville Parish,6,6,6,6,"13,241",-102,-2.7
+22015,LA,Bossier Parish,2,2,2,2,"127,039",17,-3.4
+22017,LA,Caddo Parish,2,2,2,2,"240,204","-2,629",-12.1
+22019,LA,Calcasieu Parish,3,3,2,2,"203,436",259,-2.9
+22021,LA,Caldwell Parish,8,8,7,7,"9,918",-46,-4.7
+22023,LA,Cameron Parish,3,3,2,2,"6,973",-40,-8.7
+22025,LA,Catahoula Parish,9,9,10,10,"9,494",-112,-10.8
+22027,LA,Claiborne Parish,7,6,9,6,"15,670",-225,-10.1
+22029,LA,Concordia Parish,7,7,8,8,"19,259",-327,-17.7
+22031,LA,De Soto Parish,2,2,2,2,"27,463",37,0.4
+22033,LA,East Baton Rouge Parish,2,2,2,2,"440,059","-1,999",-8.7
+22035,LA,East Carroll Parish,7,7,9,11,"6,861",-133,-21.5
+22037,LA,East Feliciana Parish,2,2,2,2,"19,135",-151,-5.9
+22039,LA,Evangeline Parish,6,6,6,6,"33,395",-101,-4.7
+22041,LA,Franklin Parish,7,7,11,11,"20,015",-149,-7.1
+22043,LA,Grant Parish,3,3,2,2,"22,389",-47,-4.1
+22045,LA,Iberia Parish,4,2,5,2,"69,830","-1,075",-17.3
+22047,LA,Iberville Parish,2,2,2,2,"32,511",-182,-6.7
+22049,LA,Jackson Parish,6,6,5,6,"15,744",-168,-6.8
+22051,LA,Jefferson Parish,1,1,1,1,"432,493","-1,391",-6
+22053,LA,Jefferson Davis Parish,6,6,5,6,"31,368",-169,-4.5
+22055,LA,Lafayette Parish,3,2,2,2,"244,390","1,277",0.3
+22057,LA,Lafourche Parish,3,3,2,2,"97,614",-367,-6.2
+22059,LA,LaSalle Parish,6,6,6,6,"14,892",-9,-0.7
+22061,LA,Lincoln Parish,4,4,5,5,"46,742",-370,-10
+22063,LA,Livingston Parish,2,2,2,2,"140,789","1,395",5.5
+22065,LA,Madison Parish,7,7,8,9,"10,951",-245,-22.3
+22067,LA,Morehouse Parish,6,6,5,5,"24,874",-450,-17.3
+22069,LA,Natchitoches Parish,6,6,5,5,"38,158",-458,-13.8
+22071,LA,Orleans Parish,1,1,1,1,"390,144",-860,-4.1
+22073,LA,Ouachita Parish,3,3,2,2,"153,279","-1,292",-11
+22075,LA,Plaquemines Parish,1,1,1,1,"23,197",-188,-11.4
+22077,LA,Pointe Coupee Parish,2,2,2,2,"21,730",-149,-6
+22079,LA,Rapides Parish,3,3,2,2,"129,648",-678,-6.8
+22081,LA,Red River Parish,6,8,7,7,"8,442",-84,-8.3
+22083,LA,Richland Parish,6,6,6,6,"20,122",-101,-5.2
+22085,LA,Sabine Parish,6,6,6,6,"23,884",-17,-1.8
+22087,LA,St. Bernard Parish,1,1,1,1,"47,244",464,4.9
+22089,LA,St. Charles Parish,1,1,1,1,"53,100",325,3.9
+22091,LA,St. Helena Parish,2,2,2,2,"10,132",-55,-4.7
+22093,LA,St. James Parish,6,1,4,1,"21,096",-55,-5.1
+22095,LA,St. John the Baptist Parish,1,1,1,1,"42,837",-282,-9.3
+22097,LA,St. Landry Parish,4,4,5,5,"82,124",-658,-9.1
+22099,LA,St. Martin Parish,3,2,2,2,"53,431",-131,-4.7
+22101,LA,St. Mary Parish,4,4,5,5,"49,348",-493,-11.8
+22103,LA,St. Tammany Parish,1,1,1,1,"260,419","2,384",7.7
+22105,LA,Tangipahoa Parish,4,3,3,2,"134,758",921,2.6
+22107,LA,Tensas Parish,9,9,10,10,"4,334",-136,-29.1
+22109,LA,Terrebonne Parish,3,3,2,2,"110,461",-702,-9.5
+22111,LA,Union Parish,3,3,2,2,"22,108",-135,-5.2
+22113,LA,Vermilion Parish,4,2,5,2,"59,511",-375,-8.4
+22115,LA,Vernon Parish,4,5,5,8,"47,429",-672,-23.7
+22117,LA,Washington Parish,6,6,3,3,"46,194",-394,-7.7
+22119,LA,Webster Parish,6,2,5,2,"38,340",-452,-9.6
+22121,LA,West Baton Rouge Parish,2,2,2,2,"26,465",65,-2.3
+22123,LA,West Carroll Parish,9,9,10,10,"10,830",-147,-8.3
+22125,LA,West Feliciana Parish,2,2,2,2,"15,568",76,4.7
+22127,LA,Winn Parish,6,6,6,6,"13,904",-234,-12.2
+23000,ME,Maine,,,,,"1,344,212","5,155",5.6
+23001,ME,Androscoggin County,3,3,2,2,"108,277",363,2.2
+23003,ME,Aroostook County,7,7,11,11,"67,055",-263,-0.1
+23005,ME,Cumberland County,2,2,2,2,"295,003","1,330",4.5
+23007,ME,Franklin County,6,6,6,6,"30,199",284,13
+23009,ME,Hancock County,6,6,6,6,"54,987",253,8.6
+23011,ME,Kennebec County,4,4,5,5,"122,302",258,4.4
+23013,ME,Knox County,7,7,8,11,"39,772",55,5.1
+23015,ME,Lincoln County,8,8,7,7,"34,634",235,10.3
+23017,ME,Oxford County,6,6,6,6,"57,975",221,7.9
+23019,ME,Penobscot County,3,3,2,2,"152,148",331,3.6
+23021,ME,Piscataquis County,8,8,6,6,"16,785",39,8.6
+23023,ME,Sagadahoc County,2,2,2,2,"35,856",166,7.2
+23025,ME,Somerset County,6,6,6,6,"50,484",-5,1.6
+23027,ME,Waldo County,6,6,6,6,"39,715",58,4.4
+23029,ME,Washington County,7,7,11,11,"31,379",58,6.9
+23031,ME,York County,2,2,2,2,"207,641","1,772",9.9
+24000,MD,Maryland,,,,,"6,045,680","9,878",-1.4
+24001,MD,Allegany County,3,3,2,2,"70,416",-525,-4.1
+24003,MD,Anne Arundel County,1,1,1,1,"579,234","3,711",2.8
+24005,MD,Baltimore County,1,1,1,1,"827,370",-489,-1.8
+24009,MD,Calvert County,1,1,1,1,"92,525",460,3.2
+24011,MD,Caroline County,6,6,4,4,"33,406",100,1.6
+24013,MD,Carroll County,1,1,1,1,"168,447",180,0.8
+24015,MD,Cecil County,1,1,1,1,"102,855",211,0.9
+24017,MD,Charles County,1,1,1,1,"163,257","1,781",6.8
+24019,MD,Dorchester County,6,6,5,5,"31,929",-31,0.8
+24021,MD,Frederick County,1,1,1,1,"259,547","4,604",14
+24023,MD,Garrett County,6,6,7,7,"29,014",-119,-1.1
+24025,MD,Harford County,1,1,1,1,"255,441","1,559",4.8
+24027,MD,Howard County,1,1,1,1,"325,690","3,069",4.6
+24029,MD,Kent County,6,6,4,4,"19,422",-12,6.8
+24031,MD,Montgomery County,1,1,1,1,"1,050,688","2,210",-3.5
+24033,MD,Prince George's County,1,1,1,1,"909,327",-292,-6
+24035,MD,Queen Anne's County,1,1,1,1,"50,381",233,3.3
+24037,MD,St. Mary's County,4,3,3,2,"113,510",790,3.1
+24039,MD,Somerset County,3,2,2,2,"25,616",10,2.8
+24041,MD,Talbot County,6,6,3,3,"37,181",107,6.8
+24043,MD,Washington County,3,2,2,2,"151,049",393,2.5
+24045,MD,Wicomico County,3,2,2,2,"103,609",565,3.6
+24047,MD,Worcester County,4,2,5,2,"52,276",316,11.4
+24510,MD,Baltimore city,1,1,1,1,"593,490","-8,953",-16.1
+25000,MA,Massachusetts,,,,,"6,892,503","9,868",-0.3
+25001,MA,Barnstable County,3,3,2,2,"212,990",-481,4.4
+25003,MA,Berkshire County,3,3,2,2,"124,944",-957,-3.9
+25005,MA,Bristol County,1,1,1,1,"565,217","1,125",1.5
+25007,MA,Dukes County,7,7,12,8,"17,332",3,-1.2
+25009,MA,Essex County,1,1,1,1,"789,034",851,-1
+25011,MA,Franklin County,2,4,2,5,"70,180",-431,-3.6
+25013,MA,Hampden County,2,2,2,2,"466,372","-2,016",-5.2
+25015,MA,Hampshire County,2,2,2,2,"160,830",-309,0.1
+25017,MA,Middlesex County,1,1,1,1,"1,611,699","3,229",-1
+25019,MA,Nantucket County,7,7,11,11,"11,399",201,10.4
+25021,MA,Norfolk County,1,1,1,1,"706,775","3,545",3.3
+25023,MA,Plymouth County,1,1,1,1,"521,202","2,780",4.6
+25025,MA,Suffolk County,1,1,1,1,"803,907",760,-4
+25027,MA,Worcester County,2,2,2,2,"830,622","1,568",0.5
+26000,MI,Michigan,,,,,"9,986,857","2,785",-1.1
+26001,MI,Alcona County,9,9,10,10,"10,405",45,14.7
+26003,MI,Alger County,9,7,9,10,"9,108",-10,4.4
+26005,MI,Allegan County,4,4,5,5,"118,081",908,4.7
+26007,MI,Alpena County,7,7,8,8,"28,405",21,3
+26009,MI,Antrim County,9,9,10,10,"23,324",1,5.2
+26011,MI,Arenac County,8,8,7,7,"14,883",-125,-1.9
+26013,MI,Baraga County,9,9,10,10,"8,209",-115,-7.1
+26015,MI,Barry County,2,2,2,2,"61,550",319,4.5
+26017,MI,Bay County,3,3,2,2,"103,126",-576,-3.8
+26019,MI,Benzie County,9,9,8,8,"17,766",5,3.7
+26021,MI,Berrien County,3,3,2,2,"153,401",-389,-2.6
+26023,MI,Branch County,6,6,5,5,"43,517",-49,-3.3
+26025,MI,Calhoun County,3,3,2,2,"134,159",110,0.1
+26027,MI,Cass County,2,2,2,2,"51,787",62,1.9
+26029,MI,Charlevoix County,7,7,11,11,"26,143",-44,1.2
+26031,MI,Cheboygan County,7,7,11,11,"25,276",-228,-3
+26033,MI,Chippewa County,5,7,8,8,"37,349",-112,-1.4
+26035,MI,Clare County,7,6,9,6,"30,950",215,9.5
+26037,MI,Clinton County,2,2,2,2,"79,595",376,2.5
+26039,MI,Crawford County,7,7,12,12,"14,029",124,11.6
+26041,MI,Delta County,5,5,8,8,"35,784",-59,1
+26043,MI,Dickinson County,5,7,8,8,"25,239",-132,-2.5
+26045,MI,Eaton County,2,2,2,2,"110,268",558,4.6
+26047,MI,Emmet County,7,7,11,11,"33,415",190,6.4
+26049,MI,Genesee County,2,2,2,2,"405,813",-875,-2.2
+26051,MI,Gladwin County,6,6,6,6,"25,449",123,10.2
+26053,MI,Gogebic County,7,7,11,11,"13,975","-1,141",-73.6
+26055,MI,Grand Traverse County,5,5,8,8,"93,088",558,5.6
+26057,MI,Gratiot County,6,6,5,5,"40,711",109,4.1
+26059,MI,Hillsdale County,6,6,6,5,"45,605",-97,-2.8
+26061,MI,Houghton County,5,5,8,8,"35,684",-259,-7.6
+26063,MI,Huron County,7,7,11,11,"30,981",-230,-3
+26065,MI,Ingham County,2,2,2,2,"292,406",794,-0.5
+26067,MI,Ionia County,2,4,2,5,"64,697",421,4.1
+26069,MI,Iosco County,7,7,11,11,"25,127",24,7.1
+26071,MI,Iron County,7,7,10,9,"11,066",-38,4.3
+26073,MI,Isabella County,5,4,8,5,"69,872",-591,-11.4
+26075,MI,Jackson County,3,3,2,2,"158,510",-56,-1.1
+26077,MI,Kalamazoo County,2,2,2,2,"265,066",386,-1.6
+26079,MI,Kalkaska County,7,7,8,8,"18,038",232,12.9
+26081,MI,Kent County,2,2,2,2,"656,955","3,605",-0.3
+26083,MI,Keweenaw County,9,9,8,8,"2,116",26,18.5
+26085,MI,Lake County,8,9,7,10,"11,853",-23,2.2
+26087,MI,Lapeer County,1,1,1,1,"87,607",-314,-2
+26089,MI,Leelanau County,9,9,8,8,"21,761",47,4.4
+26091,MI,Lenawee County,4,4,5,5,"98,451",310,3.8
+26093,MI,Livingston County,1,1,1,1,"191,995",805,3.5
+26095,MI,Luce County,7,7,9,10,"6,229",-98,-11.6
+26097,MI,Mackinac County,7,7,9,10,"10,799",18,6.3
+26099,MI,Macomb County,1,1,1,1,"873,972","1,177",0.7
+26101,MI,Manistee County,7,7,9,9,"24,558",103,8
+26103,MI,Marquette County,5,5,8,8,"66,699",318,6.4
+26105,MI,Mason County,7,7,11,8,"29,144",60,2.9
+26107,MI,Mecosta County,6,6,5,5,"43,453",53,0.3
+26109,MI,Menominee County,7,7,8,8,"22,780",-147,-3.4
+26111,MI,Midland County,4,3,5,2,"83,156",-67,-2.1
+26113,MI,Missaukee County,9,9,8,8,"15,118",17,-0.9
+26115,MI,Monroe County,3,3,2,2,"150,500",326,2.4
+26117,MI,Montcalm County,6,2,6,2,"63,888",-48,-2.5
+26119,MI,Montmorency County,9,9,10,10,"9,328",53,16.7
+26121,MI,Muskegon County,3,3,2,2,"173,566",-33,-1.9
+26123,MI,Newaygo County,2,6,2,6,"48,980",141,2.8
+26125,MI,Oakland County,1,1,1,1,"1,257,584",890,-0.9
+26127,MI,Oceana County,8,6,7,7,"26,467",-88,-2.9
+26129,MI,Ogemaw County,9,9,11,11,"20,997",115,9.7
+26131,MI,Ontonagon County,9,9,10,10,"5,720",-81,-0.5
+26133,MI,Osceola County,7,9,10,10,"23,460",83,3.1
+26135,MI,Oscoda County,9,9,12,12,"8,241",17,7.2
+26137,MI,Otsego County,7,7,11,11,"24,668",27,2.5
+26139,MI,Ottawa County,3,2,2,2,"291,830","2,022",2.5
+26141,MI,Presque Isle County,7,7,9,9,"12,592",-106,-1.9
+26143,MI,Roscommon County,7,7,11,11,"24,019",207,17.6
+26145,MI,Saginaw County,3,3,2,2,"190,539",-252,-1.6
+26147,MI,St. Clair County,1,1,1,1,"159,128",97,2.7
+26149,MI,St. Joseph County,4,4,5,5,"60,964",52,-1.5
+26151,MI,Sanilac County,6,6,4,4,"41,170",-22,1.1
+26153,MI,Schoolcraft County,7,7,9,9,"8,094",50,11.5
+26155,MI,Shiawassee County,4,4,5,3,"68,122",-11,0.7
+26157,MI,Tuscola County,6,6,6,4,"52,245",-388,-5.2
+26159,MI,Van Buren County,2,2,2,2,"75,677",196,1.8
+26161,MI,Washtenaw County,2,2,2,2,"367,601","-1,882",-8
+26163,MI,Wayne County,1,1,1,1,"1,749,343","-5,110",-5.4
+26165,MI,Wexford County,7,7,8,8,"33,631",185,4.9
+27000,MN,Minnesota,,,,,"5,639,632","33,383",1.6
+27001,MN,Aitkin County,8,8,7,4,"15,886",-1,5.2
+27003,MN,Anoka County,1,1,1,1,"356,921","3,480",4.1
+27005,MN,Becker County,6,6,6,6,"34,423",34,-0.1
+27007,MN,Beltrami County,7,7,8,8,"47,188",453,5.3
+27009,MN,Benton County,3,3,2,2,"40,889",379,4.3
+27011,MN,Big Stone County,9,9,12,12,"4,991",1,0.4
+27013,MN,Blue Earth County,5,3,8,2,"67,653",275,0.5
+27015,MN,Brown County,7,6,8,5,"25,008",-117,-4.7
+27017,MN,Carlton County,2,2,2,2,"35,871",49,1.5
+27019,MN,Carver County,1,1,1,1,"105,089","1,556",9.1
+27021,MN,Cass County,9,9,8,8,"29,779",268,10.5
+27023,MN,Chippewa County,7,7,9,9,"11,800",-101,-10.7
+27025,MN,Chisago County,1,1,1,1,"56,579",607,7.3
+27027,MN,Clay County,3,3,2,2,"64,222",205,-3
+27029,MN,Clearwater County,8,8,7,7,"8,818",3,-3.7
+27031,MN,Cook County,9,9,12,12,"5,463",38,5.9
+27033,MN,Cottonwood County,7,7,9,9,"11,196",-63,-6.5
+27035,MN,Crow Wing County,5,4,8,3,"65,055",261,4.6
+27037,MN,Dakota County,1,1,1,1,"429,021","3,981",3.7
+27039,MN,Dodge County,3,3,2,2,"20,934",167,3.5
+27041,MN,Douglas County,7,6,8,5,"38,141",181,5
+27043,MN,Faribault County,7,6,9,6,"13,653",-83,-5.2
+27045,MN,Fillmore County,8,3,6,2,"21,067",23,0.2
+27047,MN,Freeborn County,7,7,8,8,"30,281",-199,-5.3
+27049,MN,Goodhue County,4,4,3,3,"46,340",41,-0.2
+27051,MN,Grant County,9,9,10,10,"5,972",-17,-2.2
+27053,MN,Hennepin County,1,1,1,1,"1,265,843","7,918",0.6
+27055,MN,Houston County,3,3,2,2,"18,600",28,1.2
+27057,MN,Hubbard County,7,7,9,9,"21,491",200,8.6
+27059,MN,Isanti County,1,1,1,1,"40,596",646,13
+27061,MN,Itasca County,6,6,6,6,"45,130",79,3.2
+27063,MN,Jackson County,7,7,9,9,"9,846",-49,-3.8
+27065,MN,Kanabec County,6,6,4,4,"16,337",91,3.3
+27067,MN,Kandiyohi County,4,4,5,5,"43,199",289,2.2
+27069,MN,Kittson County,9,9,12,12,"4,298",30,4
+27071,MN,Koochiching County,7,6,11,6,"12,229",-202,-12.2
+27073,MN,Lac qui Parle County,9,9,12,12,"6,623",-41,-0.2
+27075,MN,Lake County,6,6,6,6,"10,641",31,5.9
+27077,MN,Lake of the Woods County,9,9,12,12,"3,740",3,3.2
+27079,MN,Le Sueur County,6,1,4,1,"28,887",299,6.2
+27081,MN,Lincoln County,9,9,10,10,"5,639",-29,-4.2
+27083,MN,Lyon County,7,7,8,8,"25,474",-109,-8.8
+27085,MN,McLeod County,6,6,3,3,"35,893",66,0.6
+27087,MN,Mahnomen County,8,8,7,7,"5,527",30,0.4
+27089,MN,Marshall County,8,8,7,7,"9,336",-47,-7.2
+27091,MN,Martin County,7,7,8,11,"19,683",-89,-4.9
+27093,MN,Meeker County,6,6,4,4,"23,222",77,1.1
+27095,MN,Mille Lacs County,6,1,4,1,"26,277",177,4.8
+27097,MN,Morrison County,6,6,6,4,"33,386",228,7.6
+27099,MN,Mower County,4,4,5,5,"40,062",-80,-6.1
+27101,MN,Murray County,9,9,10,10,"8,194",-60,-7.7
+27103,MN,Nicollet County,5,3,8,2,"34,274",75,-0.6
+27105,MN,Nobles County,7,7,8,8,"21,629",-115,-14.4
+27107,MN,Norman County,8,8,7,7,"6,375",-104,-14.8
+27109,MN,Olmsted County,3,3,2,2,"158,293","1,935",6.1
+27111,MN,Otter Tail County,6,6,5,5,"58,746",76,2
+27113,MN,Pennington County,6,6,6,6,"14,119",-54,-6.3
+27115,MN,Pine County,6,6,4,4,"29,579",111,4.7
+27117,MN,Pipestone County,6,6,6,6,"9,126",-1,-2.2
+27119,MN,Polk County,3,3,2,2,"31,364",-47,-3.9
+27121,MN,Pope County,8,8,6,6,"11,249",154,14
+27123,MN,Ramsey County,1,1,1,1,"550,321","1,449",-3.4
+27125,MN,Red Lake County,8,8,7,7,"4,055",63,12.2
+27127,MN,Redwood County,7,7,9,9,"15,170",-82,-7.5
+27129,MN,Renville County,9,8,9,4,"14,548",-61,-5.6
+27131,MN,Rice County,4,4,3,3,"66,972",406,2.3
+27133,MN,Rock County,6,6,6,6,"9,315",-86,-10.3
+27135,MN,Roseau County,7,7,11,11,"15,165",7,-2.5
+27137,MN,St. Louis County,2,2,2,2,"199,070",-615,-2
+27139,MN,Scott County,1,1,1,1,"149,013","1,822",5
+27141,MN,Sherburne County,1,1,1,1,"97,238","1,281",6.2
+27143,MN,Sibley County,8,1,4,1,"14,865",-132,-11.3
+27145,MN,Stearns County,3,3,2,2,"161,075","1,419",2.7
+27147,MN,Steele County,5,5,8,8,"36,649",-89,-4.7
+27149,MN,Stevens County,7,7,11,11,"9,805",53,0.1
+27151,MN,Swift County,7,7,9,9,"9,266",-57,-7.5
+27153,MN,Todd County,6,6,6,6,"24,664",94,-0.9
+27155,MN,Traverse County,9,9,10,12,"3,259",-32,-10.1
+27157,MN,Wabasha County,3,3,2,2,"21,627",-18,-3.1
+27159,MN,Wadena County,7,7,9,9,"13,682",-41,-3.5
+27161,MN,Waseca County,7,6,9,4,"18,612",-52,-5.7
+27163,MN,Washington County,1,1,1,1,"262,440","3,541",9.8
+27165,MN,Watonwan County,7,6,9,6,"10,897",-110,-14.6
+27167,MN,Wilkin County,6,6,5,5,"6,207",-37,-4.5
+27169,MN,Winona County,4,4,5,5,"50,484",-251,-5.3
+27171,MN,Wright County,1,1,1,1,"138,377","2,064",8.5
+27173,MN,Yellow Medicine County,9,9,9,9,"9,709",-90,-10.5
+28000,MS,Mississippi,,,,,"2,976,149","-4,871",-3.1
+28001,MS,Adams County,5,5,8,8,"30,693",-351,-8.5
+28003,MS,Alcorn County,7,7,8,8,"36,953",143,5.2
+28005,MS,Amite County,8,8,5,5,"12,297",-30,-0.7
+28007,MS,Attala County,6,6,6,6,"18,174",-154,-7.7
+28009,MS,Benton County,8,1,4,1,"8,259",16,2.4
+28011,MS,Bolivar County,5,7,8,8,"30,628",-487,-16.1
+28013,MS,Calhoun County,7,9,10,10,"14,361",-71,-4.7
+28015,MS,Carroll County,9,9,8,8,"9,947",27,4.4
+28017,MS,Chickasaw County,7,7,9,9,"17,103",3,-1.5
+28019,MS,Choctaw County,9,9,10,10,"8,210",-55,-3.3
+28021,MS,Claiborne County,6,8,7,5,"8,988",-84,-10.7
+28023,MS,Clarke County,9,9,8,8,"15,541",-44,-2.6
+28025,MS,Clay County,7,7,9,9,"19,316",-88,-3.4
+28027,MS,Coahoma County,5,7,8,8,"22,124",-481,-24.8
+28029,MS,Copiah County,2,2,2,2,"28,065",-335,-12.9
+28031,MS,Covington County,8,8,6,6,"18,636",-189,-10.5
+28033,MS,DeSoto County,1,1,1,1,"184,945","3,013",12.7
+28035,MS,Forrest County,3,3,2,2,"74,897",-15,-3.3
+28037,MS,Franklin County,9,9,10,10,"7,713",-45,-5.2
+28039,MS,George County,3,6,2,6,"24,500",390,12
+28041,MS,Greene County,8,8,7,7,"13,586",-410,-31.3
+28043,MS,Grenada County,7,7,8,8,"20,758",-226,-8.9
+28045,MS,Hancock County,3,2,2,2,"47,632",354,7.8
+28047,MS,Harrison County,3,2,2,2,"208,080","1,796",5.8
+28049,MS,Hinds County,2,2,2,2,"231,840","-3,984",-20.7
+28051,MS,Holmes County,6,6,6,6,"17,010",-434,-25
+28053,MS,Humphreys County,7,6,9,7,"8,064",-192,-21.6
+28055,MS,Issaquena County,9,8,10,7,"1,327",20,19.7
+28057,MS,Itawamba County,7,7,8,8,"23,390",-71,-3.1
+28059,MS,Jackson County,3,2,2,2,"143,617",490,2.4
+28061,MS,Jasper County,9,9,8,8,"16,383",-42,-2.3
+28063,MS,Jefferson County,7,8,10,7,"6,990",-103,-14.8
+28065,MS,Jefferson Davis County,8,8,7,7,"11,128",-87,-4.5
+28067,MS,Jones County,4,4,5,5,"68,098",-98,-2.4
+28069,MS,Kemper County,9,9,8,8,"9,742",9,3.4
+28071,MS,Lafayette County,6,4,3,3,"54,019",477,6.7
+28073,MS,Lamar County,3,3,2,2,"63,343",706,5.6
+28075,MS,Lauderdale County,5,5,8,8,"74,125","-1,113",-15.6
+28077,MS,Lawrence County,8,8,7,7,"12,586",138,11.6
+28079,MS,Leake County,6,6,6,6,"22,786",-5,-1.3
+28081,MS,Lee County,5,5,8,8,"85,436",160,0.1
+28083,MS,Leflore County,5,5,8,8,"28,183",-433,-17
+28085,MS,Lincoln County,6,6,5,5,"34,153",-57,-1.9
+28087,MS,Lowndes County,5,5,8,8,"58,595",-165,-5.6
+28089,MS,Madison County,2,2,2,2,"106,272",624,4.4
+28091,MS,Marion County,6,6,6,6,"24,573",-179,-6
+28093,MS,Marshall County,1,1,1,1,"35,294",-142,-2.4
+28095,MS,Monroe County,7,7,9,9,"35,252",-291,-7.5
+28097,MS,Montgomery County,7,7,9,9,"9,775",-219,-18.9
+28099,MS,Neshoba County,7,7,9,9,"29,118",-33,-3.1
+28101,MS,Newton County,7,7,9,9,"21,018",-337,-16.6
+28103,MS,Noxubee County,7,7,10,9,"10,417",-133,-15.9
+28105,MS,Oktibbeha County,5,5,8,8,"49,587",338,3.2
+28107,MS,Panola County,6,6,4,4,"34,192",36,-1.1
+28109,MS,Pearl River County,6,6,3,3,"55,535",212,5.1
+28111,MS,Perry County,3,3,2,2,"11,973",55,3.4
+28113,MS,Pike County,7,6,8,5,"39,288",-92,-2.5
+28115,MS,Pontotoc County,7,7,8,8,"32,174",293,4.5
+28117,MS,Prentiss County,7,7,9,9,"25,126",38,1.3
+28119,MS,Quitman County,6,6,4,4,"6,792",-263,-33.7
+28121,MS,Rankin County,2,2,2,2,"155,271","1,021",3.8
+28123,MS,Scott County,6,6,6,6,"28,124",-195,-11.9
+28125,MS,Sharkey County,9,8,10,7,"4,321",-54,-15.9
+28127,MS,Simpson County,2,2,2,2,"26,658",-59,-1.9
+28129,MS,Smith County,8,8,7,7,"15,916",-113,-7.6
+28131,MS,Stone County,3,6,2,6,"18,336",339,16.6
+28133,MS,Sunflower County,5,7,8,8,"25,110","-1,101",-42
+28135,MS,Tallahatchie County,7,7,10,9,"13,809",-152,-10.9
+28137,MS,Tate County,1,1,1,1,"28,321",-26,-1.8
+28139,MS,Tippah County,7,6,9,4,"22,015",-24,-2
+28141,MS,Tishomingo County,8,8,6,6,"19,383",0,4.6
+28143,MS,Tunica County,1,1,1,1,"9,632",-290,-36.7
+28145,MS,Union County,7,6,9,4,"28,815",200,4.5
+28147,MS,Walthall County,9,9,10,10,"14,286",-150,-8.4
+28149,MS,Warren County,4,4,5,5,"45,381",-712,-16.8
+28151,MS,Washington County,5,5,8,8,"43,909","-1,127",-24.5
+28153,MS,Wayne County,7,7,9,9,"20,183",-113,-7.6
+28155,MS,Webster County,9,9,10,10,"9,689",-99,-6.2
+28157,MS,Wilkinson County,8,8,7,7,"8,630",-151,-13.4
+28159,MS,Winston County,7,7,9,9,"17,955",-209,-8.3
+28161,MS,Yalobusha County,7,7,9,9,"12,108",-253,-19.1
+28163,MS,Yazoo County,6,2,5,2,"29,690",597,19
+29000,MO,Missouri,,,,,"6,137,428","15,805",0.8
+29001,MO,Adair County,7,7,8,8,"25,343",-133,-8.2
+29003,MO,Andrew County,3,3,2,2,"17,712",50,1.2
+29005,MO,Atchison County,9,9,10,10,"5,143",-40,-1.7
+29007,MO,Audrain County,6,6,5,5,"25,388",-35,-2.8
+29009,MO,Barry County,6,6,6,6,"35,789",77,2
+29011,MO,Barton County,6,6,6,6,"11,754",-36,-4.8
+29013,MO,Bates County,1,1,1,1,"16,172",-132,-8.7
+29015,MO,Benton County,9,7,10,10,"19,443",146,14.2
+29017,MO,Bollinger County,9,3,8,2,"12,133",-56,-3.8
+29019,MO,Boone County,3,3,2,2,"180,463","1,402",3
+29021,MO,Buchanan County,3,3,2,2,"87,364",-799,-11.1
+29023,MO,Butler County,7,5,8,8,"42,478",-109,-0.9
+29025,MO,Caldwell County,1,1,1,1,"9,020",-51,-4.5
+29027,MO,Callaway County,3,3,2,2,"44,743",-211,-5.5
+29029,MO,Camden County,7,7,9,9,"46,305",392,11.8
+29031,MO,Cape Girardeau County,5,3,8,2,"78,871",233,1
+29033,MO,Carroll County,6,6,4,4,"8,679",-47,-1.8
+29035,MO,Carter County,9,9,10,10,"5,982",-101,-14.1
+29037,MO,Cass County,1,1,1,1,"105,780","1,011",8.4
+29039,MO,Cedar County,6,6,6,6,"14,349",213,16.6
+29041,MO,Chariton County,9,9,9,10,"7,426",-31,-1.9
+29043,MO,Christian County,2,2,2,2,"88,595","1,551",13.5
+29045,MO,Clark County,9,9,8,8,"6,797",-36,-6
+29047,MO,Clay County,1,1,1,1,"249,948","3,588",9.4
+29049,MO,Clinton County,1,1,1,1,"20,387",-48,-1.3
+29051,MO,Cole County,3,3,2,2,"76,745",25,-2
+29053,MO,Cooper County,6,6,6,6,"17,709",83,3.8
+29055,MO,Crawford County,6,6,4,4,"23,920",-48,0
+29057,MO,Dade County,8,8,7,7,"7,561",-3,5.4
+29059,MO,Dallas County,2,2,2,2,"16,878",96,5.5
+29061,MO,Daviess County,8,8,4,4,"8,278",-56,-11.1
+29063,MO,DeKalb County,3,3,2,2,"12,547",32,3.9
+29065,MO,Dent County,7,7,9,9,"15,573",26,2.4
+29067,MO,Douglas County,6,6,6,6,"13,185",-174,-11.2
+29069,MO,Dunklin County,7,7,8,8,"29,131",-347,-8.8
+29071,MO,Franklin County,1,1,1,1,"103,967",251,1.1
+29073,MO,Gasconade County,6,6,4,4,"14,706",26,5
+29075,MO,Gentry County,8,8,7,7,"6,571",-27,-2.9
+29077,MO,Greene County,2,2,2,2,"293,086","2,032",5.3
+29079,MO,Grundy County,7,7,11,11,"9,850",-125,-16
+29081,MO,Harrison County,7,7,11,11,"8,352",-42,-1.6
+29083,MO,Henry County,6,6,4,4,"21,824",16,3.2
+29085,MO,Hickory County,8,8,7,7,"9,544",86,14.2
+29087,MO,Holt County,8,8,7,7,"4,403",-9,1.4
+29089,MO,Howard County,3,6,2,6,"10,001",-58,-7.8
+29091,MO,Howell County,7,7,8,8,"40,117",-9,0
+29093,MO,Iron County,6,7,4,10,"10,125",-62,-0.7
+29095,MO,Jackson County,1,1,1,1,"703,011","2,227",-0.3
+29097,MO,Jasper County,3,3,2,2,"121,328",873,4.3
+29099,MO,Jefferson County,1,1,1,1,"225,081",671,1.6
+29101,MO,Johnson County,4,4,3,3,"54,062",441,2.5
+29103,MO,Knox County,9,9,10,10,"3,959",-6,-1.5
+29105,MO,Laclede County,6,6,5,5,"35,723",127,1.4
+29107,MO,Lafayette County,1,1,1,1,"32,708",166,5.7
+29109,MO,Lawrence County,6,6,6,6,"38,355",91,1.4
+29111,MO,Lewis County,9,9,8,8,"9,776",-63,-8.5
+29113,MO,Lincoln County,1,1,1,1,"59,013","1,400",18.4
+29115,MO,Linn County,7,7,11,11,"11,920",-119,-6.6
+29117,MO,Livingston County,6,6,4,4,"15,227",46,3.8
+29119,MO,McDonald County,2,2,2,2,"22,837",-126,-11.7
+29121,MO,Macon County,7,7,9,9,"15,117",-50,-2.5
+29123,MO,Madison County,7,6,9,6,"12,088",-100,-4.7
+29125,MO,Maries County,8,8,7,7,"8,697",-73,-6.5
+29127,MO,Marion County,5,5,8,8,"28,530",-10,-1.5
+29129,MO,Mercer County,9,9,12,12,"3,617",-9,-3.9
+29131,MO,Miller County,6,6,6,6,"25,619",304,11
+29133,MO,Mississippi County,7,6,9,6,"13,180",-214,-12.3
+29135,MO,Moniteau County,3,3,2,2,"16,132",-54,-5.8
+29137,MO,Monroe County,9,9,9,9,"8,644",8,1.7
+29139,MO,Montgomery County,8,6,4,4,"11,551",63,6.4
+29141,MO,Morgan County,8,8,6,7,"20,627",213,11.2
+29143,MO,New Madrid County,7,7,9,9,"17,076",-196,-9.3
+29145,MO,Newton County,3,3,2,2,"58,236",78,0.2
+29147,MO,Nodaway County,6,6,5,5,"22,092",-131,-6.4
+29149,MO,Oregon County,9,9,10,10,"10,529",-29,0.7
+29151,MO,Osage County,3,3,2,2,"13,615",-37,-3.5
+29153,MO,Ozark County,9,9,10,10,"9,174",104,17
+29155,MO,Pemiscot County,7,7,9,9,"15,805",-451,-27.5
+29157,MO,Perry County,7,6,9,6,"19,136",-138,-7.3
+29159,MO,Pettis County,4,4,3,3,"42,339",-102,-6
+29161,MO,Phelps County,5,5,8,8,"44,573",22,-0.4
+29163,MO,Pike County,6,6,4,4,"18,302",-200,-11.8
+29165,MO,Platte County,1,1,1,1,"104,418","1,654",11.1
+29167,MO,Polk County,2,2,2,2,"32,149",-65,-2.4
+29169,MO,Pulaski County,5,5,8,8,"52,607",610,4.4
+29171,MO,Putnam County,9,9,10,10,"4,696",-52,-11.2
+29173,MO,Ralls County,9,9,8,8,"10,309",75,4.8
+29175,MO,Randolph County,6,6,5,5,"24,748",16,-1.5
+29177,MO,Ray County,1,1,1,1,"23,018",73,3.9
+29179,MO,Reynolds County,9,9,12,12,"6,270",-12,2.7
+29181,MO,Ripley County,9,9,10,10,"13,288",-132,-5
+29183,MO,St. Charles County,1,1,1,1,"402,022","3,242",4.9
+29185,MO,St. Clair County,8,8,4,4,"9,397",8,5.4
+29186,MO,Ste. Genevieve County,6,6,4,4,"17,894",17,0.8
+29187,MO,St. Francois County,4,4,3,3,"67,215",478,8.3
+29189,MO,St. Louis County,1,1,1,1,"994,205","-1,014",-1.8
+29195,MO,Saline County,6,6,3,3,"22,761",-129,-5.7
+29197,MO,Schuyler County,9,9,8,8,"4,660",66,8.4
+29199,MO,Scotland County,9,9,10,10,"4,902",-36,-14
+29201,MO,Scott County,5,4,8,5,"38,280",-261,-7.4
+29203,MO,Shannon County,9,9,10,10,"8,166",-23,-4.3
+29205,MO,Shelby County,9,9,10,10,"5,930",-67,-15.6
+29207,MO,Stoddard County,7,6,9,6,"29,025",-239,-6.1
+29209,MO,Stone County,8,6,5,5,"31,952",251,12.6
+29211,MO,Sullivan County,9,9,10,10,"6,089",-144,-25.8
+29213,MO,Taney County,6,4,5,5,"55,928",209,2.7
+29215,MO,Texas County,9,9,9,9,"25,398",-108,-3.4
+29217,MO,Vernon County,7,7,11,11,"20,563",71,2.8
+29219,MO,Warren County,1,1,1,1,"35,649",883,22.1
+29221,MO,Washington County,1,6,1,4,"24,730",-203,-8.3
+29223,MO,Wayne County,9,9,10,10,"12,873",-259,-14
+29225,MO,Webster County,2,2,2,2,"39,592",413,5.5
+29227,MO,Worth County,9,9,10,10,"2,013",-13,-8.9
+29229,MO,Wright County,6,6,6,6,"18,289",102,5.7
+29510,MO,St. Louis city,1,1,1,1,"300,576","-2,843",-12.2
+30000,MT,Montana,,,,,"1,068,778","8,113",6
+30001,MT,Beaverhead County,7,7,11,11,"9,453",41,6.6
+30003,MT,Big Horn County,6,6,6,6,"13,319",-46,-11.8
+30005,MT,Blaine County,9,9,10,12,"6,681",-93,-16.5
+30007,MT,Broadwater County,9,9,10,10,"6,237",165,25
+30009,MT,Carbon County,3,3,2,2,"10,725",34,4.5
+30011,MT,Carter County,9,9,12,12,"1,252",22,15.3
+30013,MT,Cascade County,3,3,2,2,"81,366",-322,-7.2
+30015,MT,Chouteau County,8,8,7,7,"5,635",-105,-15.1
+30017,MT,Custer County,7,7,11,11,"11,402",-190,-14.7
+30019,MT,Daniels County,9,9,12,12,"1,690",-39,-24.6
+30021,MT,Dawson County,7,7,11,11,"8,613",-67,-6.6
+30023,MT,Deer Lodge County,7,7,9,9,"9,140",11,6.8
+30025,MT,Fallon County,9,9,12,12,"2,846",-66,-26.7
+30027,MT,Fergus County,7,7,11,11,"11,050",-67,-3.7
+30029,MT,Flathead County,5,5,8,8,"103,806","1,789",15.4
+30031,MT,Gallatin County,5,5,8,8,"114,434","2,752",18.4
+30033,MT,Garfield County,9,9,12,12,"1,258",1,-1.6
+30035,MT,Glacier County,7,7,11,11,"13,753",-75,-12.5
+30037,MT,Golden Valley County,8,3,7,2,821,-1,-7.3
+30039,MT,Granite County,8,8,7,7,"3,379",8,7.7
+30041,MT,Hill County,7,7,8,11,"16,484",142,0.9
+30043,MT,Jefferson County,9,9,8,8,"12,221",127,13.2
+30045,MT,Judith Basin County,8,8,7,7,"2,007",61,31.4
+30047,MT,Lake County,6,6,6,6,"30,458",238,8.4
+30049,MT,Lewis and Clark County,5,5,8,8,"69,432",810,10.5
+30051,MT,Liberty County,9,9,10,12,"2,337",-79,-31.1
+30053,MT,Lincoln County,7,7,9,9,"19,980",183,15.4
+30055,MT,McCone County,9,9,12,12,"1,664",-5,-4.2
+30057,MT,Madison County,9,9,10,10,"8,600",70,11.1
+30059,MT,Meagher County,9,9,10,10,"1,862",5,5.4
+30061,MT,Mineral County,8,8,7,7,"4,397",90,25.3
+30063,MT,Missoula County,3,3,2,2,"119,600",960,6
+30065,MT,Musselshell County,8,8,7,7,"4,633",1,6.3
+30067,MT,Park County,7,7,9,9,"16,606",-42,-1.7
+30069,MT,Petroleum County,9,9,12,12,487,-25,-38
+30071,MT,Phillips County,9,9,12,12,"3,954",-106,-25.5
+30073,MT,Pondera County,7,7,11,11,"5,911",-49,-11.6
+30075,MT,Powder River County,9,9,12,12,"1,682",-38,-25.9
+30077,MT,Powell County,7,6,9,6,"6,890",-63,-5.2
+30079,MT,Prairie County,9,9,12,12,"1,077",7,2.8
+30081,MT,Ravalli County,6,6,6,6,"43,806",640,17.3
+30083,MT,Richland County,7,7,11,9,"10,803",-52,-8.7
+30085,MT,Roosevelt County,7,7,11,9,"11,004",-65,-9.2
+30087,MT,Rosebud County,9,9,12,12,"8,937",-103,-15.8
+30089,MT,Sanders County,8,8,7,7,"12,113",266,23.5
+30091,MT,Sheridan County,9,9,12,12,"3,309",-77,-20.6
+30093,MT,Silver Bow County,5,5,8,8,"34,915",176,6.7
+30095,MT,Stillwater County,8,8,7,7,"9,642",159,17.4
+30097,MT,Sweet Grass County,9,9,12,12,"3,737",34,8.9
+30099,MT,Teton County,8,8,7,7,"6,147",30,2.4
+30101,MT,Toole County,7,7,11,11,"4,736",-99,-24.9
+30103,MT,Treasure County,8,8,7,7,696,23,26.3
+30105,MT,Valley County,7,7,11,11,"7,396",-10,-5.1
+30107,MT,Wheatland County,9,9,12,12,"2,126",-58,-29.2
+30109,MT,Wibaux County,9,9,12,12,969,-61,-63
+30111,MT,Yellowstone County,3,3,2,2,"161,300","1,271",5.6
+31000,NE,Nebraska,,,,,"1,934,408","8,794",-0.5
+31001,NE,Adams County,5,4,8,5,"31,363",-151,-7.2
+31003,NE,Antelope County,9,9,10,10,"6,298",-10,-4.9
+31005,NE,Arthur County,9,9,10,10,463,1,6.5
+31007,NE,Banner County,9,9,8,8,745,20,20.4
+31009,NE,Blaine County,9,9,12,10,465,-15,-31.7
+31011,NE,Boone County,9,9,10,10,"5,192",-49,-8.4
+31013,NE,Box Butte County,7,7,11,11,"10,783",50,2.3
+31015,NE,Boyd County,9,9,12,12,"1,919",-31,-12.9
+31017,NE,Brown County,9,9,12,12,"2,955",-12,-2.7
+31019,NE,Buffalo County,5,4,8,5,"49,659",307,0.9
+31021,NE,Burt County,8,8,7,7,"6,459",-27,1.2
+31023,NE,Butler County,6,6,6,6,"8,016",-27,-3.5
+31025,NE,Cass County,2,2,2,2,"26,248",59,0.9
+31027,NE,Cedar County,9,9,10,10,"8,402",-51,-7.2
+31029,NE,Chase County,9,9,12,12,"3,924",-13,-1.3
+31031,NE,Cherry County,7,7,11,11,"5,689",-74,-16.4
+31033,NE,Cheyenne County,7,7,11,11,"8,910",-372,-41.1
+31035,NE,Clay County,9,8,8,7,"6,203",1,-1.5
+31037,NE,Colfax County,7,7,9,9,"10,709",-25,-13.7
+31039,NE,Cuming County,7,7,9,9,"8,846",-89,-12.4
+31041,NE,Custer County,7,7,9,9,"10,777",-53,-4.6
+31043,NE,Dakota County,3,3,2,2,"20,026",24,-10.4
+31045,NE,Dawes County,7,7,11,11,"8,589",-116,-13
+31047,NE,Dawson County,7,7,8,8,"23,595",-149,-15.1
+31049,NE,Deuel County,9,9,12,12,"1,794",-27,-13.8
+31051,NE,Dixon County,3,3,2,2,"5,636",-64,-15
+31053,NE,Dodge County,4,4,5,5,"36,565",-160,-5.8
+31055,NE,Douglas County,2,2,2,2,"571,327","4,936",1.3
+31057,NE,Dundy County,9,9,12,12,"1,693",-71,-36.4
+31059,NE,Fillmore County,9,8,12,7,"5,462",-73,-13.3
+31061,NE,Franklin County,9,9,10,10,"2,979",-34,-14.4
+31063,NE,Frontier County,9,9,10,10,"2,627",27,6.5
+31065,NE,Furnas County,9,9,12,12,"4,676",-25,-5.8
+31067,NE,Gage County,6,6,5,5,"21,513",18,2.2
+31069,NE,Garden County,9,9,12,12,"1,837",-53,-29
+31071,NE,Garfield County,9,9,12,12,"1,969",-5,2.5
+31073,NE,Gosper County,9,9,8,8,"1,990",-6,-4
+31075,NE,Grant County,9,9,12,12,623,-34,-64.1
+31077,NE,Greeley County,9,8,10,7,"2,356",1,-2.1
+31079,NE,Hall County,5,3,8,2,"61,353",67,-5.9
+31081,NE,Hamilton County,7,3,9,2,"9,324",64,4.7
+31083,NE,Harlan County,9,9,10,10,"3,380",-6,0.9
+31085,NE,Hayes County,9,9,10,10,922,5,-12
+31087,NE,Hitchcock County,9,9,12,12,"2,762",-39,-7.9
+31089,NE,Holt County,7,7,11,11,"10,067",-81,-10
+31091,NE,Hooker County,9,9,12,12,682,6,10.3
+31093,NE,Howard County,9,3,8,2,"6,445",-12,-3.9
+31095,NE,Jefferson County,7,7,9,9,"7,046",-52,-6.2
+31097,NE,Johnson County,8,8,7,7,"5,071",-44,-5.5
+31099,NE,Kearney County,7,7,8,8,"6,495",-44,-9.4
+31101,NE,Keith County,7,7,9,9,"8,034",31,3.6
+31103,NE,Keya Paha County,9,9,12,12,806,0,2.5
+31105,NE,Kimball County,6,8,6,7,"3,632",54,17.5
+31107,NE,Knox County,9,9,10,10,"8,332",-73,-8.7
+31109,NE,Lancaster County,2,2,2,2,"319,090","2,563",2.6
+31111,NE,Lincoln County,5,5,8,8,"34,914",-234,-8.6
+31113,NE,Logan County,9,9,8,8,748,-7,-5.3
+31115,NE,Loup County,9,9,12,12,664,47,68.7
+31117,NE,McPherson County,9,9,8,8,494,4,4.1
+31119,NE,Madison County,5,5,8,8,"35,099",-90,-6.3
+31121,NE,Merrick County,7,3,8,2,"7,755",22,2.5
+31123,NE,Morrill County,9,9,10,10,"4,642",-32,-7.7
+31125,NE,Nance County,9,8,10,7,"3,519",13,1.1
+31127,NE,Nemaha County,7,7,11,11,"6,972",15,-2.7
+31129,NE,Nuckolls County,9,9,10,12,"4,148",-59,-10.1
+31131,NE,Otoe County,6,6,6,6,"16,012",29,-0.5
+31133,NE,Pawnee County,9,9,10,10,"2,613",-10,-4.2
+31135,NE,Perkins County,9,9,10,10,"2,891",-11,-6.6
+31137,NE,Phelps County,7,7,9,9,"9,034",28,0.4
+31139,NE,Pierce County,9,9,8,8,"7,148",3,-2.5
+31141,NE,Platte County,5,5,8,8,"33,470",183,0.1
+31143,NE,Polk County,9,9,10,10,"5,213",-27,-5
+31145,NE,Red Willow County,7,7,11,11,"10,724",19,0.7
+31147,NE,Richardson County,7,7,11,11,"7,865",-73,-5.7
+31149,NE,Rock County,9,9,12,12,"1,357",6,5.9
+31151,NE,Saline County,6,6,6,6,"14,224",-112,-12.1
+31153,NE,Sarpy County,2,2,2,2,"187,196","3,134",9.2
+31155,NE,Saunders County,2,2,2,2,"21,578",304,12.2
+31157,NE,Scotts Bluff County,5,5,8,8,"35,618",-307,-10.5
+31159,NE,Seward County,2,2,2,2,"17,284",11,-1.2
+31161,NE,Sheridan County,9,9,12,12,"5,246",57,11.9
+31163,NE,Sherman County,9,8,10,7,"3,001",-43,-13.9
+31165,NE,Sioux County,9,9,10,8,"1,166",-20,-23.8
+31167,NE,Stanton County,9,9,8,8,"5,920",-50,-13.6
+31169,NE,Thayer County,9,9,12,12,"5,003",-36,-2
+31171,NE,Thomas County,9,9,10,10,722,8,4.2
+31173,NE,Thurston County,8,8,7,7,"7,224",-50,-16.4
+31175,NE,Valley County,9,9,12,12,"4,158",-39,-9.3
+31177,NE,Washington County,2,2,2,2,"20,729",112,4
+31179,NE,Wayne County,6,6,6,6,"9,385",67,4.4
+31181,NE,Webster County,9,9,10,10,"3,487",-47,-11.4
+31183,NE,Wheeler County,9,9,12,12,783,-19,-25.2
+31185,NE,York County,7,6,11,6,"13,679",-69,-7.5
+32000,NV,Nevada,,,,,"3,080,156","52,815",13.8
+32001,NV,Churchill County,6,6,5,5,"24,909",403,13.6
+32003,NV,Clark County,1,1,1,1,"2,266,715","40,600",13.9
+32005,NV,Douglas County,4,4,5,3,"48,905",416,13.9
+32007,NV,Elko County,5,5,8,8,"52,778",239,-3.1
+32009,NV,Esmeralda County,9,9,10,10,873,46,54.1
+32011,NV,Eureka County,9,9,8,8,"2,029",31,14.4
+32013,NV,Humboldt County,7,7,11,8,"16,831",53,-3.3
+32015,NV,Lander County,7,7,9,9,"5,532",-15,-9.9
+32017,NV,Lincoln County,8,8,4,4,"5,183",-54,-9.4
+32019,NV,Lyon County,6,4,6,5,"57,510","1,697",29
+32021,NV,Mineral County,7,7,9,11,"4,505",-39,1.1
+32023,NV,Nye County,6,4,3,3,"46,523","1,337",36.7
+32027,NV,Pershing County,8,9,7,10,"6,725",40,4.3
+32029,NV,Storey County,2,2,2,2,"4,123",142,37.3
+32031,NV,Washoe County,2,2,2,2,"471,519","7,165",12.6
+32033,NV,White Pine County,7,7,9,11,"9,580",40,3.5
+32510,NV,Carson City,3,3,2,2,"55,916",714,13.5
+33000,NH,New Hampshire,,,,,"1,359,711","6,246",4.7
+33001,NH,Belknap County,4,4,3,3,"61,303",158,7.5
+33003,NH,Carroll County,8,6,4,4,"48,910",156,8.4
+33005,NH,Cheshire County,4,4,5,5,"76,085",184,3.5
+33007,NH,Coos County,7,7,8,8,"31,563",77,8.6
+33009,NH,Grafton County,5,5,8,8,"89,886",185,3.8
+33011,NH,Hillsborough County,2,2,2,2,"417,025","2,395",4
+33013,NH,Merrimack County,4,4,5,3,"151,391",741,5.5
+33015,NH,Rockingham County,1,1,1,1,"309,769","1,482",4.4
+33017,NH,Strafford County,1,1,1,1,"130,633",836,5.7
+33019,NH,Sullivan County,7,7,9,8,"43,146",32,1.9
+34000,NJ,New Jersey,,,,,"8,882,190","-3,835",-3.1
+34001,NJ,Atlantic County,2,2,2,2,"263,670",-319,-0.9
+34003,NJ,Bergen County,1,1,1,1,"932,202",-614,-2.7
+34005,NJ,Burlington County,1,1,1,1,"445,349",604,0.7
+34007,NJ,Camden County,1,1,1,1,"506,471",118,-2.1
+34009,NJ,Cape May County,3,3,2,2,"92,039",-407,1.8
+34011,NJ,Cumberland County,3,3,2,2,"149,527","-1,108",-9.6
+34013,NJ,Essex County,1,1,1,1,"798,975",405,-4.2
+34015,NJ,Gloucester County,1,1,1,1,"291,636",111,-0.1
+34017,NJ,Hudson County,1,1,1,1,"672,391",460,-7.7
+34019,NJ,Hunterdon County,1,1,1,1,"124,371",-436,-3.2
+34021,NJ,Mercer County,2,2,2,2,"367,430",-758,-4.9
+34023,NJ,Middlesex County,1,1,1,1,"825,062","-1,110",-4.6
+34025,NJ,Monmouth County,1,1,1,1,"618,795","-1,664",-2.3
+34027,NJ,Morris County,1,1,1,1,"491,845","-1,225",-3.9
+34029,NJ,Ocean County,1,1,1,1,"607,186","5,708",7.1
+34031,NJ,Passaic County,1,1,1,1,"501,826","-1,357",-8.4
+34033,NJ,Salem County,1,1,1,1,"62,385",-361,-4.7
+34035,NJ,Somerset County,1,1,1,1,"328,934","-1,247",-5.1
+34037,NJ,Sussex County,1,1,1,1,"140,488",-313,-1.8
+34039,NJ,Union County,1,1,1,1,"556,341",-61,-4.7
+34041,NJ,Warren County,2,2,2,2,"105,267",-261,-2.1
+35000,NM,New Mexico,,,,,"2,096,829","4,088",-0.3
+35001,NM,Bernalillo County,2,2,2,2,"679,121","1,087",-0.1
+35003,NM,Catron County,9,9,12,10,"3,527",-27,-2.5
+35005,NM,Chaves County,5,5,8,8,"64,615",61,-1.9
+35006,NM,Cibola County,6,6,5,5,"26,675",-91,-5
+35007,NM,Colfax County,7,7,11,11,"11,941",-130,-9.6
+35009,NM,Curry County,5,5,8,8,"48,954",-384,-16.9
+35011,NM,De Baca County,9,9,10,12,"1,748",-31,-15.3
+35013,NM,Doña Ana County,3,3,2,2,"218,195",917,-0.4
+35015,NM,Eddy County,5,5,8,8,"58,460",731,8.2
+35017,NM,Grant County,7,7,8,8,"26,998",-305,-8.5
+35019,NM,Guadalupe County,7,7,9,9,"4,300",-34,-7.4
+35021,NM,Harding County,9,9,10,12,625,-25,-28.2
+35023,NM,Hidalgo County,7,9,9,9,"4,198",-33,-5.5
+35025,NM,Lea County,5,5,8,8,"71,070","1,527",13.4
+35027,NM,Lincoln County,7,7,9,9,"19,572",54,4.6
+35028,NM,Los Alamos County,6,6,5,5,"19,369",381,16.6
+35029,NM,Luna County,6,6,5,5,"23,709",-168,-9.7
+35031,NM,McKinley County,4,5,5,8,"71,367",-544,-10.1
+35033,NM,Mora County,8,9,7,10,"4,521",34,9.3
+35035,NM,Otero County,4,4,5,5,"67,490",831,7.6
+35037,NM,Quay County,7,7,9,11,"8,253",11,2.2
+35039,NM,Rio Arriba County,6,4,5,5,"38,921",-102,-1.5
+35041,NM,Roosevelt County,7,7,8,8,"18,500",-259,-19.8
+35043,NM,Sandoval County,2,2,2,2,"146,748","1,652",9.5
+35045,NM,San Juan County,3,3,2,2,"123,958","-1,541",-14.8
+35047,NM,San Miguel County,6,6,5,5,"27,277",-203,-6.6
+35049,NM,Santa Fe County,3,3,2,2,"150,358",597,4
+35051,NM,Sierra County,6,6,6,6,"10,791",-158,-1.7
+35053,NM,Socorro County,6,6,6,6,"16,637",-67,-5.7
+35055,NM,Taos County,7,7,8,8,"32,723",24,2.2
+35057,NM,Torrance County,2,2,2,2,"15,461",-51,-3.4
+35059,NM,Union County,9,9,11,11,"4,059",-49,-12
+35061,NM,Valencia County,2,2,2,2,"76,688",383,3.3
+36000,NY,New York,,,,,"19,453,561","-76,790",-6.9
+36001,NY,Albany County,2,2,2,2,"305,506","-1,079",-4.3
+36003,NY,Allegany County,7,7,9,9,"46,091",-241,-4.9
+36005,NY,Bronx County,1,1,1,1,"1,418,207","-13,880",-15.8
+36007,NY,Broome County,2,2,2,2,"190,488","-1,437",-6.5
+36009,NY,Cattaraugus County,4,4,3,3,"76,117",-609,-7.3
+36011,NY,Cayuga County,4,4,5,5,"76,576",-545,-7.5
+36013,NY,Chautauqua County,4,4,3,3,"126,903",-569,-3.5
+36015,NY,Chemung County,3,3,2,2,"83,456",-479,-4.7
+36017,NY,Chenango County,6,6,6,6,"47,207",-238,-3.6
+36019,NY,Clinton County,5,5,8,8,"80,485",-194,-2.5
+36021,NY,Columbia County,6,6,5,3,"59,461",-324,-2.3
+36023,NY,Cortland County,4,4,5,5,"47,581",-141,-4
+36025,NY,Delaware County,6,6,6,6,"44,135",-391,-3.7
+36027,NY,Dutchess County,2,1,2,1,"294,218",279,1.6
+36029,NY,Erie County,1,1,1,1,"918,702","-1,015",-1.1
+36031,NY,Essex County,6,6,6,6,"36,885",-403,-8
+36033,NY,Franklin County,5,7,8,8,"50,022",-257,-3.5
+36035,NY,Fulton County,4,4,5,5,"53,383",-250,-3.8
+36037,NY,Genesee County,4,4,3,3,"57,280",-207,-2.1
+36039,NY,Greene County,6,6,6,6,"47,188",-193,-0.7
+36041,NY,Hamilton County,8,8,7,7,"4,416",-16,4.1
+36043,NY,Herkimer County,2,2,2,2,"61,319",-394,-4.8
+36045,NY,Jefferson County,4,3,5,2,"109,834","-2,032",-27.3
+36047,NY,Kings County,1,1,1,1,"2,559,903","-18,171",-14.7
+36049,NY,Lewis County,6,6,6,6,"26,296",-190,-9.2
+36051,NY,Livingston County,1,1,1,1,"62,914",-299,-3.6
+36053,NY,Madison County,2,2,2,2,"70,941",-176,-3
+36055,NY,Monroe County,1,1,1,1,"741,770","-1,094",-2.9
+36057,NY,Montgomery County,4,4,5,5,"49,221",-173,-5.1
+36059,NY,Nassau County,1,1,1,1,"1,356,924",-610,-2.4
+36061,NY,New York County,1,1,1,1,"1,628,706",-349,-3.1
+36063,NY,Niagara County,1,1,1,1,"209,281",-779,-2.2
+36065,NY,Oneida County,2,2,2,2,"228,671",-803,-3.5
+36067,NY,Onondaga County,2,2,2,2,"460,528","-1,121",-4
+36069,NY,Ontario County,1,1,1,1,"109,777",39,1.3
+36071,NY,Orange County,2,1,2,1,"384,940","2,814",1.8
+36073,NY,Orleans County,1,1,1,1,"40,352",-303,-6.8
+36075,NY,Oswego County,2,2,2,2,"117,124",-391,-4.3
+36077,NY,Otsego County,6,7,5,8,"59,493",-317,-2.5
+36079,NY,Putnam County,1,1,1,1,"98,320",-494,-5.2
+36081,NY,Queens County,1,1,1,1,"2,253,858","-20,747",-14.1
+36083,NY,Rensselaer County,2,2,2,2,"158,714",-569,-3.2
+36085,NY,Richmond County,1,1,1,1,"476,143",-117,-2.7
+36087,NY,Rockland County,1,1,1,1,"325,789",267,-8.2
+36089,NY,St. Lawrence County,5,4,8,5,"107,740",-587,-4.6
+36091,NY,Saratoga County,2,2,2,2,"229,863",-307,-1.6
+36093,NY,Schenectady County,2,2,2,2,"155,299",220,-0.5
+36095,NY,Schoharie County,2,2,2,2,"30,999",-147,-2.3
+36097,NY,Schuyler County,6,6,7,7,"17,807",-77,-1.9
+36099,NY,Seneca County,6,6,3,3,"34,016",-163,-4.9
+36101,NY,Steuben County,4,4,5,3,"95,379",-481,-4.6
+36103,NY,Suffolk County,1,1,1,1,"1,476,601","-4,229",-4.2
+36105,NY,Sullivan County,4,4,6,4,"75,432",33,0.5
+36107,NY,Tioga County,2,2,2,2,"48,203",-238,-3.5
+36109,NY,Tompkins County,3,3,2,2,"102,180",-239,-3.4
+36111,NY,Ulster County,3,3,2,2,"177,573",-845,-3
+36113,NY,Warren County,3,3,2,2,"63,944",-271,-1.9
+36115,NY,Washington County,3,3,2,2,"61,204",-70,1.1
+36117,NY,Wayne County,1,1,1,1,"89,918",-282,-3.9
+36119,NY,Westchester County,1,1,1,1,"967,506",-707,-3.4
+36121,NY,Wyoming County,6,6,4,4,"39,859",-164,-3.7
+36123,NY,Yates County,6,1,4,1,"24,913",-38,-3.5
+37000,NC,North Carolina,,,,,"10,488,084","106,469",7.8
+37001,NC,Alamance County,3,3,2,2,"169,509","2,995",15.8
+37003,NC,Alexander County,2,2,2,2,"37,497",166,5.4
+37005,NC,Alleghany County,9,9,10,10,"11,137",-1,3.1
+37007,NC,Anson County,1,6,1,4,"24,446",-24,-0.2
+37009,NC,Ashe County,9,7,10,10,"27,203",104,8.8
+37011,NC,Avery County,8,8,7,7,"17,557",29,6.6
+37013,NC,Beaufort County,6,6,5,5,"46,994",-62,2.8
+37015,NC,Bertie County,9,7,12,11,"18,947",-159,-3
+37017,NC,Bladen County,6,6,6,6,"32,722",-429,-9
+37019,NC,Brunswick County,2,2,2,2,"142,820","5,940",47.1
+37021,NC,Buncombe County,2,2,2,2,"261,191","1,932",8.5
+37023,NC,Burke County,2,2,2,2,"90,485",80,2.6
+37025,NC,Cabarrus County,1,1,1,1,"216,453","4,856",18.4
+37027,NC,Caldwell County,2,2,2,2,"82,178",152,4.3
+37029,NC,Camden County,8,8,3,3,"10,867",191,14.8
+37031,NC,Carteret County,4,4,5,5,"69,473",35,5.8
+37033,NC,Caswell County,8,8,7,7,"22,604",-30,0.4
+37035,NC,Catawba County,2,2,2,2,"159,551",864,5.7
+37037,NC,Chatham County,2,2,2,2,"74,470","1,343",19.5
+37039,NC,Cherokee County,9,9,12,12,"28,612",243,13.1
+37041,NC,Chowan County,7,6,9,4,"13,943",-122,-4.7
+37043,NC,Clay County,9,9,12,12,"11,231",107,16.2
+37045,NC,Cleveland County,4,4,3,3,"97,947",428,5.6
+37047,NC,Columbus County,6,6,6,6,"55,508",-311,-1.9
+37049,NC,Craven County,5,3,8,2,"102,139",-199,-4.8
+37051,NC,Cumberland County,2,2,2,2,"335,509","2,079",-1.9
+37053,NC,Currituck County,1,1,1,1,"27,763",747,26.3
+37055,NC,Dare County,5,4,8,3,"37,009",402,11.7
+37057,NC,Davidson County,4,2,5,2,"167,609","1,251",7.8
+37059,NC,Davie County,2,2,2,2,"42,846",283,7.2
+37061,NC,Duplin County,6,6,6,6,"58,741",-250,-5.5
+37063,NC,Durham County,2,2,2,2,"321,488","4,509",8
+37065,NC,Edgecombe County,3,3,2,2,"51,472",-512,-9
+37067,NC,Forsyth County,2,2,2,2,"382,295","3,079",5.4
+37069,NC,Franklin County,2,1,2,1,"69,685","2,060",28.7
+37071,NC,Gaston County,1,1,1,1,"224,529","1,899",7.8
+37073,NC,Gates County,8,1,4,1,"11,562",-1,4
+37075,NC,Graham County,9,9,12,12,"8,441",-20,0.9
+37077,NC,Granville County,6,4,6,3,"60,443",464,7.7
+37079,NC,Greene County,3,8,2,7,"21,069",-37,-0.9
+37081,NC,Guilford County,2,2,2,2,"537,174","4,567",5.8
+37083,NC,Halifax County,4,4,5,5,"50,010",-624,-9.1
+37085,NC,Harnett County,4,4,5,3,"135,976","1,640",6.4
+37087,NC,Haywood County,2,2,2,2,"62,317",427,9.8
+37089,NC,Henderson County,2,2,2,2,"117,417",917,10.9
+37091,NC,Hertford County,7,6,11,4,"23,677",-201,-5.8
+37093,NC,Hoke County,2,2,2,2,"55,234",539,1
+37095,NC,Hyde County,9,9,10,10,"4,937",-89,-14.7
+37097,NC,Iredell County,4,1,3,1,"181,806","3,474",18.2
+37099,NC,Jackson County,6,6,6,5,"43,938",338,8
+37101,NC,Johnston County,2,1,2,1,"209,339","6,647",28.5
+37103,NC,Jones County,8,3,5,2,"9,419",-194,-17.7
+37105,NC,Lee County,4,4,5,5,"61,779",571,5.9
+37107,NC,Lenoir County,4,4,5,5,"55,949",-41,2.2
+37109,NC,Lincoln County,4,1,3,1,"86,111","2,019",24.3
+37111,NC,McDowell County,6,6,6,5,"45,756",291,8.1
+37113,NC,Macon County,7,7,11,9,"35,858",584,18.7
+37115,NC,Madison County,2,2,2,2,"21,755",90,6
+37117,NC,Martin County,6,6,6,6,"22,440",-220,-6.8
+37119,NC,Mecklenburg County,1,1,1,1,"1,110,356","16,606",7.9
+37121,NC,Mitchell County,9,7,12,10,"14,964",-32,3.3
+37123,NC,Montgomery County,6,6,6,6,"27,173",96,3.6
+37125,NC,Moore County,4,4,5,5,"100,880","2,075",21
+37127,NC,Nash County,3,3,2,2,"94,298",204,2
+37129,NC,New Hanover County,2,2,2,2,"234,473","2,217",8.7
+37131,NC,Northampton County,9,9,8,8,"19,483",-215,-4.6
+37133,NC,Onslow County,3,3,2,2,"197,938","1,023",-9.2
+37135,NC,Orange County,2,2,2,2,"148,476",496,1.3
+37137,NC,Pamlico County,9,3,8,2,"12,726",93,13.5
+37139,NC,Pasquotank County,7,4,8,3,"39,824",241,3.7
+37141,NC,Pender County,2,2,2,2,"63,060","1,043",15.3
+37143,NC,Perquimans County,9,8,8,3,"13,463",82,8.5
+37145,NC,Person County,2,2,2,2,"39,490",54,2.2
+37147,NC,Pitt County,3,3,2,2,"180,742","1,167",3
+37149,NC,Polk County,8,8,7,7,"20,724",56,10.1
+37151,NC,Randolph County,2,2,2,2,"143,667",418,3.2
+37153,NC,Richmond County,4,5,5,8,"44,829",-59,-1.4
+37155,NC,Robeson County,4,4,5,5,"130,625","-1,259",-12
+37157,NC,Rockingham County,2,2,2,2,"91,010",393,7.7
+37159,NC,Rowan County,4,1,3,1,"142,088",960,6.8
+37161,NC,Rutherford County,4,4,5,5,"67,029",254,6.8
+37163,NC,Sampson County,6,6,6,4,"63,531",186,0.8
+37165,NC,Scotland County,6,6,5,5,"34,823",72,1.9
+37167,NC,Stanly County,6,6,3,3,"62,806",626,10.1
+37169,NC,Stokes County,2,2,2,2,"45,591",80,5.6
+37171,NC,Surry County,4,4,5,5,"71,783",-176,-0.4
+37173,NC,Swain County,8,8,7,7,"14,271",22,7
+37175,NC,Transylvania County,6,6,5,5,"34,385",212,10.1
+37177,NC,Tyrrell County,9,9,10,8,"4,016",-99,-20.4
+37179,NC,Union County,1,1,1,1,"239,859","4,029",13.2
+37181,NC,Vance County,4,4,5,3,"44,535",-100,-3.3
+37183,NC,Wake County,2,1,2,1,"1,111,761","20,488",12.7
+37185,NC,Warren County,8,8,7,4,"19,731",-88,1.1
+37187,NC,Washington County,7,7,9,9,"11,580",-189,-13.9
+37189,NC,Watauga County,6,5,5,8,"56,177",143,2.9
+37191,NC,Wayne County,3,3,2,2,"123,131",-106,-2.7
+37193,NC,Wilkes County,6,6,5,3,"68,412",-151,0
+37195,NC,Wilson County,4,4,5,3,"81,801",409,5.1
+37197,NC,Yadkin County,2,2,2,2,"37,667",186,6.3
+37199,NC,Yancey County,8,8,7,7,"18,069",196,12.5
+38000,ND,North Dakota,,,,,"762,062","3,982",-0.4
+38001,ND,Adams County,9,9,12,12,"2,216",-60,-23.6
+38003,ND,Barnes County,6,6,6,6,"10,415",-112,-7.2
+38005,ND,Benson County,9,9,12,12,"6,832",-126,-28.4
+38007,ND,Billings County,9,9,8,10,928,10,6.5
+38009,ND,Bottineau County,9,9,10,10,"6,282",-116,-13.7
+38011,ND,Bowman County,9,9,12,12,"3,024",-43,-14.8
+38013,ND,Burke County,9,9,10,10,"2,115",21,5.7
+38015,ND,Burleigh County,3,3,2,2,"95,626",350,-0.7
+38017,ND,Cass County,3,3,2,2,"181,923","1,629",1.3
+38019,ND,Cavalier County,9,9,12,12,"3,762",-49,-14.5
+38021,ND,Dickey County,9,9,10,10,"4,872",-59,-13.5
+38023,ND,Divide County,9,9,10,10,"2,264",0,-0.9
+38025,ND,Dunn County,9,9,10,10,"4,424",96,10.5
+38027,ND,Eddy County,9,9,12,12,"2,287",-22,-7.8
+38029,ND,Emmons County,8,8,7,7,"3,241",-37,-6.4
+38031,ND,Foster County,9,9,10,10,"3,210",3,-0.9
+38033,ND,Golden Valley County,9,9,12,12,"1,761",-2,-6.8
+38035,ND,Grand Forks County,3,3,2,2,"69,451",-904,-19.4
+38037,ND,Grant County,8,8,7,7,"2,274",-80,-35.9
+38039,ND,Griggs County,9,9,12,12,"2,231",3,5.4
+38041,ND,Hettinger County,9,9,10,10,"2,499",-4,-6.8
+38043,ND,Kidder County,8,8,7,7,"2,480",27,6.9
+38045,ND,LaMoure County,9,9,10,10,"4,046",-29,-10.3
+38047,ND,Logan County,9,9,10,10,"1,850",-37,-17.1
+38049,ND,McHenry County,9,9,8,8,"5,745",-63,-11.6
+38051,ND,McIntosh County,9,9,12,12,"2,497",-69,-19.4
+38053,ND,McKenzie County,9,9,10,10,"15,024","1,430",85.7
+38055,ND,McLean County,8,8,7,7,"9,450",-79,-9.7
+38057,ND,Mercer County,6,7,6,11,"8,187",-79,-10.5
+38059,ND,Morton County,3,3,2,2,"31,364",306,5.2
+38061,ND,Mountrail County,9,9,10,10,"10,545",306,20.9
+38063,ND,Nelson County,8,8,7,7,"2,879",-6,7.6
+38065,ND,Oliver County,8,3,7,2,"1,959",14,-0.5
+38067,ND,Pembina County,9,9,12,12,"6,801",-94,-11.7
+38069,ND,Pierce County,7,7,11,9,"3,975",-95,-20.4
+38071,ND,Ramsey County,7,7,11,11,"11,519",-61,-9
+38073,ND,Ransom County,8,8,7,7,"5,218",-6,3.4
+38075,ND,Renville County,9,9,8,8,"2,327",-31,-9.4
+38077,ND,Richland County,6,6,5,5,"16,177",-52,-7.2
+38079,ND,Rolette County,9,9,12,12,"14,176",-173,-14.9
+38081,ND,Sargent County,9,9,10,10,"3,898",47,8.8
+38083,ND,Sheridan County,9,9,12,12,"1,315",-27,-24.8
+38085,ND,Sioux County,8,3,7,2,"4,230",-147,-35.8
+38087,ND,Slope County,9,9,10,12,750,-11,-25.1
+38089,ND,Stark County,7,7,8,8,"31,489",596,10.5
+38091,ND,Steele County,8,8,7,7,"1,890",-2,-9
+38093,ND,Stutsman County,7,7,8,8,"20,704",-171,-8.7
+38095,ND,Towner County,9,9,12,12,"2,189",4,3.2
+38097,ND,Traill County,8,8,7,7,"8,036",16,1.5
+38099,ND,Walsh County,6,6,6,6,"10,641",-4,0.2
+38101,ND,Ward County,5,5,8,8,"67,641",-72,-10.1
+38103,ND,Wells County,9,9,12,12,"3,834",-74,-17.8
+38105,ND,Williams County,7,7,8,8,"37,589","2,120",44.5
+39000,OH,Ohio,,,,,"11,689,100","12,759",-0.3
+39001,OH,Adams County,6,6,4,4,"27,698",4,-0.6
+39003,OH,Allen County,3,3,2,2,"102,351",-374,-5
+39005,OH,Ashland County,4,4,5,3,"53,484",-222,-4.3
+39007,OH,Ashtabula County,4,4,3,3,"97,241",-346,-3.2
+39009,OH,Athens County,4,4,5,3,"65,327",-192,-2.7
+39011,OH,Auglaize County,4,4,5,5,"45,656",-80,-3.2
+39013,OH,Belmont County,3,3,2,2,"67,006",-527,-4.1
+39015,OH,Brown County,1,1,1,1,"43,432",-138,-2.5
+39017,OH,Butler County,1,1,1,1,"383,134","1,134",0.4
+39019,OH,Carroll County,2,2,2,2,"26,914",-168,-5
+39021,OH,Champaign County,6,6,5,3,"38,885",100,2.3
+39023,OH,Clark County,3,3,2,2,"134,083",-445,-2.5
+39025,OH,Clermont County,1,1,1,1,"206,428",902,2.2
+39027,OH,Clinton County,6,6,3,3,"41,968",-117,-3
+39029,OH,Columbiana County,4,4,5,3,"101,883",-590,-3.7
+39031,OH,Coshocton County,6,6,3,3,"36,600",4,-1.3
+39033,OH,Crawford County,4,4,5,3,"41,494",10,1.3
+39035,OH,Cuyahoga County,1,1,1,1,"1,235,072","-6,646",-5.8
+39037,OH,Darke County,6,6,5,5,"51,113",-186,-3.9
+39039,OH,Defiance County,4,4,5,5,"38,087",-2,-1
+39041,OH,Delaware County,1,1,1,1,"209,177","4,086",15.6
+39043,OH,Erie County,3,4,2,3,"74,266",-247,-1.4
+39045,OH,Fairfield County,1,1,1,1,"157,574","1,592",8.2
+39047,OH,Fayette County,6,6,3,3,"28,525",-128,-5.1
+39049,OH,Franklin County,1,1,1,1,"1,316,756","9,058",0.5
+39051,OH,Fulton County,2,2,2,2,"42,126",-141,-4.7
+39053,OH,Gallia County,6,6,5,5,"29,898",-47,-0.3
+39055,OH,Geauga County,1,1,1,1,"93,649",-296,-4.4
+39057,OH,Greene County,2,2,2,2,"168,937","1,491",7.6
+39059,OH,Guernsey County,6,6,5,5,"38,875",-136,-2.5
+39061,OH,Hamilton County,1,1,1,1,"817,473","2,028",-0.9
+39063,OH,Hancock County,4,4,5,5,"75,783",-137,-3.9
+39065,OH,Hardin County,6,6,6,6,"31,365",-53,-3.2
+39067,OH,Harrison County,6,6,6,6,"15,040",-127,-4.5
+39069,OH,Henry County,6,6,6,6,"27,006",-85,-5.1
+39071,OH,Highland County,6,6,4,4,"43,161",109,1.5
+39073,OH,Hocking County,6,1,4,1,"28,264",-93,-1.7
+39075,OH,Holmes County,7,7,9,9,"43,960",41,-9.5
+39077,OH,Huron County,4,4,5,3,"58,266",-98,-3.5
+39079,OH,Jackson County,7,7,9,8,"32,413",47,1.3
+39081,OH,Jefferson County,3,3,2,2,"65,325",-449,-2.5
+39083,OH,Knox County,4,4,3,3,"62,322",422,5.1
+39085,OH,Lake County,1,1,1,1,"230,149",47,1.5
+39087,OH,Lawrence County,2,2,2,2,"59,463",-304,-2
+39089,OH,Licking County,1,1,1,1,"176,862","1,196",5.3
+39091,OH,Logan County,4,6,3,3,"45,672",340,6.4
+39093,OH,Lorain County,1,1,1,1,"309,833",781,2.3
+39095,OH,Lucas County,2,2,2,2,"428,348","-1,264",-4.7
+39097,OH,Madison County,1,1,1,1,"44,731",342,6.6
+39099,OH,Mahoning County,2,2,2,2,"228,683",-533,0.3
+39101,OH,Marion County,4,4,3,3,"65,093",-334,-5.1
+39103,OH,Medina County,1,1,1,1,"179,746",768,3.6
+39105,OH,Meigs County,6,6,6,6,"22,907",-157,-4
+39107,OH,Mercer County,7,7,8,8,"41,172",220,-0.9
+39109,OH,Miami County,2,2,2,2,"106,987",945,8
+39111,OH,Monroe County,8,8,6,7,"13,654",-133,-3.8
+39113,OH,Montgomery County,2,2,2,2,"531,687",87,-0.8
+39115,OH,Morgan County,6,6,7,4,"14,508",-73,-3.2
+39117,OH,Morrow County,1,1,1,1,"35,328",215,4.3
+39119,OH,Muskingum County,4,4,3,3,"86,215",84,0.7
+39121,OH,Noble County,6,7,7,10,"14,424",77,5.5
+39123,OH,Ottawa County,2,4,2,5,"40,525",-244,-1.1
+39125,OH,Paulding County,6,6,6,6,"18,672",-70,-4.6
+39127,OH,Perry County,6,1,4,1,"36,134",95,1.3
+39129,OH,Pickaway County,1,1,1,1,"58,457",380,6.3
+39131,OH,Pike County,7,7,9,9,"27,772",-160,-4.2
+39133,OH,Portage County,2,2,2,2,"162,466",-36,0.5
+39135,OH,Preble County,2,6,2,4,"40,882",-129,-2.6
+39137,OH,Putnam County,6,6,6,6,"33,861",59,-1.5
+39139,OH,Richland County,3,3,2,2,"121,154",167,2.1
+39141,OH,Ross County,4,4,3,3,"76,666",-218,-2.7
+39143,OH,Sandusky County,4,4,5,5,"58,518",-222,-3.4
+39145,OH,Scioto County,4,4,5,5,"75,314",-166,-0.4
+39147,OH,Seneca County,4,4,5,5,"55,178",-16,-0.8
+39149,OH,Shelby County,4,4,5,5,"48,590",-32,-4.2
+39151,OH,Stark County,2,2,2,2,"370,606",-642,-1.4
+39153,OH,Summit County,2,2,2,2,"541,013",-340,-0.8
+39155,OH,Trumbull County,2,2,2,2,"197,974",-565,-0.6
+39157,OH,Tuscarawas County,4,4,5,5,"91,987",-92,-1.5
+39159,OH,Union County,1,1,1,1,"58,988","1,206",15.3
+39161,OH,Van Wert County,6,6,5,5,"28,275",22,-0.7
+39163,OH,Vinton County,9,8,10,4,"13,085",-60,-3.6
+39165,OH,Warren County,1,1,1,1,"234,602","2,657",9.5
+39167,OH,Washington County,3,4,2,5,"59,911",-200,-1.1
+39169,OH,Wayne County,4,4,3,3,"115,710",-80,-3.3
+39171,OH,Williams County,7,6,9,6,"36,692",-47,-1.6
+39173,OH,Wood County,2,2,2,2,"130,817",376,1.4
+39175,OH,Wyandot County,7,7,9,9,"21,772",-146,-5.2
+40000,OK,Oklahoma,,,,,"3,956,971","16,736",2.1
+40001,OK,Adair County,6,6,6,6,"22,194",-30,-2.5
+40003,OK,Alfalfa County,9,9,10,10,"5,702",-63,-9.8
+40005,OK,Atoka County,7,9,9,9,"13,758",-37,-4.2
+40007,OK,Beaver County,9,9,10,10,"5,311",-7,-2.4
+40009,OK,Beckham County,7,7,11,8,"21,859",139,3.8
+40011,OK,Blaine County,6,6,4,4,"9,429",-25,-3.8
+40013,OK,Bryan County,6,6,5,5,"47,995",804,15.8
+40015,OK,Caddo County,6,6,4,4,"28,762",-266,-8.7
+40017,OK,Canadian County,1,1,1,1,"148,306","3,880",21.4
+40019,OK,Carter County,5,5,8,8,"48,111",-102,-2.4
+40021,OK,Cherokee County,6,6,5,5,"48,657",50,0.6
+40023,OK,Choctaw County,7,7,9,9,"14,672",-26,-1
+40025,OK,Cimarron County,9,9,10,10,"2,137",-28,-18.6
+40027,OK,Cleveland County,1,1,1,1,"284,014","2,848",7.9
+40029,OK,Coal County,9,9,10,10,"5,495",-25,-4.2
+40031,OK,Comanche County,3,3,2,2,"120,749",221,-2.6
+40033,OK,Cotton County,6,3,6,2,"5,666",-154,-24.6
+40035,OK,Craig County,6,6,6,6,"14,142",-158,-5.7
+40037,OK,Creek County,2,2,2,2,"71,522",-208,-1.7
+40039,OK,Custer County,7,7,11,8,"29,003",8,-3.9
+40041,OK,Delaware County,6,6,6,6,"43,009",195,8.8
+40043,OK,Dewey County,9,9,10,10,"4,891",-40,-6.7
+40045,OK,Ellis County,9,9,10,10,"3,859",-80,-18.7
+40047,OK,Garfield County,5,5,8,8,"61,056",-39,-4.6
+40049,OK,Garvin County,6,6,4,4,"27,711",-35,-0.4
+40051,OK,Grady County,1,1,1,1,"55,834",386,6.3
+40053,OK,Grant County,9,9,10,10,"4,333",12,2.8
+40055,OK,Greer County,7,7,9,9,"5,712",-102,-17.5
+40057,OK,Harmon County,9,9,10,10,"2,653",-38,-15.7
+40059,OK,Harper County,9,9,10,10,"3,688",-39,-6.7
+40061,OK,Haskell County,6,6,6,6,"12,627",-9,0.7
+40063,OK,Hughes County,7,7,9,9,"13,279",-26,-0.9
+40065,OK,Jackson County,5,7,8,8,"24,530",-245,-15.8
+40067,OK,Jefferson County,8,8,7,7,"6,002",-104,-13.5
+40069,OK,Johnston County,7,9,9,9,"11,085",65,7.6
+40071,OK,Kay County,5,5,8,8,"43,538",-406,-8.3
+40073,OK,Kingfisher County,6,6,4,4,"15,765",-49,-5.3
+40075,OK,Kiowa County,6,6,6,6,"8,708",-24,-3.4
+40077,OK,Latimer County,7,7,9,9,"10,073",-102,-10.6
+40079,OK,Le Flore County,2,2,2,2,"49,853",-240,-3
+40081,OK,Lincoln County,1,1,1,1,"34,877",40,1.9
+40083,OK,Logan County,1,1,1,1,"48,011",763,13.4
+40085,OK,Love County,9,9,8,9,"10,253",97,9.4
+40087,OK,McClain County,1,1,1,1,"40,474",587,13.9
+40089,OK,McCurtain County,7,7,11,11,"32,832",-135,-4.5
+40091,OK,McIntosh County,6,6,6,6,"19,596",-149,-0.6
+40093,OK,Major County,9,9,9,9,"7,629",2,-1.3
+40095,OK,Marshall County,6,6,6,6,"16,931",204,10.3
+40097,OK,Mayes County,6,6,6,6,"41,100",-110,-0.8
+40099,OK,Murray County,7,7,9,9,"14,073",105,10.4
+40101,OK,Muskogee County,4,4,5,5,"67,997",-327,-3.6
+40103,OK,Noble County,6,6,4,4,"11,131",-148,-12.8
+40105,OK,Nowata County,6,6,6,6,"10,076",-202,-19
+40107,OK,Okfuskee County,6,6,6,4,"11,993",-88,-5.2
+40109,OK,Oklahoma County,1,1,1,1,"797,434","6,841",3.6
+40111,OK,Okmulgee County,2,2,2,2,"38,465",144,7.1
+40113,OK,Osage County,2,2,2,2,"46,963",-158,-1.1
+40115,OK,Ottawa County,6,6,5,5,"31,127",-192,-4.2
+40117,OK,Pawnee County,2,2,2,2,"16,376",20,1.6
+40119,OK,Payne County,4,4,5,3,"81,784",-388,-7.5
+40121,OK,Pittsburg County,5,5,8,8,"43,654",-216,-2.5
+40123,OK,Pontotoc County,7,7,8,8,"38,284",12,0.9
+40125,OK,Pottawatomie County,4,4,3,3,"72,592",79,1.1
+40127,OK,Pushmataha County,9,9,11,12,"11,096",-96,-5.5
+40129,OK,Roger Mills County,9,9,12,10,"3,583",-63,-21.3
+40131,OK,Rogers County,2,2,2,2,"92,459",658,6.1
+40133,OK,Seminole County,7,7,9,9,"24,258",-262,-8.7
+40135,OK,Sequoyah County,2,2,2,2,"41,569",-16,0.5
+40137,OK,Stephens County,4,4,5,3,"43,143",-36,1.1
+40139,OK,Texas County,7,7,8,8,"19,983",-508,-35.3
+40141,OK,Tillman County,6,6,6,6,"7,250",-73,-9.6
+40143,OK,Tulsa County,2,2,2,2,"651,552","3,869",2
+40145,OK,Wagoner County,2,2,2,2,"81,289","1,166",12.5
+40147,OK,Washington County,4,4,5,5,"51,527",-264,-3.3
+40149,OK,Washita County,7,7,11,9,"10,916",-120,-8.7
+40151,OK,Woods County,7,7,11,9,"8,793",-100,-11
+40153,OK,Woodward County,7,7,8,8,"20,211",-101,-6.2
+41000,OR,Oregon,,,,,"4,217,737","35,851",6.9
+41001,OR,Baker County,7,7,9,11,"16,124",90,9.3
+41003,OR,Benton County,3,3,2,2,"93,053",611,5.4
+41005,OR,Clackamas County,1,1,1,1,"418,187","2,771",5.7
+41007,OR,Clatsop County,4,4,3,3,"40,224",513,13.3
+41009,OR,Columbia County,1,1,1,1,"52,354",109,2.2
+41011,OR,Coos County,5,5,8,8,"64,487",215,8.6
+41013,OR,Crook County,6,6,5,5,"24,404",579,24.3
+41015,OR,Curry County,7,7,8,8,"22,925",130,13.5
+41017,OR,Deschutes County,3,3,2,2,"197,692","5,787",28
+41019,OR,Douglas County,4,4,5,5,"110,980",866,11.5
+41021,OR,Gilliam County,9,9,10,12,"1,912",19,16.8
+41023,OR,Grant County,9,9,12,12,"7,199",14,5.3
+41025,OR,Harney County,7,7,11,11,"7,393",101,15.7
+41027,OR,Hood River County,6,6,3,3,"23,382",115,1.5
+41029,OR,Jackson County,3,3,2,2,"220,944","1,533",7.3
+41031,OR,Jefferson County,6,6,6,6,"24,658",508,19.4
+41033,OR,Josephine County,4,3,5,2,"87,487",337,7.6
+41035,OR,Klamath County,5,5,8,8,"68,238",551,9.1
+41037,OR,Lake County,7,7,12,12,"7,869",34,10.2
+41039,OR,Lane County,2,2,2,2,"382,067","3,518",9.8
+41041,OR,Lincoln County,4,5,6,8,"49,962",738,19.3
+41043,OR,Linn County,4,3,5,2,"129,749","2,298",16.2
+41045,OR,Malheur County,6,6,5,5,"30,571",18,-3.8
+41047,OR,Marion County,2,2,2,2,"347,818","2,406",2.6
+41049,OR,Morrow County,6,6,5,5,"11,603",243,14.3
+41051,OR,Multnomah County,1,1,1,1,"812,855","3,783",1.9
+41053,OR,Polk County,2,2,2,2,"86,085","1,093",11.1
+41055,OR,Sherman County,9,9,10,10,"1,780",80,43.7
+41057,OR,Tillamook County,6,6,4,4,"27,036",326,14.8
+41059,OR,Umatilla County,5,4,8,5,"77,950",529,3.2
+41061,OR,Union County,7,7,8,8,"26,835",134,5.1
+41063,OR,Wallowa County,9,9,10,10,"7,208",150,22.4
+41065,OR,Wasco County,6,6,3,3,"26,682",250,9.5
+41067,OR,Washington County,1,1,1,1,"601,592","4,688",2.8
+41069,OR,Wheeler County,9,9,10,10,"1,332",-19,-8.2
+41071,OR,Yamhill County,1,1,1,1,"107,100",733,5.1
+42000,PA,Pennsylvania,,,,,"12,801,989","1,067",0
+42001,PA,Adams County,4,3,5,2,"103,009",-53,0
+42003,PA,Allegheny County,1,1,1,1,"1,216,045","-1,236",-0.1
+42005,PA,Armstrong County,1,1,1,1,"64,735",-617,-5.8
+42007,PA,Beaver County,1,1,1,1,"163,929",-653,-0.5
+42009,PA,Bedford County,6,6,6,6,"47,888",-206,-2.1
+42011,PA,Berks County,2,2,2,2,"421,164",635,-0.4
+42013,PA,Blair County,3,3,2,2,"121,829",-674,-1.6
+42015,PA,Bradford County,6,6,5,5,"60,323",-471,-6.2
+42017,PA,Bucks County,1,1,1,1,"628,270",458,1.5
+42019,PA,Butler County,1,1,1,1,"187,853",215,2.6
+42021,PA,Cambria County,3,3,2,2,"130,192","-1,257",-5.7
+42023,PA,Cameron County,7,7,9,10,"4,447",-54,-4.5
+42025,PA,Carbon County,2,2,2,2,"64,182",7,3.5
+42027,PA,Centre County,3,3,2,2,"162,385",-216,-1.6
+42029,PA,Chester County,1,1,1,1,"524,989","2,903",3.5
+42031,PA,Clarion County,6,6,4,4,"38,438",-234,-4.3
+42033,PA,Clearfield County,4,4,5,5,"79,255",-317,-1.3
+42035,PA,Clinton County,6,4,5,5,"38,632",-64,-0.9
+42037,PA,Columbia County,4,3,5,2,"64,964",-251,-0.5
+42039,PA,Crawford County,4,4,5,5,"84,629",-481,-5
+42041,PA,Cumberland County,2,2,2,2,"253,370","2,239",7.9
+42043,PA,Dauphin County,2,2,2,2,"278,299","1,435",2.4
+42045,PA,Delaware County,1,1,1,1,"566,747","1,516",0.9
+42047,PA,Elk County,7,7,8,9,"29,910",-200,-3.6
+42049,PA,Erie County,2,2,2,2,"269,728","-1,816",-6.9
+42051,PA,Fayette County,1,1,1,1,"129,274","-1,049",-3.6
+42053,PA,Forest County,9,9,10,9,"7,247",-37,3
+42055,PA,Franklin County,4,3,5,2,"155,027",448,2.3
+42057,PA,Fulton County,8,8,7,7,"14,530",5,1.1
+42059,PA,Greene County,6,6,4,4,"36,233",-428,-9.9
+42061,PA,Huntingdon County,6,6,5,5,"45,144",-251,-1.6
+42063,PA,Indiana County,4,4,3,3,"84,073",-368,-2.7
+42065,PA,Jefferson County,7,7,9,9,"43,425",-189,-2.9
+42067,PA,Juniata County,6,6,7,7,"24,763",45,0.9
+42069,PA,Lackawanna County,2,2,2,2,"209,674",-595,-0.4
+42071,PA,Lancaster County,2,2,2,2,"545,724","1,755",-0.4
+42073,PA,Lawrence County,4,4,3,3,"85,512",-616,-4.5
+42075,PA,Lebanon County,3,3,2,2,"141,793",454,2.7
+42077,PA,Lehigh County,2,2,2,2,"369,318",959,0.1
+42079,PA,Luzerne County,2,2,2,2,"317,417",-442,0.9
+42081,PA,Lycoming County,3,3,2,2,"113,299",-567,-3.3
+42083,PA,McKean County,7,7,8,8,"40,625",-325,-4.5
+42085,PA,Mercer County,2,2,2,2,"109,424","-1,047",-6.1
+42087,PA,Mifflin County,4,4,5,5,"46,138",-73,-2.5
+42089,PA,Monroe County,4,3,3,2,"170,271",977,6.3
+42091,PA,Montgomery County,1,1,1,1,"830,915","3,991",4
+42093,PA,Montour County,6,3,5,2,"18,230",-10,0.1
+42095,PA,Northampton County,2,2,2,2,"305,285",721,3.2
+42097,PA,Northumberland County,4,4,5,5,"90,843",-237,-0.3
+42099,PA,Perry County,2,2,2,2,"46,272",118,1.9
+42101,PA,Philadelphia County,1,1,1,1,"1,584,064",472,-3
+42103,PA,Pike County,1,1,1,1,"55,809",29,2.7
+42105,PA,Potter County,9,9,9,9,"16,526",-97,-2.7
+42107,PA,Schuylkill County,4,4,5,5,"141,359",-456,0.4
+42109,PA,Snyder County,7,7,8,8,"40,372",-146,-4.6
+42111,PA,Somerset County,4,4,5,3,"73,447",-425,-1.6
+42113,PA,Sullivan County,8,8,7,7,"6,066",-10,7.7
+42115,PA,Susquehanna County,6,6,7,7,"40,328",-232,-2.7
+42117,PA,Tioga County,6,6,6,6,"40,591",-99,-0.4
+42119,PA,Union County,4,4,5,5,"44,923",-94,-1.6
+42121,PA,Venango County,4,4,3,3,"50,668",-533,-6
+42123,PA,Warren County,6,6,5,5,"39,191",-360,-6.2
+42125,PA,Washington County,1,1,1,1,"206,865",-153,2.2
+42127,PA,Wayne County,6,6,6,4,"51,361",-34,4
+42129,PA,Westmoreland County,1,1,1,1,"348,899","-1,560",0.1
+42131,PA,Wyoming County,2,2,2,2,"26,794",-293,-8.6
+42133,PA,York County,2,2,2,2,"449,058","1,211",1.1
+44000,RI,Rhode Island,,,,,"1,059,361","1,074",0.4
+44001,RI,Bristol County,1,1,1,1,"48,479",-158,0.6
+44003,RI,Kent County,1,1,1,1,"164,292",239,2.3
+44005,RI,Newport County,1,1,1,1,"82,082",-465,-4.1
+44007,RI,Providence County,1,1,1,1,"638,931","1,978",0.7
+44009,RI,Washington County,1,1,1,1,"125,577",-520,-0.9
+45000,SC,South Carolina,,,,,"5,148,714","64,558",11.5
+45001,SC,Abbeville County,6,6,6,5,"24,527",-60,-0.6
+45003,SC,Aiken County,2,2,2,2,"170,872","1,423",8.3
+45005,SC,Allendale County,6,6,6,6,"8,688",-236,-24.6
+45007,SC,Anderson County,3,2,2,2,"202,558","2,266",10.9
+45009,SC,Bamberg County,7,7,9,9,"14,066",-206,-9.4
+45011,SC,Barnwell County,6,6,6,6,"20,866",-255,-9.7
+45013,SC,Beaufort County,5,3,8,2,"192,122","3,246",16
+45015,SC,Berkeley County,2,2,2,2,"227,907","6,725",24.8
+45017,SC,Calhoun County,2,2,2,2,"14,553",-10,3.1
+45019,SC,Charleston County,2,2,2,2,"411,406","5,184",9.8
+45021,SC,Cherokee County,4,4,5,5,"57,300",231,3.6
+45023,SC,Chester County,6,1,3,1,"32,244",-60,0.3
+45025,SC,Chesterfield County,6,6,4,4,"45,650",-231,-3.4
+45027,SC,Clarendon County,6,6,6,6,"33,745",3,3.3
+45029,SC,Colleton County,6,6,5,6,"37,677",1,3.4
+45031,SC,Darlington County,3,3,2,2,"66,618",-141,-0.5
+45033,SC,Dillon County,6,6,5,6,"30,479",-133,-5.7
+45035,SC,Dorchester County,2,2,2,2,"162,809","2,091",9.4
+45037,SC,Edgefield County,2,2,2,2,"27,260",128,8.8
+45039,SC,Fairfield County,2,2,2,2,"22,347",-29,3.1
+45041,SC,Florence County,3,3,2,2,"138,293",16,-0.3
+45043,SC,Georgetown County,4,4,5,5,"62,680",448,12.9
+45045,SC,Greenville County,2,2,2,2,"523,542","8,921",13.7
+45047,SC,Greenwood County,4,4,5,5,"70,811",214,2.9
+45049,SC,Hampton County,6,6,6,6,"19,222",-126,-4.3
+45051,SC,Horry County,3,2,2,2,"354,081","9,976",30.4
+45053,SC,Jasper County,6,3,5,2,"30,073",926,28.2
+45055,SC,Kershaw County,2,2,2,2,"66,551",749,12.4
+45057,SC,Lancaster County,4,1,3,1,"98,012","2,977",30.9
+45059,SC,Laurens County,2,2,2,2,"67,493",603,10
+45061,SC,Lee County,6,6,6,6,"16,828",-466,-21.2
+45063,SC,Lexington County,2,2,2,2,"298,750","4,400",12.7
+45065,SC,McCormick County,8,8,7,6,"9,463",55,16.5
+45067,SC,Marion County,6,6,6,6,"30,657",-399,-9.6
+45069,SC,Marlboro County,6,6,5,5,"26,118",-274,-8.9
+45071,SC,Newberry County,6,6,5,5,"38,440",-3,1.5
+45073,SC,Oconee County,6,4,5,5,"79,546","1,239",18.9
+45075,SC,Orangeburg County,4,4,5,5,"86,175",-838,-7.3
+45077,SC,Pickens County,2,2,2,2,"126,884","1,659",13.5
+45079,SC,Richland County,2,2,2,2,"415,759","1,557",0.4
+45081,SC,Saluda County,2,2,2,2,"20,473",76,2.4
+45083,SC,Spartanburg County,2,2,2,2,"319,785","5,648",15.5
+45085,SC,Sumter County,3,3,2,2,"106,721",312,0.5
+45087,SC,Union County,6,2,5,2,"27,316",-8,2.9
+45089,SC,Williamsburg County,6,6,6,6,"30,368",-238,-4.7
+45091,SC,York County,1,1,1,1,"280,979","7,197",23.2
+46000,SD,South Dakota,,,,,"884,659","5,961",1.6
+46003,SD,Aurora County,9,9,10,10,"2,751",-34,-18.1
+46005,SD,Beadle County,7,7,8,8,"18,453",30,-3.9
+46007,SD,Bennett County,9,9,12,12,"3,365",-108,-38.3
+46009,SD,Bon Homme County,9,9,10,10,"6,901",-9,-2.2
+46011,SD,Brookings County,7,5,8,8,"35,077",0,-6.9
+46013,SD,Brown County,5,5,8,8,"38,839",-306,-11.6
+46015,SD,Brule County,9,9,12,12,"5,297",67,7.6
+46017,SD,Buffalo County,9,9,12,12,"1,962",-65,-32.1
+46019,SD,Butte County,6,6,6,6,"10,429",176,13.7
+46021,SD,Campbell County,9,9,12,12,"1,376",10,4.4
+46023,SD,Charles Mix County,9,9,12,12,"9,292",-39,-9.8
+46025,SD,Clark County,9,9,10,10,"3,736",10,-6.7
+46027,SD,Clay County,6,6,5,5,"14,070",87,2.6
+46029,SD,Codington County,7,5,8,8,"28,009",-24,-3.7
+46031,SD,Corson County,9,9,12,12,"4,086",-92,-30.3
+46033,SD,Custer County,8,3,7,2,"8,972",160,20.6
+46035,SD,Davison County,7,7,8,8,"19,775",-9,-2.7
+46037,SD,Day County,9,9,10,10,"5,424",-83,-11.9
+46039,SD,Deuel County,9,9,10,10,"4,351",-1,-3
+46041,SD,Dewey County,9,9,12,12,"5,892",-33,-16.9
+46043,SD,Douglas County,9,9,10,10,"2,921",-5,-5.1
+46045,SD,Edmunds County,9,9,8,8,"3,829",-37,-8.1
+46047,SD,Fall River County,7,6,11,6,"6,713",-27,3.9
+46049,SD,Faulk County,9,9,10,10,"2,299",-16,-13.4
+46051,SD,Grant County,7,7,9,9,"7,052",-51,-8.9
+46053,SD,Gregory County,9,9,12,12,"4,185",-4,-0.2
+46055,SD,Haakon County,8,8,7,7,"1,899",-3,-5.8
+46057,SD,Hamlin County,9,9,8,10,"6,164",94,5.1
+46059,SD,Hand County,9,9,10,10,"3,191",-49,-18.3
+46061,SD,Hanson County,8,8,5,5,"3,453",89,17.6
+46063,SD,Harding County,9,9,12,12,"1,298",46,27.5
+46065,SD,Hughes County,7,7,8,8,"17,526",-157,-12.8
+46067,SD,Hutchinson County,8,8,7,7,"7,291",-15,-4
+46069,SD,Hyde County,9,9,10,10,"1,301",30,16.3
+46071,SD,Jackson County,8,8,7,7,"3,344",66,0.6
+46073,SD,Jerauld County,9,9,10,10,"2,013",-13,-6.4
+46075,SD,Jones County,9,9,10,10,903,-25,-30.6
+46077,SD,Kingsbury County,9,9,10,10,"4,939",13,-0.2
+46079,SD,Lake County,6,6,6,6,"12,797",-258,-21.4
+46081,SD,Lawrence County,6,6,5,5,"25,844",117,4.9
+46083,SD,Lincoln County,3,3,2,2,"61,128","2,333",28.5
+46085,SD,Lyman County,9,9,10,10,"3,781",-23,-16.3
+46087,SD,McCook County,3,3,2,2,"5,586",-15,-7.2
+46089,SD,McPherson County,9,9,10,10,"2,379",-22,-8.4
+46091,SD,Marshall County,9,9,10,10,"4,935",14,-3.7
+46093,SD,Meade County,3,3,2,2,"28,332",128,2.8
+46095,SD,Mellette County,9,9,12,12,"2,061",27,7.8
+46097,SD,Miner County,8,8,7,7,"2,216",12,3.2
+46099,SD,Minnehaha County,3,3,2,2,"193,134","2,142",3.6
+46101,SD,Moody County,8,8,7,7,"6,576",74,7.3
+46102,SD,Oglala Lakota County,7,6,11,6,"14,177",-154,-18.7
+46103,SD,Pennington County,3,3,2,2,"113,775","1,825",11
+46105,SD,Perkins County,9,8,12,7,"2,865",-43,-19.7
+46107,SD,Potter County,9,9,12,10,"2,153",-53,-21.6
+46109,SD,Roberts County,9,9,9,10,"10,394",18,-3.4
+46111,SD,Sanborn County,9,9,10,10,"2,344",-52,-29.1
+46115,SD,Spink County,7,9,9,10,"6,376",-108,-18.8
+46117,SD,Stanley County,9,9,8,8,"3,098",81,16.7
+46119,SD,Sully County,9,9,10,8,"1,391",14,6.5
+46121,SD,Todd County,9,9,12,12,"10,177",-68,-17.2
+46123,SD,Tripp County,7,7,11,11,"5,441",-50,-14.8
+46125,SD,Turner County,3,3,2,2,"8,384",-38,-5.8
+46127,SD,Union County,3,3,2,2,"15,932",362,18.5
+46129,SD,Walworth County,7,7,11,11,"5,435",-42,-9.9
+46135,SD,Yankton County,7,7,8,8,"22,814",55,0.1
+46137,SD,Ziebach County,9,8,12,7,"2,756",12,5.1
+47000,TN,Tennessee,,,,,"6,829,174","57,543",6.7
+47001,TN,Anderson County,2,2,2,2,"76,978",691,10.9
+47003,TN,Bedford County,6,4,3,3,"49,713",567,7.5
+47005,TN,Benton County,7,7,9,9,"16,160",-86,0.4
+47007,TN,Bledsoe County,8,8,7,7,"15,064",181,14.6
+47009,TN,Blount County,2,2,2,2,"133,088","1,757",14.5
+47011,TN,Bradley County,3,3,2,2,"108,110","1,060",8.7
+47013,TN,Campbell County,6,2,5,2,"39,842",47,4.8
+47015,TN,Cannon County,1,1,1,1,"14,678",238,14.6
+47017,TN,Carroll County,6,6,6,6,"27,767",-208,-4
+47019,TN,Carter County,3,3,2,2,"56,391",-26,4.6
+47021,TN,Cheatham County,1,1,1,1,"40,667",165,2.9
+47023,TN,Chester County,3,3,2,2,"17,297",52,1.9
+47025,TN,Claiborne County,6,6,6,6,"31,959",109,6.4
+47027,TN,Clay County,8,9,4,10,"7,615",-62,-3.5
+47029,TN,Cocke County,6,6,5,5,"36,004",146,7.8
+47031,TN,Coffee County,4,4,3,3,"56,520",643,10.7
+47033,TN,Crockett County,8,3,7,2,"14,230",-66,-2.4
+47035,TN,Cumberland County,7,4,8,5,"60,520",782,18.4
+47037,TN,Davidson County,1,1,1,1,"694,144","3,628",-1.1
+47039,TN,Decatur County,9,9,12,12,"11,663",-36,1.2
+47041,TN,DeKalb County,6,6,4,4,"20,490",357,17.9
+47043,TN,Dickson County,1,1,1,1,"53,948",502,7.4
+47045,TN,Dyer County,5,5,8,8,"37,159",-127,-3
+47047,TN,Fayette County,1,1,1,1,"41,133",577,14.5
+47049,TN,Fentress County,9,9,10,10,"18,523",201,14.9
+47051,TN,Franklin County,6,6,5,5,"42,208",273,7.5
+47053,TN,Gibson County,4,4,6,6,"49,133",-38,0.8
+47055,TN,Giles County,6,6,6,4,"29,464",18,3.1
+47057,TN,Grainger County,3,2,2,2,"23,320",183,11
+47059,TN,Greene County,6,4,5,5,"69,069",-95,2.2
+47061,TN,Grundy County,8,8,7,7,"13,427",79,7.2
+47063,TN,Hamblen County,3,3,2,2,"64,934",305,3.9
+47065,TN,Hamilton County,2,2,2,2,"367,804","3,511",8.2
+47067,TN,Hancock County,8,8,7,7,"6,620",59,12.6
+47069,TN,Hardeman County,6,6,6,4,"25,050",-226,-6.2
+47071,TN,Hardin County,6,6,6,6,"25,652",-41,3.1
+47073,TN,Hawkins County,3,2,2,2,"56,786",73,5.2
+47075,TN,Haywood County,6,6,5,4,"17,304",-43,0.1
+47077,TN,Henderson County,6,6,6,6,"28,117",134,5
+47079,TN,Henry County,7,7,8,8,"32,345",9,5.9
+47081,TN,Hickman County,1,1,1,1,"25,178",171,8
+47083,TN,Houston County,8,8,4,4,"8,201",-33,-2.3
+47085,TN,Humphreys County,6,6,4,4,"18,582",31,3
+47087,TN,Jackson County,8,8,3,3,"11,786",9,6.6
+47089,TN,Jefferson County,3,3,2,2,"54,495",483,12.5
+47091,TN,Johnson County,6,6,7,6,"17,788",14,5.5
+47093,TN,Knox County,2,2,2,2,"470,313","4,055",7.4
+47095,TN,Lake County,9,9,10,9,"7,016",-391,-49.9
+47097,TN,Lauderdale County,6,6,4,4,"25,633",-364,-14.8
+47099,TN,Lawrence County,6,6,5,3,"44,142",371,7.4
+47101,TN,Lewis County,6,6,4,4,"12,268",194,16
+47103,TN,Lincoln County,6,6,6,6,"34,366",177,6.6
+47105,TN,Loudon County,2,2,2,2,"54,068",986,20.8
+47107,TN,McMinn County,4,4,5,5,"53,794",458,9.8
+47109,TN,McNairy County,6,6,6,6,"25,694",-136,-1.2
+47111,TN,Macon County,1,1,1,1,"24,602",313,10.3
+47113,TN,Madison County,3,3,2,2,"97,984",381,1.8
+47115,TN,Marion County,2,2,2,2,"28,907",309,11.9
+47117,TN,Marshall County,6,6,4,3,"34,375",569,14.7
+47119,TN,Maury County,4,1,3,1,"96,387","2,114",18.9
+47121,TN,Meigs County,8,8,7,7,"12,422",125,11.8
+47123,TN,Monroe County,6,6,6,6,"46,545",276,7.9
+47125,TN,Montgomery County,3,2,2,2,"208,993","3,681",7.7
+47127,TN,Moore County,9,9,8,8,"6,488",31,3.4
+47129,TN,Morgan County,6,2,6,2,"21,403",-131,-4.7
+47131,TN,Obion County,7,7,8,8,"30,069",-205,-3.8
+47133,TN,Overton County,7,7,8,8,"22,241",173,11.6
+47135,TN,Perry County,8,8,4,4,"8,076",26,3.5
+47137,TN,Pickett County,9,9,10,10,"5,048",-5,5.5
+47139,TN,Polk County,3,3,2,2,"16,832",-86,-1
+47141,TN,Putnam County,4,4,3,3,"80,245","1,614",19
+47143,TN,Rhea County,6,6,6,5,"33,167",256,8.2
+47145,TN,Roane County,4,2,5,2,"53,382",124,7.1
+47147,TN,Robertson County,1,1,1,1,"71,813",634,6
+47149,TN,Rutherford County,1,1,1,1,"332,285","7,638",17
+47151,TN,Scott County,6,6,6,6,"22,068",40,3.3
+47153,TN,Sequatchie County,2,2,2,2,"15,026",135,9.2
+47155,TN,Sevier County,4,4,5,5,"98,250",355,4.1
+47157,TN,Shelby County,1,1,1,1,"937,166",801,-3.9
+47159,TN,Smith County,1,1,1,1,"20,157",178,9.3
+47161,TN,Stewart County,3,8,2,7,"13,715",96,9.9
+47163,TN,Sullivan County,3,2,2,2,"158,348",749,7.6
+47165,TN,Sumner County,1,1,1,1,"191,283","3,793",17.5
+47167,TN,Tipton County,1,1,1,1,"61,599",23,-0.5
+47169,TN,Trousdale County,1,1,1,1,"11,284",251,21
+47171,TN,Unicoi County,3,3,2,2,"17,883",61,9.5
+47173,TN,Union County,2,2,2,2,"19,972",283,14.9
+47175,TN,Van Buren County,9,9,10,10,"5,872",109,16.3
+47177,TN,Warren County,6,6,3,3,"41,277",451,11
+47179,TN,Washington County,3,3,2,2,"129,375",714,6.7
+47181,TN,Wayne County,8,8,6,6,"16,673",38,6.7
+47183,TN,Weakley County,7,7,9,8,"33,328",-85,-1
+47185,TN,White County,7,7,9,9,"27,345",259,12.3
+47187,TN,Williamson County,1,1,1,1,"238,412","6,434",23
+47189,TN,Wilson County,1,1,1,1,"144,657","3,703",22.6
+48000,TX,Texas,,,,,"28,995,881","367,215",6.6
+48001,TX,Anderson County,5,7,8,8,"57,735",-239,-1.2
+48003,TX,Andrews County,6,6,5,5,"18,705",694,32.5
+48005,TX,Angelina County,5,5,8,8,"86,715",-95,-1.9
+48007,TX,Aransas County,2,2,2,2,"23,510",64,10.1
+48009,TX,Archer County,3,3,2,2,"8,553",-147,-8.3
+48011,TX,Armstrong County,3,2,2,2,"1,887",8,5.3
+48013,TX,Atascosa County,1,1,1,1,"51,153",831,11
+48015,TX,Austin County,1,1,1,1,"30,032",67,0.5
+48017,TX,Bailey County,7,7,11,9,"7,000",-15,-14.3
+48019,TX,Bandera County,1,1,1,1,"23,112",320,16.3
+48021,TX,Bastrop County,1,1,1,1,"88,723","2,128",20.1
+48023,TX,Baylor County,6,8,6,6,"3,509",-64,-13.8
+48025,TX,Bee County,4,6,5,5,"32,565",98,0.4
+48027,TX,Bell County,2,2,2,2,"362,924","7,527",10.7
+48029,TX,Bexar County,1,1,1,1,"2,003,554","22,367",4.9
+48031,TX,Blanco County,8,8,4,4,"11,931",283,28.6
+48033,TX,Borden County,9,8,10,7,654,7,9.2
+48035,TX,Bosque County,6,6,6,4,"18,685",56,6.6
+48037,TX,Bowie County,3,3,2,2,"93,245",-443,-5.5
+48039,TX,Brazoria County,1,1,1,1,"374,264","5,377",8.6
+48041,TX,Brazos County,3,3,2,2,"229,211","3,430",8.6
+48043,TX,Brewster County,7,7,11,11,"9,203",-69,-9.2
+48045,TX,Briscoe County,9,9,12,12,"1,546",34,19.6
+48047,TX,Brooks County,6,7,6,9,"7,093",-6,-4.4
+48049,TX,Brown County,5,5,8,8,"37,864",44,2.7
+48051,TX,Burleson County,3,3,2,2,"18,443",108,6.3
+48053,TX,Burnet County,6,6,4,4,"48,155",811,17.4
+48055,TX,Caldwell County,1,1,1,1,"43,664",503,7.3
+48057,TX,Calhoun County,3,6,2,5,"21,290",-214,-12.1
+48059,TX,Callahan County,3,3,2,2,"13,943",-47,-1.1
+48061,TX,Cameron County,2,2,2,2,"423,163","1,024",-5.7
+48063,TX,Camp County,6,6,6,6,"13,094",111,5
+48065,TX,Carson County,3,2,2,2,"5,926",-81,-11.4
+48067,TX,Cass County,6,6,6,6,"30,026",-80,0.8
+48069,TX,Castro County,6,6,6,6,"7,530",-58,-13.9
+48071,TX,Chambers County,1,1,1,1,"43,837","1,610",30.8
+48073,TX,Cherokee County,6,6,5,5,"52,646",265,1.8
+48075,TX,Childress County,7,7,11,11,"7,306",-9,-3.6
+48077,TX,Clay County,3,3,2,2,"10,471",23,6.7
+48079,TX,Cochran County,9,9,10,10,"2,853",22,-3.2
+48081,TX,Coke County,8,8,7,7,"3,387",32,13.1
+48083,TX,Coleman County,6,6,6,6,"8,175",-192,-19
+48085,TX,Collin County,1,1,1,1,"1,034,730","30,423",23.6
+48087,TX,Collingsworth County,9,9,12,10,"2,920",-22,-5.5
+48089,TX,Colorado County,6,6,4,4,"21,493",188,8.3
+48091,TX,Comal County,1,1,1,1,"156,209","8,068",50.5
+48093,TX,Comanche County,7,7,9,9,"13,635",95,10.2
+48095,TX,Concho County,8,8,6,6,"2,726",43,17.7
+48097,TX,Cooke County,6,6,3,3,"41,257",753,15.6
+48099,TX,Coryell County,2,2,2,2,"75,951","1,210",10.3
+48101,TX,Cottle County,9,9,12,12,"1,398",16,11.5
+48103,TX,Crane County,6,6,6,6,"4,797",42,1.5
+48105,TX,Crockett County,7,7,11,11,"3,464",25,4.9
+48107,TX,Crosby County,3,2,2,2,"5,737",-27,-4.5
+48109,TX,Culberson County,9,9,12,12,"2,171",-23,-16.5
+48111,TX,Dallam County,7,7,9,11,"7,287",-16,-19.3
+48113,TX,Dallas County,1,1,1,1,"2,635,516","6,166",-5.8
+48115,TX,Dawson County,7,7,8,8,"12,728",123,5.5
+48117,TX,Deaf Smith County,6,6,5,5,"18,546",-165,-17.6
+48119,TX,Delta County,1,8,1,4,"5,331",-1,-0.9
+48121,TX,Denton County,1,1,1,1,"887,207","28,466",26
+48123,TX,DeWitt County,6,6,6,6,"20,160",54,2.8
+48125,TX,Dickens County,8,8,7,7,"2,211",-7,-1.8
+48127,TX,Dimmit County,6,6,6,6,"10,124",-71,-10.8
+48129,TX,Donley County,8,8,7,7,"3,278",-37,-9.7
+48131,TX,Duval County,7,7,9,9,"11,157",10,-0.8
+48133,TX,Eastland County,6,6,6,6,"18,360",41,5.4
+48135,TX,Ector County,3,3,2,2,"166,223","4,263",15.6
+48137,TX,Edwards County,9,9,10,12,"1,932",24,10.4
+48139,TX,Ellis County,1,1,1,1,"184,826","5,820",26.8
+48141,TX,El Paso County,2,2,2,2,"839,238","2,413",-4.4
+48143,TX,Erath County,7,4,8,3,"42,698",475,7.7
+48145,TX,Falls County,6,2,6,2,"17,297",66,2.7
+48147,TX,Fannin County,6,6,4,4,"35,514",329,12.6
+48149,TX,Fayette County,6,6,4,4,"25,346",68,4.9
+48151,TX,Fisher County,8,8,7,7,"3,830",9,5.2
+48153,TX,Floyd County,6,6,6,6,"5,712",-71,-15.5
+48155,TX,Foard County,9,9,10,10,"1,155",-36,-26.4
+48157,TX,Fort Bend County,1,1,1,1,"811,688","23,607",22.3
+48159,TX,Franklin County,8,7,4,9,"10,725",-53,-3
+48161,TX,Freestone County,7,7,9,9,"19,717",-72,-3.3
+48163,TX,Frio County,6,6,4,4,"20,306",95,0
+48165,TX,Gaines County,7,7,9,9,"21,492",672,17.1
+48167,TX,Galveston County,1,1,1,1,"342,139","4,281",9.6
+48169,TX,Garza County,6,6,6,6,"6,229",-14,-5.1
+48171,TX,Gillespie County,7,7,9,8,"26,988",286,15.2
+48173,TX,Glasscock County,8,8,7,5,"1,409",18,7.9
+48175,TX,Goliad County,3,3,2,2,"7,658",70,7.9
+48177,TX,Gonzales County,6,6,4,4,"20,837",56,-0.8
+48179,TX,Gray County,6,6,5,5,"21,886",-165,-7.8
+48181,TX,Grayson County,3,3,2,2,"136,212","2,425",16.9
+48183,TX,Gregg County,3,3,2,2,"123,945",694,3.1
+48185,TX,Grimes County,6,6,4,4,"28,880",589,18.5
+48187,TX,Guadalupe County,1,1,1,1,"166,847","3,571",17.5
+48189,TX,Hale County,4,4,5,5,"33,406",-225,-10.6
+48191,TX,Hall County,9,9,12,12,"2,964",-61,-19.4
+48193,TX,Hamilton County,6,6,6,6,"8,461",-16,1.2
+48195,TX,Hansford County,7,7,9,9,"5,399",-71,-20.6
+48197,TX,Hardeman County,7,9,9,9,"3,933",4,3.1
+48199,TX,Hardin County,2,2,2,2,"57,602",495,7.5
+48201,TX,Harris County,1,1,1,1,"4,713,325","33,280",-1.2
+48203,TX,Harrison County,4,4,5,5,"66,553",-31,-0.8
+48205,TX,Hartley County,9,7,9,11,"5,576",-35,-12.9
+48207,TX,Haskell County,6,6,6,6,"5,658",-41,-2.8
+48209,TX,Hays County,1,1,1,1,"230,191","7,485",26.3
+48211,TX,Hemphill County,9,7,12,11,"3,819",-26,-12.5
+48213,TX,Henderson County,4,4,3,3,"82,737",634,10.3
+48215,TX,Hidalgo County,2,2,2,2,"868,707","6,409",-3.5
+48217,TX,Hill County,6,6,4,4,"36,649",484,13.9
+48219,TX,Hockley County,6,6,5,5,"23,021",50,-2.4
+48221,TX,Hood County,4,1,3,1,"61,643","1,466",25.7
+48223,TX,Hopkins County,6,6,3,3,"37,084",346,7.8
+48225,TX,Houston County,7,7,9,9,"22,968",-100,-0.3
+48227,TX,Howard County,5,4,8,5,"36,664",739,17.9
+48229,TX,Hudspeth County,8,2,7,2,"4,886",98,15.7
+48231,TX,Hunt County,1,1,1,1,"98,594","1,988",18
+48233,TX,Hutchinson County,6,6,5,5,"20,938",-181,-10.7
+48235,TX,Irion County,3,3,2,2,"1,536",20,11.1
+48237,TX,Jack County,6,6,4,4,"8,935",110,11.5
+48239,TX,Jackson County,6,6,6,6,"14,760",-74,-9.5
+48241,TX,Jasper County,6,6,6,6,"35,529",-240,-6.5
+48243,TX,Jeff Davis County,9,9,10,12,"2,274",31,15.1
+48245,TX,Jefferson County,2,2,2,2,"251,565","-1,669",-9.8
+48247,TX,Jim Hogg County,6,6,6,6,"5,200",8,1.7
+48249,TX,Jim Wells County,4,4,5,5,"40,482",-274,-9.3
+48251,TX,Johnson County,1,1,1,1,"175,817","4,696",23.1
+48253,TX,Jones County,3,3,2,2,"20,083",217,11
+48255,TX,Karnes County,6,6,4,4,"15,601",-59,-4.4
+48257,TX,Kaufman County,1,1,1,1,"136,154","7,875",53.9
+48259,TX,Kendall County,1,1,1,1,"47,431","1,828",39
+48261,TX,Kenedy County,9,9,8,8,404,-33,-92.7
+48263,TX,Kent County,9,9,10,10,762,36,52.4
+48265,TX,Kerr County,4,4,3,3,"52,600",185,7.7
+48267,TX,Kimble County,7,7,9,9,"4,337",-1,3.7
+48269,TX,King County,9,9,12,12,272,-4,-29.2
+48271,TX,Kinney County,9,7,10,10,"3,667",-25,-6
+48273,TX,Kleberg County,4,4,5,5,"30,680",-42,-6.5
+48275,TX,Knox County,9,9,12,12,"3,664",2,-0.5
+48277,TX,Lamar County,4,5,3,8,"49,859",130,3.5
+48279,TX,Lamb County,6,6,6,6,"12,893",-210,-18.2
+48281,TX,Lampasas County,2,2,2,2,"21,428",294,14.1
+48283,TX,La Salle County,6,6,6,6,"7,520",27,-3.2
+48285,TX,Lavaca County,6,6,6,6,"20,154",40,2.9
+48287,TX,Lee County,6,6,4,4,"17,239",142,5.8
+48289,TX,Leon County,8,8,7,7,"17,404",144,9.2
+48291,TX,Liberty County,1,1,1,1,"88,219","2,417",23.5
+48293,TX,Limestone County,6,6,6,6,"23,437",94,5.1
+48295,TX,Lipscomb County,9,9,12,12,"3,233",-109,-34.4
+48297,TX,Live Oak County,6,8,6,7,"12,207",59,3.1
+48299,TX,Llano County,7,7,11,11,"21,795",195,17.5
+48301,TX,Loving County,9,9,10,12,169,21,126.2
+48303,TX,Lubbock County,3,2,2,2,"310,569","2,942",5.2
+48305,TX,Lynn County,6,2,6,2,"5,951",103,12.9
+48307,TX,McCulloch County,7,7,9,9,"7,984",2,3.1
+48309,TX,McLennan County,3,2,2,2,"256,623","2,427",4.7
+48311,TX,McMullen County,8,9,4,12,743,12,17.6
+48313,TX,Madison County,6,6,6,6,"14,284",-79,-7.7
+48315,TX,Marion County,8,8,7,7,"9,854",-61,0.9
+48317,TX,Martin County,6,3,6,2,"5,771",90,10
+48319,TX,Mason County,9,9,12,10,"4,274",15,5.2
+48321,TX,Matagorda County,4,4,3,3,"36,643",77,-2
+48323,TX,Maverick County,5,5,8,8,"58,722",446,-3.5
+48325,TX,Medina County,1,1,1,1,"51,584",722,11.4
+48327,TX,Menard County,8,9,7,12,"2,138",18,13.2
+48329,TX,Midland County,3,3,2,2,"176,832","4,327",14
+48331,TX,Milam County,6,6,4,4,"24,823",-222,-8.1
+48333,TX,Mills County,9,9,10,10,"4,873",-10,6.6
+48335,TX,Mitchell County,7,7,9,9,"8,545",20,-1.8
+48337,TX,Montague County,6,6,4,4,"19,818",234,14.6
+48339,TX,Montgomery County,1,1,1,1,"607,391","17,621",24
+48341,TX,Moore County,6,7,5,8,"20,940",-143,-18.4
+48343,TX,Morris County,6,6,6,6,"12,388",85,8
+48345,TX,Motley County,8,9,7,12,"1,200",-32,-23
+48347,TX,Nacogdoches County,5,5,8,8,"65,204",43,-1.9
+48349,TX,Navarro County,4,4,3,3,"50,113",577,8.8
+48351,TX,Newton County,8,2,7,2,"13,595",-156,-6.9
+48353,TX,Nolan County,6,6,5,5,"14,714",-85,-6.8
+48355,TX,Nueces County,2,2,2,2,"362,294",268,-3.4
+48357,TX,Ochiltree County,7,7,11,11,"9,836",-30,-10.8
+48359,TX,Oldham County,8,2,7,2,"2,112",-6,-9
+48361,TX,Orange County,2,2,2,2,"83,396",-78,-1.8
+48363,TX,Palo Pinto County,6,6,3,3,"29,189",315,10.5
+48365,TX,Panola County,6,6,6,6,"23,194",52,2.9
+48367,TX,Parker County,1,1,1,1,"142,878","4,808",31.4
+48369,TX,Parmer County,7,7,9,9,"9,605",-114,-20.7
+48371,TX,Pecos County,7,7,11,11,"15,823",114,1.5
+48373,TX,Polk County,6,6,4,4,"51,353","1,398",30.2
+48375,TX,Potter County,3,2,2,2,"117,415","-1,296",-15.3
+48377,TX,Presidio County,7,7,11,11,"6,704",-152,-29.8
+48379,TX,Rains County,8,8,4,4,"12,514",367,29.1
+48381,TX,Randall County,3,2,2,2,"137,713","2,022",11.3
+48383,TX,Reagan County,6,6,6,6,"3,849",113,19.8
+48385,TX,Real County,9,9,10,10,"3,452",-25,-1.2
+48387,TX,Red River County,6,6,6,6,"12,023",-120,-4.9
+48389,TX,Reeves County,7,7,8,8,"15,976",463,24.2
+48391,TX,Refugio County,6,6,6,6,"6,948",-52,-9.5
+48393,TX,Roberts County,9,9,8,10,854,-44,-51.4
+48395,TX,Robertson County,3,3,2,2,"17,074",-145,-10.8
+48397,TX,Rockwall County,1,1,1,1,"104,915","4,369",38.3
+48399,TX,Runnels County,6,6,6,6,"10,264",86,10.4
+48401,TX,Rusk County,3,3,2,2,"54,406",105,1.9
+48403,TX,Sabine County,9,8,12,7,"10,542",-34,1.1
+48405,TX,San Augustine County,9,9,10,10,"8,237",-17,2.9
+48407,TX,San Jacinto County,1,8,1,4,"28,859",142,5.5
+48409,TX,San Patricio County,2,2,2,2,"66,730",59,-4.1
+48411,TX,San Saba County,7,7,9,9,"6,055",-5,1.5
+48413,TX,Schleicher County,8,8,7,7,"2,793",-87,-28.6
+48415,TX,Scurry County,7,7,8,8,"16,703",-109,-7.8
+48417,TX,Shackelford County,8,8,7,7,"3,265",9,3.4
+48419,TX,Shelby County,6,7,6,9,"25,274",-33,-3
+48421,TX,Sherman County,9,9,10,10,"3,022",-79,-34
+48423,TX,Smith County,3,3,2,2,"232,751","3,002",9.6
+48425,TX,Somervell County,8,1,3,1,"9,128",98,13
+48427,TX,Starr County,4,4,5,5,"64,633",384,-6.2
+48429,TX,Stephens County,7,7,11,11,"9,366",-39,-5.3
+48431,TX,Sterling County,8,8,7,7,"1,291",-13,-5.4
+48433,TX,Stonewall County,8,9,7,12,"1,350",-2,2.2
+48435,TX,Sutton County,7,7,11,11,"3,776",24,4
+48437,TX,Swisher County,6,6,6,6,"7,397",-16,-3.9
+48439,TX,Tarrant County,1,1,1,1,"2,102,515","21,069",3.5
+48441,TX,Taylor County,3,3,2,2,"138,034",740,0.8
+48443,TX,Terrell County,9,9,10,12,776,-34,-39.1
+48445,TX,Terry County,6,6,6,6,"12,337",-7,-5.6
+48447,TX,Throckmorton County,9,9,12,12,"1,501",-3,-3.3
+48449,TX,Titus County,7,7,8,8,"32,750",7,-6.2
+48451,TX,Tom Green County,3,3,2,2,"119,200","1,186",6.4
+48453,TX,Travis County,1,1,1,1,"1,273,954","27,382",14.5
+48455,TX,Trinity County,8,7,4,8,"14,651",-37,3.9
+48457,TX,Tyler County,6,6,7,6,"21,672",63,6.7
+48459,TX,Upshur County,3,3,2,2,"41,753",574,13.6
+48461,TX,Upton County,8,8,7,7,"3,657",20,-1.1
+48463,TX,Uvalde County,7,6,8,3,"26,741",-46,-6.4
+48465,TX,Val Verde County,5,5,8,8,"49,025",37,-7
+48467,TX,Van Zandt County,6,6,4,4,"56,590",624,11.5
+48469,TX,Victoria County,3,3,2,2,"92,084",206,-1.4
+48471,TX,Walker County,4,4,3,3,"72,971",-165,-2.3
+48473,TX,Waller County,1,1,1,1,"55,246","1,734",25.5
+48475,TX,Ward County,6,6,6,6,"11,998",289,15.7
+48477,TX,Washington County,6,6,3,3,"35,882",386,11.4
+48479,TX,Webb County,3,2,2,2,"276,652","1,532",-6.6
+48481,TX,Wharton County,4,4,3,3,"41,556",57,-2
+48483,TX,Wheeler County,9,9,10,10,"5,056",-102,-18.2
+48485,TX,Wichita County,3,3,2,2,"132,230",423,1.6
+48487,TX,Wilbarger County,6,6,5,5,"12,769",-8,-1.4
+48489,TX,Willacy County,6,6,5,5,"21,358",-92,-7.6
+48491,TX,Williamson County,1,1,1,1,"590,551","24,088",35.1
+48493,TX,Wilson County,1,1,1,1,"51,070",874,15
+48495,TX,Winkler County,6,6,6,6,"8,010",232,19.3
+48497,TX,Wise County,1,1,1,1,"69,984","1,700",22.3
+48499,TX,Wood County,6,6,6,6,"45,539",382,13.8
+48501,TX,Yoakum County,7,7,9,9,"8,713",123,2.8
+48503,TX,Young County,6,7,6,11,"18,010",24,3.4
+48505,TX,Zapata County,6,6,6,5,"14,179",30,-5.3
+48507,TX,Zavala County,7,7,9,9,"11,840",-129,-14.9
+49000,UT,Utah,,,,,"3,205,958","52,408",6.7
+49001,UT,Beaver County,9,7,10,9,"6,710",85,4.9
+49003,UT,Box Elder County,4,2,5,2,"56,046","1,140",12.7
+49005,UT,Cache County,3,3,2,2,"128,289","1,889",2
+49007,UT,Carbon County,7,7,8,8,"20,463",230,8.9
+49009,UT,Daggett County,8,9,7,10,950,-24,-31.2
+49011,UT,Davis County,2,2,2,2,"355,481","4,380",2
+49013,UT,Duchesne County,6,7,6,9,"19,938",-5,-11.5
+49015,UT,Emery County,9,7,10,10,"10,012",9,-0.8
+49017,UT,Garfield County,9,9,10,12,"5,051",49,7.4
+49019,UT,Grand County,7,7,11,11,"9,754",68,4.2
+49021,UT,Iron County,4,4,5,5,"54,839","2,161",30.6
+49023,UT,Juab County,2,2,2,2,"12,017",388,21.9
+49025,UT,Kane County,6,6,6,6,"7,886",209,25.3
+49027,UT,Millard County,7,7,11,11,"13,188",201,7.9
+49029,UT,Morgan County,2,2,2,2,"12,124",168,5.9
+49031,UT,Piute County,9,9,12,12,"1,479",41,28.1
+49033,UT,Rich County,8,8,7,7,"2,483",27,2.8
+49035,UT,Salt Lake County,2,1,2,1,"1,160,437","11,745",1.7
+49037,UT,San Juan County,7,7,11,9,"15,308",-50,-7
+49039,UT,Sanpete County,6,6,6,6,"30,939",436,8.2
+49041,UT,Sevier County,7,7,11,11,"21,620",123,0.1
+49043,UT,Summit County,2,4,2,3,"42,145",255,0
+49045,UT,Tooele County,2,1,2,1,"72,259","2,270",22.5
+49047,UT,Uintah County,7,7,8,8,"35,734",329,0.7
+49049,UT,Utah County,2,2,2,2,"636,235","14,715",8.3
+49051,UT,Wasatch County,6,6,6,3,"34,091","1,024",21.2
+49053,UT,Washington County,3,3,2,2,"177,556","5,989",29.1
+49055,UT,Wayne County,9,9,12,12,"2,711",40,12.6
+49057,UT,Weber County,2,2,2,2,"260,213","4,516",9.1
+50000,VT,Vermont,,,,,"623,989",-369,-0.5
+50001,VT,Addison County,6,6,6,6,"36,777",-96,-1.4
+50003,VT,Bennington County,6,6,5,5,"35,470",-50,2.1
+50005,VT,Caledonia County,7,7,9,9,"29,993",-243,-7.9
+50007,VT,Chittenden County,3,3,2,2,"163,774",203,-0.6
+50009,VT,Essex County,9,9,8,8,"6,163",-71,-10.2
+50011,VT,Franklin County,3,3,2,2,"49,402",144,-0.6
+50013,VT,Grand Isle County,3,3,2,2,"7,235",125,15.9
+50015,VT,Lamoille County,8,8,7,7,"25,362",67,0.9
+50017,VT,Orange County,9,9,8,8,"28,892",4,1.1
+50019,VT,Orleans County,7,7,11,11,"27,037",178,7.9
+50021,VT,Rutland County,5,4,8,5,"58,191",-405,-4
+50023,VT,Washington County,4,4,5,5,"58,409",330,5.6
+50025,VT,Windham County,6,7,6,9,"42,222",-413,-7.9
+50027,VT,Windsor County,7,7,8,8,"55,062",-142,-0.7
+51000,VA,Virginia,,,,,"8,535,519","34,233",0.7
+51001,VA,Accomack County,7,8,9,6,"32,316",-265,-4.8
+51003,VA,Albemarle County,3,3,2,2,"109,330",953,7.2
+51005,VA,Alleghany County,6,6,6,6,"14,860",-126,-0.5
+51007,VA,Amelia County,1,1,1,1,"13,145",88,6.8
+51009,VA,Amherst County,3,2,2,2,"31,605",-79,0
+51011,VA,Appomattox County,3,2,2,2,"15,911",30,2.1
+51013,VA,Arlington County,1,1,1,1,"236,842",817,-4.5
+51015,VA,Augusta County,4,3,5,2,"75,558",23,3.3
+51017,VA,Bath County,9,8,10,7,"4,147",-106,-17.6
+51019,VA,Bedford County,3,2,2,2,"78,997",115,3.9
+51021,VA,Bland County,8,8,7,7,"6,280",-23,2.7
+51023,VA,Botetourt County,2,2,2,2,"33,419",67,6.1
+51025,VA,Brunswick County,6,6,4,4,"16,231",-105,-1.3
+51027,VA,Buchanan County,9,9,10,10,"21,004",-365,-11.4
+51029,VA,Buckingham County,8,3,7,2,"17,148",105,8
+51031,VA,Campbell County,3,2,2,2,"54,885",-252,-2.8
+51033,VA,Caroline County,1,1,1,1,"30,725",-26,-2.6
+51035,VA,Carroll County,6,7,6,9,"29,791",50,7.9
+51036,VA,Charles City County,1,1,1,1,"6,963",-37,0.6
+51037,VA,Charlotte County,8,8,7,7,"11,880",-64,-1.8
+51041,VA,Chesterfield County,1,1,1,1,"352,802","4,521",9.4
+51043,VA,Clarke County,1,1,1,1,"14,619",108,8.9
+51045,VA,Craig County,2,2,2,2,"5,131",29,10
+51047,VA,Culpeper County,6,1,4,1,"52,605",810,11.8
+51049,VA,Cumberland County,1,8,1,4,"9,932",75,11.1
+51051,VA,Dickenson County,9,9,12,8,"14,318",-208,-8.7
+51053,VA,Dinwiddie County,1,1,1,1,"28,544",-89,-0.1
+51057,VA,Essex County,8,6,4,4,"10,953",57,6
+51059,VA,Fairfax County,1,1,1,1,"1,147,532",-931,-7.9
+51061,VA,Fauquier County,1,1,1,1,"71,222",580,6.6
+51063,VA,Floyd County,8,3,7,2,"15,749",-41,0.6
+51065,VA,Fluvanna County,3,3,2,2,"27,270",372,10.9
+51067,VA,Franklin County,2,2,2,2,"56,042",-149,1.4
+51069,VA,Frederick County,3,3,2,2,"89,313","1,140",10.7
+51071,VA,Giles County,3,3,2,2,"16,720",-79,-1.6
+51073,VA,Gloucester County,1,1,1,1,"37,348",7,3.3
+51075,VA,Goochland County,1,1,1,1,"23,753",534,24.1
+51077,VA,Grayson County,9,9,12,12,"15,550",-85,0
+51079,VA,Greene County,3,3,2,2,"19,819",127,2.5
+51081,VA,Greensville County,6,6,4,4,"11,336",-96,-6.8
+51083,VA,Halifax County,6,6,6,6,"33,911",-270,-3.6
+51085,VA,Hanover County,1,1,1,1,"107,766",880,7.7
+51087,VA,Henrico County,1,1,1,1,"330,818","1,825",2.4
+51089,VA,Henry County,4,4,5,5,"50,557",-493,-2.9
+51091,VA,Highland County,9,8,10,7,"2,190",-18,-1.8
+51093,VA,Isle of Wight County,1,1,1,1,"37,109",137,4.4
+51095,VA,James City County,1,1,1,1,"76,523",490,7.2
+51097,VA,King and Queen County,1,8,1,4,"7,025",-20,2.1
+51099,VA,King George County,8,6,4,4,"26,836",224,4
+51101,VA,King William County,1,1,1,1,"17,148",229,9.8
+51103,VA,Lancaster County,9,9,12,12,"10,603",-93,4.9
+51105,VA,Lee County,8,8,7,7,"23,423",-233,-4.3
+51107,VA,Loudoun County,1,1,1,1,"413,538","8,016",11.2
+51109,VA,Louisa County,1,8,1,4,"37,591",807,21.5
+51111,VA,Lunenburg County,9,9,12,12,"12,196",-19,2
+51113,VA,Madison County,8,8,7,4,"13,261",13,1
+51115,VA,Mathews County,1,1,1,1,"8,834",42,11.8
+51117,VA,Mecklenburg County,7,7,11,9,"30,587",-37,4.4
+51119,VA,Middlesex County,8,8,4,4,"10,582",-151,-8.5
+51121,VA,Montgomery County,3,3,2,2,"98,535",3,-1.4
+51125,VA,Nelson County,3,3,2,2,"14,930",68,5.4
+51127,VA,New Kent County,1,1,1,1,"23,091",774,30.9
+51131,VA,Northampton County,9,8,12,4,"11,710",-51,1.5
+51133,VA,Northumberland County,9,9,12,12,"12,095",-73,1.7
+51135,VA,Nottoway County,6,6,4,4,"15,232",-168,-7.4
+51137,VA,Orange County,6,6,4,4,"37,051",453,9.4
+51139,VA,Page County,6,6,6,4,"23,902",-70,-0.5
+51141,VA,Patrick County,8,8,7,7,"17,608",-55,1.9
+51143,VA,Pittsylvania County,3,4,2,5,"60,354",-547,-4.5
+51145,VA,Powhatan County,1,1,1,1,"29,652",442,14.9
+51147,VA,Prince Edward County,6,6,4,4,"22,802",-104,-3.4
+51149,VA,Prince George County,1,1,1,1,"38,353",360,7.7
+51153,VA,Prince William County,1,1,1,1,"470,335","4,100",-0.6
+51155,VA,Pulaski County,3,3,2,2,"34,027",-33,3.3
+51157,VA,Rappahannock County,8,1,4,1,"7,370",25,6
+51159,VA,Richmond County,9,9,12,12,"9,023",53,9.7
+51161,VA,Roanoke County,2,2,2,2,"94,186",100,5
+51163,VA,Rockbridge County,6,6,6,6,"22,573",-188,-2.2
+51165,VA,Rockingham County,3,3,2,2,"81,948",687,7.4
+51167,VA,Russell County,6,7,6,9,"26,586",-209,-3
+51169,VA,Scott County,3,2,2,2,"21,566",-106,1
+51171,VA,Shenandoah County,6,6,6,4,"43,616",143,4.1
+51173,VA,Smyth County,6,7,6,11,"30,104",-350,-4.9
+51175,VA,Southampton County,6,6,4,4,"17,631",-82,0.1
+51177,VA,Spotsylvania County,1,1,1,1,"136,215","2,204",12.9
+51179,VA,Stafford County,1,1,1,1,"152,882","3,058",13.9
+51181,VA,Surry County,1,8,1,4,"6,422",-41,-4.7
+51183,VA,Sussex County,1,1,1,1,"11,159",-82,-3.5
+51185,VA,Tazewell County,7,5,8,8,"40,595",-463,-6.1
+51187,VA,Warren County,1,1,1,1,"40,164",158,2.4
+51191,VA,Washington County,3,2,2,2,"53,740",-327,-1.4
+51193,VA,Westmoreland County,7,6,11,4,"18,015",198,13.3
+51195,VA,Wise County,7,7,11,8,"37,383",-492,-9.3
+51197,VA,Wythe County,6,6,6,6,"28,684",-14,3
+51199,VA,York County,1,1,1,1,"68,280",304,3.5
+51510,VA,Alexandria city,1,1,1,1,"159,428",359,-8.8
+51520,VA,Bristol city,3,2,2,2,"16,762",77,11.1
+51530,VA,Buena Vista city,6,6,6,6,"6,478",-16,-4.9
+51540,VA,Charlottesville city,3,3,2,2,"47,266",-240,-10.5
+51550,VA,Chesapeake city,1,1,1,1,"244,835","2,476",6.4
+51570,VA,Colonial Heights city,1,1,1,1,"17,370",-134,-11.8
+51580,VA,Covington city,6,6,6,6,"5,538",-40,-5.9
+51590,VA,Danville city,3,4,2,5,"40,044",-605,-9.6
+51595,VA,Emporia city,6,6,4,4,"5,346",-17,1.1
+51600,VA,Fairfax city,1,1,1,1,"24,019",294,-7.3
+51610,VA,Falls Church city,1,1,1,1,"14,617",150,2.1
+51620,VA,Franklin city,6,6,4,4,"7,967",-122,-20.8
+51630,VA,Fredericksburg city,1,1,1,1,"29,036",-135,-12.5
+51640,VA,Galax city,6,7,6,9,"6,347",-1,7.6
+51650,VA,Hampton city,1,1,1,1,"134,510",180,-1.4
+51660,VA,Harrisonburg city,3,3,2,2,"53,016",-472,-14.6
+51670,VA,Hopewell city,1,1,1,1,"22,529",51,0.1
+51678,VA,Lexington city,6,6,6,6,"7,446",149,12.3
+51680,VA,Lynchburg city,3,2,2,2,"82,168",859,5.5
+51683,VA,Manassas city,1,1,1,1,"41,085",39,-12.2
+51685,VA,Manassas Park city,1,1,1,1,"17,478",-240,-12.3
+51690,VA,Martinsville city,4,4,5,5,"12,554",-73,-1.4
+51700,VA,Newport News city,1,1,1,1,"179,225",702,-2.1
+51710,VA,Norfolk city,1,1,1,1,"242,742",-843,-8.5
+51720,VA,Norton city,7,7,11,8,"3,981",9,4.3
+51730,VA,Petersburg city,1,1,1,1,"31,346",290,3.2
+51735,VA,Poquoson city,1,1,1,1,"12,271",102,9
+51740,VA,Portsmouth city,1,1,1,1,"94,398",-352,-7.5
+51750,VA,Radford city,3,3,2,2,"18,249",148,5.6
+51760,VA,Richmond city,1,1,1,1,"230,436","1,215",1
+51770,VA,Roanoke city,2,2,2,2,"99,143",134,0.4
+51775,VA,Salem city,2,2,2,2,"25,301",8,1.6
+51790,VA,Staunton city,4,3,5,2,"24,932",370,15.3
+51800,VA,Suffolk city,1,1,1,1,"92,108","1,133",9.2
+51810,VA,Virginia Beach city,1,1,1,1,"449,974",125,-4.6
+51820,VA,Waynesboro city,4,3,5,2,"22,630",99,-0.3
+51830,VA,Williamsburg city,1,1,1,1,"14,954",-48,-3.3
+51840,VA,Winchester city,3,3,2,2,"28,078",116,1.3
+53000,WA,Washington,,,,,"7,614,893","91,024",8.1
+53001,WA,Adams County,6,6,6,5,"19,983",247,-2.1
+53003,WA,Asotin County,3,3,2,2,"22,582",-34,0.5
+53005,WA,Benton County,3,2,2,2,"204,390","3,104",9.8
+53007,WA,Chelan County,3,3,2,2,"77,200",448,3.7
+53009,WA,Clallam County,5,5,8,8,"77,331",780,15.7
+53011,WA,Clark County,1,1,1,1,"488,241","6,814",10.3
+53013,WA,Columbia County,6,3,6,2,"3,985",-54,-12.2
+53015,WA,Cowlitz County,3,3,2,2,"110,593","1,841",15.4
+53017,WA,Douglas County,3,3,2,2,"43,429",680,10.8
+53019,WA,Ferry County,9,9,12,12,"7,627",-11,1
+53021,WA,Franklin County,3,2,2,2,"95,222","1,219",1.1
+53023,WA,Garfield County,8,8,7,7,"2,225",-15,-6.3
+53025,WA,Grant County,4,5,5,8,"97,733","1,061",3
+53027,WA,Grays Harbor County,4,4,5,5,"75,061","1,260",18.9
+53029,WA,Island County,4,4,3,3,"85,141",914,9
+53031,WA,Jefferson County,6,6,6,6,"32,221",475,21.5
+53033,WA,King County,1,1,1,1,"2,252,782","24,418",5.9
+53035,WA,Kitsap County,3,2,2,2,"271,473","2,197",5.7
+53037,WA,Kittitas County,6,4,3,3,"47,935",577,9.6
+53039,WA,Klickitat County,6,6,6,4,"22,425",289,13
+53041,WA,Lewis County,4,4,5,3,"80,707","1,138",14.4
+53043,WA,Lincoln County,8,8,7,7,"10,939",213,20.9
+53045,WA,Mason County,6,4,5,3,"66,768","1,388",21
+53047,WA,Okanogan County,6,6,6,6,"42,243",126,2.7
+53049,WA,Pacific County,7,7,9,9,"22,471",397,24.9
+53051,WA,Pend Oreille County,8,2,7,2,"13,724",138,13.3
+53053,WA,Pierce County,1,1,1,1,"904,980","11,224",7.8
+53055,WA,San Juan County,9,9,12,12,"17,582",458,28.9
+53057,WA,Skagit County,3,3,2,2,"129,205","1,370",9.3
+53059,WA,Skamania County,1,1,1,1,"12,083",164,13.2
+53061,WA,Snohomish County,1,1,1,1,"822,083","9,024",6
+53063,WA,Spokane County,2,2,2,2,"522,798","9,195",15.6
+53065,WA,Stevens County,6,2,6,2,"45,723",499,12.2
+53067,WA,Thurston County,3,2,2,2,"290,536","4,480",12.9
+53069,WA,Wahkiakum County,8,8,7,4,"4,488",73,19.5
+53071,WA,Walla Walla County,4,3,5,2,"60,760",145,1.9
+53073,WA,Whatcom County,3,3,2,2,"229,247","4,050",15.4
+53075,WA,Whitman County,4,4,5,5,"50,104",421,5.5
+53077,WA,Yakima County,3,3,2,2,"250,873",311,-5.3
+54000,WV,West Virginia,,,,,"1,792,147","-12,144",-4.1
+54001,WV,Barbour County,7,6,9,6,"16,441",-46,-0.4
+54003,WV,Berkeley County,3,2,2,2,"119,171","1,935",13.7
+54005,WV,Boone County,2,3,2,2,"21,457",-496,-19.5
+54007,WV,Braxton County,8,8,7,7,"13,957",-119,-4.9
+54009,WV,Brooke County,3,3,2,2,"21,939",-190,-3.8
+54011,WV,Cabell County,2,2,2,2,"91,945","-1,090",-11
+54013,WV,Calhoun County,8,8,7,7,"7,109",-108,-9.9
+54015,WV,Clay County,2,3,2,2,"8,508",-131,-12.8
+54017,WV,Doddridge County,9,9,8,8,"8,448",-108,-9.5
+54019,WV,Fayette County,6,3,5,2,"42,406",-576,-7.2
+54021,WV,Gilmer County,9,7,12,10,"7,823",-75,-5.5
+54023,WV,Grant County,6,7,7,12,"11,568",-62,-5.1
+54025,WV,Greenbrier County,7,6,11,6,"34,662",-130,1
+54027,WV,Hampshire County,3,3,2,2,"23,175",-182,-5.4
+54029,WV,Hancock County,3,3,2,2,"28,810",-269,-2.5
+54031,WV,Hardy County,8,6,7,6,"13,776",12,2
+54033,WV,Harrison County,5,5,8,8,"67,256",-238,-0.8
+54035,WV,Jackson County,6,6,6,6,"28,576",-119,-1.1
+54037,WV,Jefferson County,1,1,1,1,"57,146",256,3.1
+54039,WV,Kanawha County,2,3,2,2,"178,124","-2,286",-9.2
+54041,WV,Lewis County,7,7,9,9,"15,907",-110,-1.6
+54043,WV,Lincoln County,2,2,2,2,"20,409",-174,-3.3
+54045,WV,Logan County,6,6,6,5,"32,019",-590,-14
+54047,WV,McDowell County,7,7,9,10,"17,624",-597,-24.7
+54049,WV,Marion County,4,4,5,5,"56,072",-19,1.1
+54051,WV,Marshall County,3,3,2,2,"30,531",-290,-5.8
+54053,WV,Mason County,6,6,5,5,"26,516",-236,-4.8
+54055,WV,Mercer County,5,4,8,5,"58,758",-444,-3.6
+54057,WV,Mineral County,3,3,2,2,"26,868",-85,0.4
+54059,WV,Mingo County,6,7,6,9,"23,424",-427,-15.3
+54061,WV,Monongalia County,3,3,2,2,"105,612",-39,-3.6
+54063,WV,Monroe County,8,8,7,7,"13,275",-14,3.2
+54065,WV,Morgan County,3,8,2,7,"17,884",54,6.8
+54067,WV,Nicholas County,6,6,6,6,"24,496",-339,-9.4
+54069,WV,Ohio County,3,3,2,2,"41,411",-294,-2.6
+54071,WV,Pendleton County,8,8,7,7,"6,969",-15,-2
+54073,WV,Pleasants County,3,6,2,7,"7,460",-45,-5.1
+54075,WV,Pocahontas County,9,9,12,10,"8,247",-161,-13
+54077,WV,Preston County,3,3,2,2,"33,432",-121,-1.9
+54079,WV,Putnam County,2,2,2,2,"56,450",-192,-1.7
+54081,WV,Raleigh County,4,3,5,2,"73,361",-811,-6.5
+54083,WV,Randolph County,7,7,11,8,"28,695",-119,-1.8
+54085,WV,Ritchie County,8,8,7,7,"9,554",-194,-12.3
+54087,WV,Roane County,6,6,7,7,"13,688",-230,-11.8
+54089,WV,Summers County,7,6,9,6,"12,573",-99,-3.2
+54091,WV,Taylor County,6,6,5,5,"16,695",-133,-3.7
+54093,WV,Tucker County,9,8,12,7,"6,839",-98,-4.1
+54095,WV,Tyler County,6,9,6,9,"8,591",-149,-13.3
+54097,WV,Upshur County,7,7,9,9,"24,176",-196,-5.5
+54099,WV,Wayne County,2,2,2,2,"39,402",-559,-8.9
+54101,WV,Webster County,9,9,12,12,"8,114",-160,-13.8
+54103,WV,Wetzel County,6,6,6,6,"15,065",-194,-6
+54105,WV,Wirt County,3,3,2,2,"5,821",10,2.8
+54107,WV,Wood County,3,3,2,2,"83,518",-662,-5.4
+54109,WV,Wyoming County,7,6,10,7,"20,394",-390,-11
+55000,WI,Wisconsin,,,,,"5,822,434","15,028",0.3
+55001,WI,Adams County,8,8,7,6,"20,220",-121,0.4
+55003,WI,Ashland County,7,7,11,11,"15,562",-25,-2.4
+55005,WI,Barron County,6,6,6,6,"45,244",94,1.8
+55007,WI,Bayfield County,8,8,7,6,"15,036",10,6.2
+55009,WI,Brown County,2,2,2,2,"264,542","1,377",0
+55011,WI,Buffalo County,8,8,6,6,"13,031",-83,-6.6
+55013,WI,Burnett County,8,8,4,4,"15,414",40,5.5
+55015,WI,Calumet County,3,3,2,2,"50,089",-43,-3.2
+55017,WI,Chippewa County,3,3,2,2,"64,658",549,7.3
+55019,WI,Clark County,8,6,6,6,"34,774",69,-5.4
+55021,WI,Columbia County,2,2,2,2,"57,532",199,2
+55023,WI,Crawford County,7,7,9,9,"16,131",-134,-6.4
+55025,WI,Dane County,2,2,2,2,"546,695","4,747",4.3
+55027,WI,Dodge County,4,4,3,3,"87,839",6,1.3
+55029,WI,Door County,6,6,6,6,"27,668",79,8.4
+55031,WI,Douglas County,2,2,2,2,"43,150",7,0.9
+55033,WI,Dunn County,6,6,5,3,"45,368",277,3.8
+55035,WI,Eau Claire County,3,3,2,2,"104,646",291,-1
+55037,WI,Florence County,9,9,8,8,"4,295",1,5.1
+55039,WI,Fond du Lac County,3,3,2,2,"103,403",402,2.5
+55041,WI,Forest County,9,9,10,12,"9,004",27,3.7
+55043,WI,Grant County,6,6,5,5,"51,439",-5,-1.8
+55045,WI,Green County,6,2,5,2,"36,960",36,1.1
+55047,WI,Green Lake County,6,6,6,6,"18,913",64,4.1
+55049,WI,Iowa County,2,2,2,2,"23,678",-44,-4.2
+55051,WI,Iron County,9,9,12,12,"5,687",0,10.2
+55053,WI,Jackson County,6,6,6,6,"20,643",171,5.6
+55055,WI,Jefferson County,4,4,3,3,"84,769",-280,-5
+55057,WI,Juneau County,7,7,9,9,"26,687",94,3
+55059,WI,Kenosha County,1,1,1,1,"169,561",635,1.1
+55061,WI,Kewaunee County,2,2,2,2,"20,434",39,1.8
+55063,WI,La Crosse County,3,3,2,2,"118,016",-25,-1.6
+55065,WI,Lafayette County,8,8,7,7,"16,665",-7,-3.7
+55067,WI,Langlade County,6,6,6,6,"19,189",-47,0.2
+55069,WI,Lincoln County,6,6,5,5,"27,593",-80,-2
+55071,WI,Manitowoc County,4,4,5,5,"78,981",-34,0.4
+55073,WI,Marathon County,3,3,2,2,"135,692",271,-0.6
+55075,WI,Marinette County,6,6,5,5,"40,350",-52,1.6
+55077,WI,Marquette County,8,8,7,7,"15,574",156,12.1
+55078,WI,Menominee County,8,8,7,5,"4,556",-39,-11.6
+55079,WI,Milwaukee County,1,1,1,1,"945,726","-1,243",-6.3
+55081,WI,Monroe County,6,6,6,6,"46,253",112,-0.2
+55083,WI,Oconto County,2,2,2,2,"37,930",106,3.4
+55085,WI,Oneida County,7,7,9,9,"35,595",151,8.3
+55087,WI,Outagamie County,3,3,2,2,"187,885","1,006",0.8
+55089,WI,Ozaukee County,1,1,1,1,"89,221",162,1.7
+55091,WI,Pepin County,8,8,7,4,"7,287",-17,-0.3
+55093,WI,Pierce County,1,1,1,1,"42,754",162,1.7
+55095,WI,Polk County,6,6,4,4,"43,783",215,5.9
+55097,WI,Portage County,4,4,5,5,"70,772",-78,-3.3
+55099,WI,Price County,9,9,11,12,"13,351",-6,1.4
+55101,WI,Racine County,3,3,2,2,"196,311",-46,-3.2
+55103,WI,Richland County,6,6,6,6,"17,252",-145,-7.1
+55105,WI,Rock County,3,3,2,2,"163,354",480,0.5
+55107,WI,Rusk County,6,6,6,6,"14,178",68,6.6
+55109,WI,St. Croix County,1,1,1,1,"90,687",999,7.2
+55111,WI,Sauk County,4,4,5,5,"64,442",124,0.1
+55113,WI,Sawyer County,9,7,12,12,"16,558",94,9
+55115,WI,Shawano County,6,6,6,5,"40,899",128,1.4
+55117,WI,Sheboygan County,3,3,2,2,"115,340",107,-0.3
+55119,WI,Taylor County,6,6,6,6,"20,343",-21,-2.2
+55121,WI,Trempealeau County,8,6,7,6,"29,649",155,-0.5
+55123,WI,Vernon County,6,6,6,6,"30,822",50,-1.1
+55125,WI,Vilas County,9,9,12,12,"22,195",267,17.8
+55127,WI,Walworth County,4,4,3,3,"103,868",318,3.3
+55129,WI,Washburn County,6,7,6,11,"15,720",-117,-1.5
+55131,WI,Washington County,1,1,1,1,"136,034",589,3.5
+55133,WI,Waukesha County,1,1,1,1,"404,198","1,676",3.6
+55135,WI,Waupaca County,6,6,6,6,"50,990",-140,1.5
+55137,WI,Waushara County,8,6,6,6,"24,443",176,8.9
+55139,WI,Winnebago County,3,3,2,2,"171,907","1,029",4.4
+55141,WI,Wood County,4,4,5,5,"72,999",45,-0.3
+56000,WY,Wyoming,,,,,"578,759","1,158",-0.8
+56001,WY,Albany County,4,4,5,5,"38,880",152,0.2
+56003,WY,Big Horn County,9,9,12,12,"11,790",-87,-8.3
+56005,WY,Campbell County,5,5,8,8,"46,341",42,-5.1
+56007,WY,Carbon County,7,7,9,9,"14,800",-79,-9.2
+56009,WY,Converse County,6,6,6,6,"13,822",164,9
+56011,WY,Crook County,9,9,10,10,"7,584",139,14.2
+56013,WY,Fremont County,7,7,8,8,"39,261",-300,-8.1
+56015,WY,Goshen County,7,7,9,9,"13,211",-81,-5.4
+56017,WY,Hot Springs County,7,7,9,9,"4,413",-155,-26.9
+56019,WY,Johnson County,7,7,9,9,"8,445",-1,2.7
+56021,WY,Laramie County,3,3,2,2,"99,500",635,2.5
+56023,WY,Lincoln County,7,7,9,9,"19,830",385,15.4
+56025,WY,Natrona County,3,3,2,2,"79,858",683,5.8
+56027,WY,Niobrara County,9,9,12,12,"2,356",-44,-24
+56029,WY,Park County,7,7,11,11,"29,194",-16,-0.9
+56031,WY,Platte County,7,7,11,11,"8,393",-123,-10.3
+56033,WY,Sheridan County,7,7,8,8,"30,485",266,10
+56035,WY,Sublette County,9,9,10,10,"9,831",33,2.4
+56037,WY,Sweetwater County,5,5,8,8,"42,343",-515,-17.1
+56039,WY,Teton County,7,7,8,8,"23,464",195,1.8
+56041,WY,Uinta County,7,7,8,8,"20,226",-66,-9.2
+56043,WY,Washakie County,7,7,11,11,"7,805",-72,-8.3
+56045,WY,Weston County,7,7,9,9,"6,927",3,2.6
+72000,PR,Puerto Rico,,,,,"3,193,694",,
+72001,PR,"Adjuntas Municipio, Puerto Rico",6,6,5,5,"17,363",,
+72003,PR,"Aguada Municipio, Puerto Rico",2,2,2,2,"36,694",,
+72005,PR,"Aguadilla Municipio, Puerto Rico",2,2,2,2,"50,265",,
+72007,PR,"Aguas Buenas Municipio, Puerto Rico",1,1,1,1,"24,814",,
+72009,PR,"Aibonito Municipio, Puerto Rico",1,1,1,1,"22,108",,
+72011,PR,"Añasco Municipio, Puerto Rico",2,2,2,2,"26,161",,
+72013,PR,"Arecibo Municipio, Puerto Rico",1,3,1,2,"81,966",,
+72015,PR,"Arroyo Municipio, Puerto Rico",3,3,2,2,"17,238",,
+72017,PR,"Barceloneta Municipio, Puerto Rico",1,1,1,1,"23,727",,
+72019,PR,"Barranquitas Municipio, Puerto Rico",1,1,1,1,"27,725",,
+72021,PR,"Bayamón Municipio, Puerto Rico",1,1,1,1,"169,269",,
+72023,PR,"Cabo Rojo Municipio, Puerto Rico",3,3,2,2,"47,515",,
+72025,PR,"Caguas Municipio, Puerto Rico",1,1,1,1,"124,606",,
+72027,PR,"Camuy Municipio, Puerto Rico",1,3,1,2,"30,504",,
+72029,PR,"Canóvanas Municipio, Puerto Rico",1,1,1,1,"44,674",,
+72031,PR,"Carolina Municipio, Puerto Rico",1,1,1,1,"146,984",,
+72033,PR,"Cataño Municipio, Puerto Rico",1,1,1,1,"23,121",,
+72035,PR,"Cayey Municipio, Puerto Rico",1,1,1,1,"42,409",,
+72037,PR,"Ceiba Municipio, Puerto Rico",3,1,2,1,"10,904",,
+72039,PR,"Ciales Municipio, Puerto Rico",1,1,1,1,"15,808",,
+72041,PR,"Cidra Municipio, Puerto Rico",1,1,1,1,"38,307",,
+72043,PR,"Coamo Municipio, Puerto Rico",4,4,5,3,"38,336",,
+72045,PR,"Comerío Municipio, Puerto Rico",1,1,1,1,"18,648",,
+72047,PR,"Corozal Municipio, Puerto Rico",1,1,1,1,"32,293",,
+72049,PR,"Culebra Municipio, Puerto Rico",9,9,12,12,"1,714",,
+72051,PR,"Dorado Municipio, Puerto Rico",1,1,1,1,"36,141",,
+72053,PR,"Fajardo Municipio, Puerto Rico",3,1,2,1,"29,454",,
+72054,PR,"Florida Municipio, Puerto Rico",1,1,1,1,"11,317",,
+72055,PR,"Guánica Municipio, Puerto Rico",3,2,2,2,"15,383",,
+72057,PR,"Guayama Municipio, Puerto Rico",3,3,2,2,"39,465",,
+72059,PR,"Guayanilla Municipio, Puerto Rico",3,2,2,2,"17,623",,
+72061,PR,"Guaynabo Municipio, Puerto Rico",1,1,1,1,"83,728",,
+72063,PR,"Gurabo Municipio, Puerto Rico",1,1,1,1,"47,093",,
+72065,PR,"Hatillo Municipio, Puerto Rico",1,3,1,2,"39,218",,
+72067,PR,"Hormigueros Municipio, Puerto Rico",3,3,2,2,"15,518",,
+72069,PR,"Humacao Municipio, Puerto Rico",1,1,1,1,"50,653",,
+72071,PR,"Isabela Municipio, Puerto Rico",2,2,2,2,"40,423",,
+72073,PR,"Jayuya Municipio, Puerto Rico",6,6,3,5,"13,891",,
+72075,PR,"Juana Díaz Municipio, Puerto Rico",2,2,2,2,"44,679",,
+72077,PR,"Juncos Municipio, Puerto Rico",1,1,1,1,"38,155",,
+72079,PR,"Lajas Municipio, Puerto Rico",3,3,2,2,"22,010",,
+72081,PR,"Lares Municipio, Puerto Rico",2,2,2,2,"24,276",,
+72083,PR,"Las Marías Municipio, Puerto Rico",6,6,7,7,"7,927",,
+72085,PR,"Las Piedras Municipio, Puerto Rico",1,1,1,1,"37,007",,
+72087,PR,"Loíza Municipio, Puerto Rico",1,1,1,1,"24,553",,
+72089,PR,"Luquillo Municipio, Puerto Rico",3,1,2,1,"17,665",,
+72091,PR,"Manatí Municipio, Puerto Rico",1,1,1,1,"37,287",,
+72093,PR,"Maricao Municipio, Puerto Rico",6,6,7,7,"5,430",,
+72095,PR,"Maunabo Municipio, Puerto Rico",1,1,1,1,"10,321",,
+72097,PR,"Mayagüez Municipio, Puerto Rico",3,3,2,2,"71,530",,
+72099,PR,"Moca Municipio, Puerto Rico",2,2,2,2,"34,891",,
+72101,PR,"Morovis Municipio, Puerto Rico",1,1,1,1,"30,335",,
+72103,PR,"Naguabo Municipio, Puerto Rico",1,1,1,1,"25,761",,
+72105,PR,"Naranjito Municipio, Puerto Rico",1,1,1,1,"27,349",,
+72107,PR,"Orocovis Municipio, Puerto Rico",1,1,1,1,"20,220",,
+72109,PR,"Patillas Municipio, Puerto Rico",3,3,2,2,"16,211",,
+72111,PR,"Peñuelas Municipio, Puerto Rico",3,2,2,2,"19,249",,
+72113,PR,"Ponce Municipio, Puerto Rico",2,2,2,2,"131,881",,
+72115,PR,"Quebradillas Municipio, Puerto Rico",1,3,1,2,"22,918",,
+72117,PR,"Rincón Municipio, Puerto Rico",2,2,2,2,"13,656",,
+72119,PR,"Río Grande Municipio, Puerto Rico",1,1,1,1,"48,025",,
+72121,PR,"Sabana Grande Municipio, Puerto Rico",3,3,2,2,"21,712",,
+72123,PR,"Salinas Municipio, Puerto Rico",4,4,6,3,"27,128",,
+72125,PR,"San Germán Municipio, Puerto Rico",3,3,2,2,"30,227",,
+72127,PR,"San Juan Municipio, Puerto Rico",1,1,1,1,"318,441",,
+72129,PR,"San Lorenzo Municipio, Puerto Rico",1,1,1,1,"35,989",,
+72131,PR,"San Sebastián Municipio, Puerto Rico",2,2,2,2,"35,528",,
+72133,PR,"Santa Isabel Municipio, Puerto Rico",6,4,5,5,"21,209",,
+72135,PR,"Toa Alta Municipio, Puerto Rico",1,1,1,1,"72,025",,
+72137,PR,"Toa Baja Municipio, Puerto Rico",1,1,1,1,"74,271",,
+72139,PR,"Trujillo Alto Municipio, Puerto Rico",1,1,1,1,"63,674",,
+72141,PR,"Utuado Municipio, Puerto Rico",4,2,3,2,"27,395",,
+72143,PR,"Vega Alta Municipio, Puerto Rico",1,1,1,1,"36,061",,
+72145,PR,"Vega Baja Municipio, Puerto Rico",1,1,1,1,"50,023",,
+72147,PR,"Vieques Municipio, Puerto Rico",7,7,12,12,"8,386",,
+72149,PR,"Villalba Municipio, Puerto Rico",2,2,2,2,"21,372",,
+72151,PR,"Yabucoa Municipio, Puerto Rico",1,1,1,1,"32,282",,
+72153,PR,"Yauco Municipio, Puerto Rico",3,2,2,2,"33,575",,
