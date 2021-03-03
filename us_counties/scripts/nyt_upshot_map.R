@@ -62,7 +62,7 @@ fig <- plot_ly() %>%
     locations = str_pad(dat$id, 5, pad = "0"),
     z = dat$rank,
     colorscale = "Viridis",
-    zmin = 0,
+    zmin = 1,
     zmax = max(dat$rank, na.rm = TRUE),
     text = dat$County,
     marker = list(line = list(width = 0))) %>% 
@@ -71,3 +71,50 @@ fig <- plot_ly() %>%
   layout(geo = g)
 
 fig
+
+
+# Other data import and merge --------------------------------------------------
+
+pop <- read_delim(here::here("us_counties/data/clean/pop_est.csv"), 
+                 delim = ",") %>%
+  mutate(id = str_pad(id, 5, pad = "0"))
+
+pov <- read_delim(here::here("us_counties/data/clean/poverty_data.csv"), 
+                  delim = ",") %>%
+  mutate(id = str_pad(id, 5, pad = "0"))
+
+land <- read_delim(here::here("us_counties/data/clean/land_area.csv"), 
+                  delim = ",") %>%
+  mutate(id = str_pad(id, 5, pad = "0"))
+
+sun <- read_delim(here::here("us_counties/data/clean/sun.txt"), 
+                  delim = "\t") %>%
+  mutate(id = str_pad(id, 5, pad = "0"))
+
+precip <- read_delim(here::here("us_counties/data/clean/precip.txt"), 
+                  delim = "\t") %>%
+  mutate(id = str_pad(id, 5, pad = "0"))
+
+temp <- read_delim(here::here("us_counties/data/clean/temp.txt"), 
+                     delim = "\t") %>%
+  mutate(id = str_pad(id, 5, pad = "0")) %>%
+  filter(Month %in% c("Jan", "Jul")) %>%
+  select(id, Month, daily_max_air_temp_f) %>%
+  pivot_wider(names_from = Month, values_from = daily_max_air_temp_f) %>%
+  rename(temp_jan = Jan, temp_jul = Jul)
+
+
+comb_df <- full_join(pop, pov) %>%
+  full_join(land) %>%
+  full_join(sun) %>%
+  full_join(precip) %>%
+  full_join(temp)
+
+#UMORE UGLY non reproducible combining stuff ....
+
+write_tsv(df_x, here::here("us_counties/data/clean/combined_data.tsv"))
+
+
+# Load the combined df ----
+df <- read_delim(here::here("us_counties/data/clean/combined_data.tsv"), 
+           delim = "\t")
