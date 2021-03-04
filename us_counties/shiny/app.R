@@ -3,7 +3,7 @@ library(plotly)
 library(rjson)
 library(tidyverse)
 
-df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/nyt_upshot_county_data.tsv"), delim = "\t")
+df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/combined_data.tsv"), delim = "\t")
 
 df_rank <- df %>% mutate(rank_income = min_rank(desc(income)),
          rank_education = min_rank(desc(education)),
@@ -18,13 +18,19 @@ counties <- rjson::fromJSON(file='https://raw.githubusercontent.com/plotly/datas
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("US Counties"),
+  titlePanel("Where in the US are you best suited to live?"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
     
     # Sidebar panel for inputs ----
     sidebarPanel(
+      
+      # Include clarifying text ----
+      helpText("How much do you care about the following things,",
+               "in the place you live? A 0 indicates you don't care",
+               "at all and a 5 indicates that it is very important to you."),
+      
       
       # Input: Slider for the number of bins ----
       sliderInput(inputId = "obs_w",
@@ -61,15 +67,17 @@ ui <- fluidPage(
                   label = "Life Expectancy:",
                   min = 0,
                   max = 5,
-                  value = 5)
-
-    ),
+                  value = 5),
+      
+      actionButton("update", "Update Map!")
+      
+      ),
 
     # Main panel for displaying outputs ----
     mainPanel(
       
       # Output: Histogram ----
-      plotlyOutput(outputId = "distPlot")
+      plotlyOutput(outputId = "distPlot", width = "100%")
       
     )
   )
@@ -78,21 +86,25 @@ ui <- fluidPage(
 # Define server logic required to draw plot
 server <- function(input, output) {
   
-  output$distPlot <- renderPlotly({
-    
-    dat <- df_rank %>%
+  datasetInput <- eventReactive(input$update,
+    df_rank %>%
       mutate(w_rank_dis = rank_disability * input$dis_w,
              w_rank_inc = rank_income * input$inc_w,
              w_rank_obs = rank_obesity * input$obs_w,
              w_rank_une = rank_unemployment * input$une_w,
              w_rank_edu = rank_education * input$edu_w,
              w_rank_lif = rank_life * input$lif_w) %>%
-    pivot_longer(contains("w_rank_"),
-                 names_to = "type",
-                 values_to = "w_rank") %>%
+      pivot_longer(contains("w_rank_"),
+                   names_to = "type",
+                   values_to = "w_rank") %>%
       group_by(id) %>%
       summarise(rank_avg = mean(w_rank)) %>%
-      mutate(rank_me = min_rank(rank_avg))
+      mutate(rank_me = min_rank(rank_avg)), ignoreNULL = FALSE)
+  
+  
+  output$distPlot <- renderPlotly({
+    
+    dat <- datasetInput()
     
     dat <- full_join(df, dat)
     
@@ -110,12 +122,14 @@ server <- function(input, output) {
         locations = str_pad(dat$id, 5, pad = "0"),
         z = dat$rank_me,
         colorscale = "Viridis",
-        zmin = 0,
+        zmin = 1,
         zmax = max(dat$rank_me, na.rm = TRUE),
         text = dat$County,
         marker = list(line = list(width = 0))) %>% 
       colorbar(title = "Rank") %>% 
-      layout(title = "Best county in US") %>% 
+      layout(legend = list(x = 0.1, y = 0.9)) %>%
+      layout(autosize = F,
+             margin = list(l = 0, r = 0, b = 0, t = 0, pad = 0)) %>%
       layout(geo = g)
     
     fig
