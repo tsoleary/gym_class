@@ -3,14 +3,13 @@ library(plotly)
 library(rjson)
 library(tidyverse)
 
-df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/combined_data.tsv"), delim = "\t")
+df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/combined_data.tsv"), delim = "\t") %>%
+  mutate(pop_d = pop_est_2019/area)
 
-df_rank <- df %>% mutate(rank_income = min_rank(desc(income)),
-         rank_education = min_rank(desc(education)),
-         rank_life = min_rank(desc(life)),
-         rank_obesity = min_rank(obesity),
-         rank_disability = min_rank(disability),
-         rank_unemployment = min_rank(unemployment)) 
+df_rank <- df %>% mutate(rank_education = min_rank(desc(education)),
+                         rank_life = min_rank(desc(life)),
+                         rank_unemployment = min_rank(unemployment),
+                         rank_sun = min_rank(desc(sun))) 
 
 counties <- rjson::fromJSON(file='https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
 
@@ -20,86 +19,99 @@ ui <- fluidPage(
   # App title ----
   titlePanel("Where in the US are you best suited to live?"),
   
-  # Sidebar layout with input and output definitions ----
-  sidebarLayout(
-    
-    # Sidebar panel for inputs ----
-    sidebarPanel(
-      
-      # Include clarifying text ----
-      helpText("How much do you care about the following things,",
-               "in the place you live? A 0 indicates you don't care",
-               "at all and a 5 indicates that it is very important to you."),
-      
-      
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "obs_w",
-                  label = "Obesity:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "une_w",
-                  label = "Unemployment:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "dis_w",
-                  label = "Disability:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "inc_w",
-                  label = "Income:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "edu_w",
-                  label = "Education:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      # Input: Slider for the number of bins ----
-      sliderInput(inputId = "lif_w",
-                  label = "Life Expectancy:",
-                  min = 0,
-                  max = 5,
-                  value = 5),
-      
-      actionButton("update", "Update Map!")
-      
-      ),
-
-    # Main panel for displaying outputs ----
-    mainPanel(
-      
-      # Output: Histogram ----
-      plotlyOutput(outputId = "distPlot", width = "100%")
-      
+  # Output: Histogram ----
+  fluidRow(
+    column(12,
+           plotlyOutput(outputId = "distPlot", width = "100%")
+    )
+  ),
+  
+  
+  hr(),
+  
+  fluidRow(
+    column(4,
+           h4("Weather"),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "temp_jan_range",
+                       label = "Coldest Month (°F)",
+                       min = 10,
+                       max = 75,
+                       value = c(10,75)),
+           
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "temp_jul_range",
+                       label = "Warmest Month (°F)",
+                       min = 55,
+                       max = 110,
+                       value = c(55,110)),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "sun_w",
+                       label = "Sunshine",
+                       min = 0,
+                       max = 5,
+                       value = 5)
+    ),
+    column(4,
+           h4("Population"),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "rural_urban_range",
+                       label = "Urban to Rural",
+                       min = 1,
+                       max = 9,
+                       value = c(1, 12)),
+           
+           actionButton("update", "Update Map!")
+           
+    ),
+    column(4,
+           h4("Quality of Life Metrics"),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "une_w",
+                       label = "Unemployment",
+                       min = 0,
+                       max = 5,
+                       value = 5),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "edu_w",
+                       label = "Education",
+                       min = 0,
+                       max = 5,
+                       value = 5),
+           # Input: Slider for the number of bins ----
+           sliderInput(inputId = "lif_w",
+                       label = "Life Expectancy",
+                       min = 0,
+                       max = 5,
+                       value = 5)
     )
   )
 )
+
+
 
 # Define server logic required to draw plot
 server <- function(input, output) {
   
   datasetInput <- eventReactive(input$update,
-    df_rank %>%
-      mutate(w_rank_dis = rank_disability * input$dis_w,
-             w_rank_inc = rank_income * input$inc_w,
-             w_rank_obs = rank_obesity * input$obs_w,
-             w_rank_une = rank_unemployment * input$une_w,
-             w_rank_edu = rank_education * input$edu_w,
-             w_rank_lif = rank_life * input$lif_w) %>%
-      pivot_longer(contains("w_rank_"),
-                   names_to = "type",
-                   values_to = "w_rank") %>%
-      group_by(id) %>%
-      summarise(rank_avg = mean(w_rank)) %>%
-      mutate(rank_me = min_rank(rank_avg)), ignoreNULL = FALSE)
+                                df_rank %>%
+                                  filter(temp_jan >= input$temp_jan_range[1] &
+                                           temp_jan <= input$temp_jan_range[2]) %>%
+                                  filter(temp_jul >= input$temp_jul_range[1] &
+                                           temp_jul <= input$temp_jul_range[2]) %>%
+                                  filter(rural_urban_cont_2013 >= input$rural_urban_range[1] &
+                                           rural_urban_cont_2013 <= input$rural_urban_range[2]) %>%
+                                  mutate(w_rank_une = rank_unemployment * input$une_w,
+                                         w_rank_edu = rank_education * input$edu_w,
+                                         w_rank_lif = rank_life * input$lif_w,
+                                         w_rank_sun = rank_sun * input$sun_w) %>%
+                                  pivot_longer(contains("w_rank_"),
+                                               names_to = "type",
+                                               values_to = "w_rank") %>%
+                                  group_by(id) %>%
+                                  filter(!is.na(w_rank)) %>%
+                                  summarise(rank_avg = mean(w_rank)) %>%
+                                  mutate(rank_me = min_rank(rank_avg)), ignoreNULL = FALSE)
   
   
   output$distPlot <- renderPlotly({
