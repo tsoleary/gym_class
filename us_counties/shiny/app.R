@@ -22,7 +22,13 @@ ui <- fluidPage(
   # Output: Histogram ----
   fluidRow(
     column(12,
-           plotlyOutput(outputId = "distPlot", width = "100%")
+           # Output: Tabset w/ plot, summary, and table ----
+           tabsetPanel(type = "tabs",
+                       tabPanel("Map", plotlyOutput(outputId = "distPlot")),
+                       tabPanel("Table", tableOutput("table"))
+           )
+           
+           
     )
   ),
   
@@ -31,7 +37,7 @@ ui <- fluidPage(
   
   fluidRow(
     column(4,
-           h4("Weather"),
+           h3("Weather"),
            # Input: Slider for the number of bins ----
            sliderInput(inputId = "temp_jan_range",
                        label = "Coldest Month (°F)",
@@ -53,7 +59,7 @@ ui <- fluidPage(
                        value = 5)
     ),
     column(4,
-           h4("Population"),
+           h3("Population"),
            # Input: Slider for the number of bins ----
            sliderInput(inputId = "rural_urban_range",
                        label = "Urban to Rural",
@@ -65,7 +71,7 @@ ui <- fluidPage(
            
     ),
     column(4,
-           h4("Quality of Life Metrics"),
+           h3("Quality of Life Metrics"),
            # Input: Slider for the number of bins ----
            sliderInput(inputId = "une_w",
                        label = "Unemployment",
@@ -113,6 +119,18 @@ server <- function(input, output) {
                                   summarise(rank_avg = mean(w_rank)) %>%
                                   mutate(rank_me = min_rank(rank_avg)), ignoreNULL = FALSE)
   
+  # Show the first "n" observations ----
+  output$table <- renderTable({
+    dat <- datasetInput()
+    dat <- full_join(df, dat)
+    dat %>%
+      arrange(rank_me) %>%
+      rename(Rank = rank_me) %>%
+      select(Rank, County, temp_jan, temp_jul, sun, 
+             rural_urban_cont_2013, education, life, unemployment) %>%
+      head(20)
+
+  })
   
   output$distPlot <- renderPlotly({
     
@@ -127,7 +145,7 @@ server <- function(input, output) {
       lakecolor = col2rgb('white')
     )
     
-    fig <- plot_ly() %>% 
+    fig <- plot_ly(width = "1200px", height = "1000px") %>% 
       add_trace(
         type = "choropleth",
         geojson = counties,
@@ -140,8 +158,8 @@ server <- function(input, output) {
         marker = list(line = list(width = 0))) %>% 
       colorbar(title = "Rank") %>% 
       layout(legend = list(x = 0.1, y = 0.9)) %>%
-      layout(autosize = F,
-             margin = list(l = 0, r = 0, b = 0, t = 0, pad = 0)) %>%
+      # layout(autosize = F,
+      #        margin = list(l = 0, r = 0, b = 0, t = 0, pad = 0)) %>%
       layout(geo = g)
     
     fig
