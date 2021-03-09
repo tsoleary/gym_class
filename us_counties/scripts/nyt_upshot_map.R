@@ -118,3 +118,44 @@ write_tsv(df_x, here::here("us_counties/data/clean/combined_data.tsv"))
 # Load the combined df ----
 df <- read_delim(here::here("us_counties/data/clean/combined_data.tsv"), 
            delim = "\t")
+
+
+# Migration data ---------
+
+df_mig <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/county_to_county_migration.csv"), 
+                     delim = ",") %>%
+  mutate(id_A = str_pad(id_A, 5, pad = "0"),
+         id_B = str_pad(id_B, 5, pad = "0"))
+
+
+
+# Plot
+
+counties <- rjson::fromJSON(file='https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
+
+g <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showlakes = TRUE,
+  lakecolor = col2rgb('white')
+)
+
+
+dat_mig <- df_mig %>%
+  filter(id_A == "01001")
+
+fig <- plot_ly(width = "1200px", height = "1000px") %>% 
+  add_trace(
+    type = "choropleth",
+    geojson = counties,
+    locations = str_pad(dat_mig$id_B, 5, pad = "0"),
+    z = dat_mig$net_B_to_A,
+    colorscale = "RdBu",
+    zmin = -max(abs(dat_mig$net_B_to_A), na.rm = TRUE),
+    zmax = max(abs(dat_mig$net_B_to_A), na.rm = TRUE),
+    text = dat_mig$County_B,
+    marker = list(line = list(width = 0))) %>% 
+  colorbar(title = "Net Migration") %>% 
+  layout(geo = g)
+
+fig

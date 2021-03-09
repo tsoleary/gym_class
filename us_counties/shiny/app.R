@@ -3,29 +3,44 @@ library(plotly)
 library(rjson)
 library(tidyverse)
 
-df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/combined_data.tsv"), delim = "\t") %>%
+df <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/combined_data.tsv"), 
+                 delim = "\t") %>%
   mutate(pop_d = pop_est_2019/area)
 
-df_rank <- df %>% mutate(rank_education = min_rank(desc(education)),
-                         rank_life = min_rank(desc(life)),
-                         rank_unemployment = min_rank(unemployment),
-                         rank_sun = min_rank(desc(sun))) 
+df_mig <- read_delim(url("https://tsoleary.github.io/gym_class/us_counties/data/clean/county_to_county_migration.csv"), 
+                     delim = ",") %>%
+  mutate(id_A = str_pad(id_A, 5, pad = "0"),
+         id_B = str_pad(id_B, 5, pad = "0"))
+
+df_rank <- df %>% 
+  mutate(rank_education = min_rank(desc(education)),
+         rank_life = min_rank(desc(life)),
+         rank_unemployment = min_rank(unemployment),
+         rank_sun = min_rank(desc(sun))) 
 
 counties <- rjson::fromJSON(file='https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
 
-# Define UI for app that draws a histogram ----
+# Define UI for app that draws a map ----
 ui <- fluidPage(
   
   # App title ----
   titlePanel("Where in the US are you best suited to live?"),
   
-  # Output: Histogram ----
+  # Output: Ranked map ----
   fluidRow(
     column(12,
            # Output: Tabset w/ plot, summary, and table ----
            tabsetPanel(type = "tabs",
-                       tabPanel("Map", plotlyOutput(outputId = "distPlot")),
-                       tabPanel("Table", tableOutput("table"))
+                       tabPanel("Ranked Map", plotlyOutput(outputId = "rankMap")),
+                       tabPanel("Ranked Table", tableOutput("table")),
+                       tabPanel("Historical Migration", 
+                                plotlyOutput(outputId = "migMap"), 
+                                # Selectize input for choosing counties
+                                selectInput("county_mig_select", 
+                                            "County for Historical Migration data", 
+                                            c(Choose = "", unique(df_mig$County_A)), 
+                                            selectize = TRUE),
+                                )
            )
            
            
@@ -67,6 +82,7 @@ ui <- fluidPage(
                        max = 9,
                        value = c(1, 12)),
            
+           # Button to update the event reactive ranked map!
            actionButton("update", "Update Map!")
            
     ),
@@ -119,7 +135,7 @@ server <- function(input, output) {
                                   summarise(rank_avg = mean(w_rank)) %>%
                                   mutate(rank_me = min_rank(rank_avg)), ignoreNULL = FALSE)
   
-  # Show the first "n" observations ----
+  # Ranked table top 20 output -----
   output$table <- renderTable({
     dat <- datasetInput()
     dat <- full_join(df, dat)
@@ -132,7 +148,8 @@ server <- function(input, output) {
 
   })
   
-  output$distPlot <- renderPlotly({
+  # Ranked map output -----
+  output$rankMap <- renderPlotly({
     
     dat <- datasetInput()
     
@@ -158,12 +175,39 @@ server <- function(input, output) {
         marker = list(line = list(width = 0))) %>% 
       colorbar(title = "Rank") %>% 
       layout(legend = list(x = 0.1, y = 0.9)) %>%
-      # layout(autosize = F,
-      #        margin = list(l = 0, r = 0, b = 0, t = 0, pad = 0)) %>%
       layout(geo = g)
     
     fig
     
+  })
+  
+  output$migMap <- renderPlotly({
+    
+    dat_mig <- df_mig %>%
+      filter(County_A == input$county_mig_select)
+    
+    g <- list(
+      scope = 'usa',
+      projection = list(type = 'albers usa'),
+      showlakes = TRUE,
+      lakecolor = col2rgb('white')
+    )
+    
+    fig <- plot_ly(width = "1200px", height = "1000px") %>% 
+      add_trace(
+        type = "choropleth",
+        geojson = counties,
+        locations = str_pad(dat_mig$id_B, 5, pad = "0"),
+        z = dat_mig$net_B_to_A,
+        colorscale = "RdBu",
+        zmin = -max(abs(dat_mig$net_B_to_A), na.rm = TRUE),
+        zmax = max(abs(dat_mig$net_B_to_A), na.rm = TRUE),
+        text = dat_mig$County_B,
+        marker = list(line = list(width = 0))) %>% 
+      colorbar(title = "Net Migration") %>% 
+      layout(geo = g)
+    
+    fig
   })
   
 }
