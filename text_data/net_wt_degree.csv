@@ -1,0 +1,19 @@
+Id,Label,timeset,Weighted Degree,modularity_class,componentnumber,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality
+hep-ph,,,39.846911,0,0,1,1,1,0
+stat,,,33.090139,1,0,1,1,1,0
+nlin,,,44.369623,2,0,1,1,1,0
+astro-ph,,,18.443345,4,0,1,1,1,0
+hep-th,,,35.587824,3,0,1,1,1,0
+hep-ex,,,29.722782,4,0,1,1,1,0
+quant-ph,,,39.028341,2,0,1,1,1,0
+q-bio,,,28.748039,1,0,1,1,1,0
+cs,,,33.138778,1,0,1,1,1,0
+hep-lat,,,40.999858,3,0,1,1,1,0
+gr-qc,,,42.051426,3,0,1,1,1,0
+physics,,,40.423634,2,0,1,1,1,0
+cond-mat,,,35.799452,0,0,1,1,1,0
+nucl-th,,,36.983832,0,0,1,1,1,0
+nucl-ex,,,29.94471,4,0,1,1,1,0
+q-fin,,,38.498062,1,0,1,1,1,0
+math,,,30.237195,3,0,1,1,1,0
+math-ph,,,37.444803,3,0,1,1,1,0
