@@ -1,0 +1,516 @@
+Date,h,m,s,ms,Time,Wind,Auto,event,sex,Athlete,Nationality
+"August 10, 1983",00,00,47,99,00:00:47.99,NA,NA,400,w,Jarmila Kratochvílová,Czechoslovakia
+"May 10, 1957",00,00,55,20,00:00:55.20,NA,NA,400,w,Polina Lazareva,Soviet Union
+"September 12, 1959",00,00,53,40,00:00:53.40,NA,NA,400,w,Mariya Itkina,Soviet Union
+"September 14, 1962",00,00,53,40,00:00:53.40,NA,NA,400,w,Mariya Itkina,Soviet Union
+"February 16, 1957",00,00,57,00,00:00:57.00,NA,NA,400,w,Marise Chamberlain,New Zealand
+"September 18, 1969",00,00,51,70,00:00:51.70,NA,51.72,400,w,Nicole Duclos,France
+"September 18, 1969",00,00,51,70,00:00:51.70,NA,51.74,400,w,Colette Besson,France
+1847-04-05,00,32,35,00,00:32:35.00,NA,NA,10000,m,William Howitt (GBR),NA
+1882-03-25,00,32,09,00,00:32:09.00,NA,NA,10000,m,Walter George (GBR),NA
+1884-04-07,00,31,53,40,00:31:53.40,NA,NA,10000,m,Walter George (GBR),NA
+1884-07-28,00,31,40,00,00:31:40.00,NA,NA,10000,m,Walter George (GBR),NA
+1885-09-28,00,31,23,10,00:31:23.10,NA,NA,10000,m,William Cummings (GBR),NA
+1893-05-28,00,04,21,00,00:04:21.00,NA,NA,1500,m,Fernand Meiers (FRA),NA
+1894-07-22,00,04,19,80,00:04:19.80,NA,NA,1500,m,Felix Bourdier (FRA),NA
+1895-05-12,00,04,18,40,00:04:18.40,NA,NA,1500,m,Albin Lermusiaux (FRA),NA
+1895-05-26,00,04,16,80,00:04:16.80,NA,NA,1500,m,Michel Soalhat (FRA),NA
+1895-08-26,00,04,15,60,00:04:15.60,NA,NA,1500,m,Thomas Conneff (USA),NA
+1896-06-26,00,04,10,40,00:04:10.40,NA,NA,1500,m,Albin Lermusiaux (FRA),NA
+1897-10-31,00,16,34,60,00:16:34.60,NA,NA,5000,m,George Touquet-Daunis (FRA),NA
+1899-05-22,00,16,29,20,00:16:29.20,NA,NA,5000,m,George Touquet-Daunis (FRA),NA
+"August 19, 1978",00,00,49,03,00:00:49.03,NA,NA,400,w,Marita Koch,East Germany
+1900-05-30,00,04,09,00,00:04:09.00,NA,NA,1500,m,John Bray (USA),NA
+1900-07-15,00,04,06,20,00:04:06.20,NA,NA,1500,m,Charles Bennett (GBR),NA
+1900-07-22,00,15,29,80,00:15:29.80,NA,NA,5000,m,Charles Bennett (GBR),NA
+1904-06-13,00,14,59,00,00:14:59.00,NA,NA,5000,m,Alfred Shrubb (GBR),NA
+1904-09-03,00,04,05,40,00:04:05.40,NA,NA,1500,m,James Lightbody (USA),NA
+1904-11-05,00,31,02,40,00:31:02.40,NA,NA,10000,m,Alfred Shrubb (GBR),NA
+1908-05-30,00,03,59,80,00:03:59.80,NA,NA,1500,m,Harold Wilson (GBR),NA
+1912-05-26,00,03,59,20,00:03:59.20,NA,NA,1500,m,Abel Kiviat (USA),NA
+1912-06-01,00,03,56,80,00:03:56.80,NA,NA,1500,m,Abel Kiviat (USA),NA
+1912-06-08,00,03,55,80,00:03:55.80,NA,NA,1500,m,Abel Kiviat (USA),NA
+1912-07-10,00,14,36,60,00:14:36.60,NA,NA,5000,m,Hannes Kolehmainen (FIN),NA
+1917-08-05,00,03,54,70,00:03:54.70,NA,NA,1500,m,John Zander (SWE),NA
+1922-09-12,00,14,35,40,00:14:35.40,NA,NA,5000,m,Paavo Nurmi (FIN),NA
+1924-06-19,00,03,52,60,00:03:52.60,NA,NA,1500,m,Paavo Nurmi (FIN),NA
+1924-06-19,00,14,28,20,00:14:28.20,NA,NA,5000,m,Paavo Nurmi (FIN),NA
+1926-09-11,00,03,51,00,00:03:51.00,NA,NA,1500,m,Otto Peltzer (GER),NA
+1927-08-19,00,05,18,20,00:05:18.20,NA,NA,1500,w,Anna Mushkina (URS),NA
+1930-10-05,00,03,49,20,00:03:49.20,NA,NA,1500,m,Jules Ladoumegue (FRA),NA
+1932-06-19,00,14,17,00,00:14:17.00,NA,NA,5000,m,Lauri Lehtinen (FIN),NA
+1933-09-09,00,03,49,20,00:03:49.20,NA,NA,1500,m,Luigi Beccali (ITA),NA
+1933-09-17,00,03,49,00,00:03:49.00,NA,NA,1500,m,Luigi Beccali (ITA),NA
+1934-06-30,00,03,48,80,00:03:48.80,NA,NA,1500,m,Bill Bonthron (USA),NA
+1934-09-16,00,05,07,00,00:05:07.00,NA,NA,1500,w,Anna Mushkina (URS),NA
+1936-07-13,00,05,02,00,00:05:02.00,NA,NA,1500,w,Lydia Freiberg (URS),NA
+1936-07-30,00,04,47,20,00:04:47.20,NA,NA,1500,w,Yevdokiya Vasilyeva (URS),NA
+1936-08-06,00,03,47,80,00:03:47.80,NA,NA,1500,m,Jack Lovelock (NZL),NA
+1937-09-13,00,04,45,20,00:04:45.20,NA,NA,1500,w,Yevdokiya Vasilyeva (URS),NA
+1939-06-16,00,14,08,80,00:14:08.80,NA,NA,5000,m,Taisto Mäki (FIN),NA
+1940-06-10,00,04,41,80,00:04:41.80,NA,NA,1500,w,Anna Zaytseva-Bosenko (URS),NA
+1941-08-10,00,03,47,60,00:03:47.60,NA,NA,1500,m,Gunder Hägg (SWE),NA
+1942-07-17,00,03,45,80,00:03:45.80,NA,NA,1500,m,Gunder Hägg (SWE),NA
+1942-09-20,00,13,58,20,00:13:58.20,NA,NA,5000,m,Gunder Hägg (SWE),NA
+1943-08-17,00,03,45,00,00:03:45.00,NA,NA,1500,m,Arne Andersson (SWE),NA
+1944-07-07,00,03,43,00,00:03:43.00,NA,NA,1500,m,Gunder Hägg (SWE),NA
+1944-08-17,00,04,38,00,00:04:38.00,NA,NA,1500,w,Yevdokiya Vasilyeva (URS),NA
+1946-09-15,00,04,37,80,00:04:37.80,NA,NA,1500,w,Olga Ovsyannikova (URS),NA
+1947-07-15,00,03,43,00,00:03:43.00,NA,NA,1500,m,Lennart Strand (SWE),NA
+1952-06-29,00,03,43,00,00:03:43.00,NA,NA,1500,m,Werner Lueg (FRG),NA
+1952-08-30,00,04,37,00,00:04:37.00,NA,NA,1500,w,Nina Pletnyova (URS),NA
+1954-05-30,00,13,57,20,00:13:57.20,NA,NA,5000,m,Emil Zátopek (TCH),NA
+1954-06-04,00,03,42,80,00:03:42.80,NA,NA,1500,m,Wes Santee (USA),NA
+1954-06-21,00,03,41,80,00:03:41.80,NA,NA,1500,m,John Landy (AUS),NA
+1954-08-29,00,13,56,60,00:13:56.60,NA,NA,5000,m,Vladimir Kuts (URS),NA
+1954-10-13,00,13,51,60,00:13:51.60,NA,NA,5000,m,Chris Chataway (GBR),NA
+1954-10-23,00,13,51,20,00:13:51.20,NA,NA,5000,m,Vladimir Kuts (URS),NA
+1955-07-28,00,03,40,80,00:03:40.80,NA,NA,1500,m,Sándor Iharos (HUN),NA
+1955-09-06,00,03,40,80,00:03:40.80,NA,NA,1500,m,László Tábori (HUN),NA
+1955-09-06,00,03,40,80,00:03:40.80,NA,NA,1500,m,Gunnar Nielsen (DEN),NA
+1955-09-10,00,13,50,80,00:13:50.80,NA,NA,5000,m,Sandor Iharos (HUN),NA
+1955-09-18,00,13,46,80,00:13:46.80,NA,NA,5000,m,Vladimir Kuts (URS),NA
+1955-10-23,00,13,40,60,00:13:40.60,NA,NA,5000,m,Sandor Iharos (HUN),NA
+1956-05-17,00,04,35,40,00:04:35.40,NA,NA,1500,w,Phyllis Perkins (GBR),NA
+1956-06-19,00,13,36,80,00:13:36.80,NA,NA,5000,m,Gordon Pirie (GBR),NA
+1956-08-03,00,03,40,60,00:03:40.60,NA,NA,1500,m,István Rózsavölgyi (HUN),NA
+1957-05-16,00,04,30,00,00:04:30.00,NA,NA,1500,w,Diane Leather (GBR),NA
+1957-07-11,00,03,40,20,00:03:40.20,NA,NA,1500,m,Olavi Salsola (FIN),NA
+1957-07-11,00,03,40,20,00:03:40.20,NA,NA,1500,m,Olavi Salonen (FIN),NA
+1957-07-12,00,03,38,10,00:03:38.10,NA,NA,1500,m,Stanislav Jungwirth (TCH),NA
+1957-07-19,00,04,29,70,00:04:29.70,NA,NA,1500,w,Diane Leather (GBR),NA
+1957-10-13,00,13,35,00,00:13:35.00,NA,NA,5000,m,Vladimir Kuts (URS),NA
+1958-08-28,00,03,36,00,00:03:36.00,NA,NA,1500,m,Herb Elliott (AUS),NA
+1960-09-06,00,03,35,60,00:03:35.60,NA,NA,1500,m,Herb Elliott (AUS),NA
+1962-12-08,00,04,19,00,00:04:19.00,NA,NA,1500,w,Marise Chamberlain (NZL),NA
+1965-01-16,00,13,34,80,00:13:34.80,NA,NA,5000,m,Ron Clarke (AUS),NA
+1965-02-01,00,13,33,60,00:13:33.60,NA,NA,5000,m,Ron Clarke (AUS),NA
+1965-06-04,00,13,25,80,00:13:25.80,NA,NA,5000,m,Ron Clarke (AUS),NA
+1965-11-30,00,13,24,20,00:13:24.20,NA,NA,5000,m,Kipchoge Keino (KEN),NA
+1966-06-01,00,39,25,00,00:39:25.00,NA,NA,10000,w,Gertrud Schmidt (GER),NA
+1966-06-02,00,39,10,00,00:39:10.00,NA,NA,10000,w,Hannelore Middeke (GER),NA
+1966-07-05,00,13,16,60,00:13:16.60,NA,NA,5000,m,Ron Clarke (AUS),NA
+1967-03-26,00,38,06,40,00:38:06.40,NA,NA,10000,w,Ann O'Brien (IRL),NA
+1967-06-03,00,04,17,30,00:04:17.30,NA,NA,1500,w,Anne Smith (GBR),NA
+1967-07-08,00,03,33,10,00:03:33.10,NA,NA,1500,m,Jim Ryun (USA),NA
+1967-10-24,00,04,15,60,00:04:15.60,NA,NA,1500,w,Maria Gommers (NED),NA
+1969-05-11,00,16,17,40,00:16:17.40,NA,NA,5000,w,Paola Pigni (ITA),NA
+1969-07-02,00,04,12,40,00:04:12.40,NA,NA,1500,w,Paola Pigni (ITA),NA
+1969-09-02,00,15,53,60,00:15:53.60,NA,NA,5000,w,Paola Pigni (ITA),NA
+1969-09-20,00,04,10,70,00:04:10.70,NA,4:10.77,1500,w,Jaroslava Jehličková (CZE),NA
+1970-05-09,00,35,30,50,00:35:30.50,NA,NA,10000,w,Paola Pigni (ITA),NA
+1971-06-12,00,34,51,00,00:34:51.00,NA,NA,10000,w,Kathy Gibbons (USA),NA
+1971-08-15,00,04,09,60,00:04:09.60,NA,4:09.62,1500,w,Karin Burneleit (GDR),NA
+1972-07-18,00,04,06,90,00:04:06.90,NA,NA,1500,w,Ludmila Bragina (URS),NA
+1972-09-04,00,04,06,50,00:04:06.50,NA,4:06.47,1500,w,Ludmila Bragina (URS),NA
+1972-09-07,00,04,05,10,00:04:05.10,NA,4:05.07,1500,w,Ludmila Bragina (URS),NA
+1972-09-09,00,04,01,40,00:04:01.40,NA,4:01.38,1500,w,Ludmila Bragina (URS),NA
+1972-09-14,00,13,16,40,00:13:16.40,NA,NA,5000,m,Lasse Virén (FIN),NA
+1972-09-20,00,13,13,00,00:13:13.00,NA,NA,5000,m,Emiel Puttemans (BEL),NA
+1974-02-02,00,03,32,20,00:03:32.20,NA,3:32.16,1500,m,Filbert Bayi (TAN),NA
+1975-03-29,00,35,00,40,00:35:00.40,NA,NA,10000,w,Julie Brown (USA),NA
+1975-08-20,00,34,01,40,00:34:01.40,NA,NA,10000,w,Christa Vahlensieck (FRG),NA
+1976-06-28,00,03,56,00,00:03:56.00,NA,NA,1500,w,Tatyana Kazankina (URS),NA
+1977-03-16,00,15,41,40,00:15:41.40,NA,NA,5000,w,Natalia Mărășescu (ROM),NA
+1977-03-19,00,33,34,17,00:33:34.17,NA,NA,10000,w,Loa Olafsson (DEN),NA
+1977-06-09,00,33,15,09,00:33:15.09,NA,NA,10000,w,Peg Neppel (USA),NA
+1977-07-05,00,13,12,90,00:13:12.90,NA,NA,5000,m,Dick Quax (NZL),NA
+1977-07-11,00,15,37,00,00:15:37.00,NA,NA,5000,w,Janice Merrill (USA),NA
+1978-01-22,00,32,43,20,00:32:43.20,NA,NA,10000,w,Natalia Mărăşescu (ROM),NA
+1978-04-06,00,31,45,40,00:31:45.40,NA,NA,10000,w,Loa Olafsson (DEN),NA
+1978-04-08,00,13,08,40,00:13:08.40,NA,NA,5000,m,Henry Rono (KEN),NA
+1978-05-26,00,15,35,52,00:15:35.52,NA,NA,5000,w,Kathy Mills (USA),NA
+1979-05-19,00,15,33,80,00:15:33.80,NA,NA,5000,w,Janice Merrill (USA),NA
+1979-08-15,00,03,32,10,00:03:32.10,NA,3:32.03,1500,m,Sebastian Coe (GBR),NA
+1980-03-22,00,15,30,60,00:15:30.60,NA,NA,5000,w,Janice Merrill (USA),NA
+1980-07-06,00,03,55,00,00:03:55.00,NA,NA,1500,w,Tatyana Kazankina (URS),NA
+1980-07-15,00,03,32,10,00:03:32.10,NA,3:32.09,1500,m,Steve Ovett (GBR),NA
+1980-08-03,00,03,52,47,00:03:52.47,NA,NA,1500,w,Tatyana Kazankina (URS),NA
+1980-08-27,00,03,31,40,00:03:31.40,NA,3:31.36,1500,m,Steve Ovett (GBR),NA
+1981-07-11,00,15,28,43,00:15:28.43,NA,NA,5000,w,Ingrid Kristiansen (NOR),NA
+1981-08-07,00,32,30,80,00:32:30.80,NA,NA,10000,w,Olga Krentser (URS),NA
+1981-09-06,00,15,24,60,00:15:24.60,NA,NA,5000,w,Yelena Sipatova (URS),NA
+1981-09-13,00,13,06,20,00:13:06.20,NA,NA,5000,m,Henry Rono (KEN),NA
+1981-09-13,00,15,14,51,00:15:14.51,NA,NA,5000,w,Paula Fudge (GBR),NA
+1981-10-19,00,32,17,20,00:32:17.20,NA,NA,10000,w,Yelena Sipatova (URS),NA
+1982-03-17,00,15,13,22,00:15:13.22,NA,NA,5000,w,Anne Audain (NZL),NA
+1982-07-05,00,15,08,26,00:15:08.26,NA,NA,5000,w,Mary Decker-Slaney (USA),NA
+1982-07-07,00,13,00,41,00:13:00.41,NA,NA,5000,m,David Moorcroft (GBR),NA
+1982-07-16,00,31,35,30,00:31:35.30,NA,NA,10000,w,Mary Decker-Slaney (USA),NA
+1983-05-29,00,31,35,01,00:31:35.01,NA,NA,10000,w,Lyudmila Baranova (URS),NA
+1983-08-28,00,03,31,24,00:03:31.24,NA,NA,1500,m,Sydney Maree (USA),NA
+1983-09-04,00,03,30,77,00:03:30.77,NA,NA,1500,m,Steve Ovett (GBR),NA
+1983-09-07,00,31,27,58,00:31:27.58,NA,NA,10000,w,Raisa Sadreydinova (URS),NA
+1984-06-24,00,31,13,78,00:31:13.78,NA,NA,10000,w,Olga Bondarenko (URS),NA
+1984-06-28,00,14,58,89,00:14:58.89,NA,NA,5000,w,Ingrid Kristiansen (NOR),NA
+1985-07-16,00,03,29,67,00:03:29.67,NA,NA,1500,m,Steve Cram (GBR),NA
+1985-07-22,00,13,00,40,00:13:00.40,NA,NA,5000,m,Saïd Aouita (MAR),NA
+1985-07-27,00,30,59,42,00:30:59.42,NA,NA,10000,w,Ingrid Kristiansen (NOR),NA
+1985-08-23,00,03,29,46,00:03:29.46,NA,NA,1500,m,Saïd Aouita (MAR),NA
+1985-08-26,00,14,48,07,00:14:48.07,NA,NA,5000,w,Zola Budd (GBR),NA
+1986-07-05,00,30,13,74,00:30:13.74,NA,NA,10000,w,Ingrid Kristiansen (NOR),NA
+1986-08-05,00,14,37,33,00:14:37.33,NA,NA,5000,w,Ingrid Kristiansen (NOR),NA
+1987-07-27,00,12,58,39,00:12:58.39,NA,NA,5000,m,Saïd Aouita (MAR),NA
+1992-09-06,00,03,28,86,00:03:28.86,NA,NA,1500,m,Noureddine Morceli (ALG),NA
+1993-09-08,00,29,31,78,00:29:31.78,NA,NA,10000,w,Wang Junxia (CHN),NA
+1993-09-11,00,03,50,46,00:03:50.46,NA,NA,1500,w,Qu Yunxia (CHN),NA
+1994-06-04,00,12,56,96,00:12:56.96,NA,NA,5000,m,Haile Gebrselassie (ETH),NA
+1995-06-08,00,12,55,30,00:12:55.30,NA,NA,5000,m,Moses Kiptanui (KEN),NA
+1995-07-12,00,03,27,37,00:03:27.37,NA,NA,1500,m,Noureddine Morceli (ALG),NA
+1995-07-22,00,14,36,45,00:14:36.45,NA,NA,5000,w,Fernanda Ribeiro (POR),NA
+1995-08-16,00,12,44,39,00:12:44.39,NA,NA,5000,m,Haile Gebrselassie (ETH),NA
+1997-08-13,00,12,41,86,00:12:41.86,NA,NA,5000,m,Haile Gebrselassie (ETH),NA
+1997-08-22,00,12,39,74,00:12:39.74,NA,NA,5000,m,Daniel Komen (KEN),NA
+1997-10-21,00,14,31,27,00:14:31.27,NA,NA,5000,w,Dong Yanmei (CHN),NA
+1997-10-23,00,14,28,09,00:14:28.09,NA,NA,5000,w,Jiang Bo (CHN),NA
+1998-06-13,00,12,39,36,00:12:39.36,NA,NA,5000,m,Haile Gebrselassie (ETH),NA
+1998-07-14,00,03,26,00,00:03:26.00,NA,NA,1500,m,Hicham El Guerrouj (MAR),NA
+"July 2, 1978",00,00,49,19,00:00:49.19,NA,NA,400,w,Marita Koch,East Germany
+2004-05-31,00,12,37,35,00:12:37.35,NA,NA,5000,m,Kenenisa Bekele (ETH),NA
+2004-06-11,00,14,24,68,00:14:24.68,NA,NA,5000,w,Elvan Abeylegesse (TUR),NA
+2006-06-03,00,14,24,53,00:14:24.53,NA,NA,5000,w,Meseret Defar (ETH),NA
+2007-06-15,00,14,16,63,00:14:16.63,NA,NA,5000,w,Meseret Defar (ETH),NA
+2008-06-06,00,14,11,15,00:14:11.15,NA,NA,5000,w,Tirunesh Dibaba (ETH),NA
+2015-07-17,00,03,50,07,00:03:50.07,NA,NA,1500,w,Genzebe Dibaba (ETH),NA
+2016-08-12,00,29,17,45,00:29:17.45,NA,NA,10000,w,Almaz Ayana (ETH),NA
+2020-08-14,00,12,35,36,00:12:35.36,NA,NA,5000,m,Joshua Cheptegei (UGA),NA
+2020-10-07,00,14,06,62,00:14:06.62,NA,NA,5000,w,Letesenbet Gidey (ETH),NA
+"June 22, 1974",00,00,49,90,00:00:49.90,NA,NA,400,w,Irena Szewińska,Poland
+"June 22, 1976",00,00,49,75,00:00:49.75,NA,NA,400,w,Irena Szewińska,Poland
+"July 23, 1970",00,00,51,00,00:00:51.00,NA,51.02,400,w,Marilyn Neufville,Jamaica
+"October 23, 1962",00,00,51,90,00:00:51.90,NA,NA,400,w,Shin Geum-Dan,North Korea
+"February 24, 1957",00,00,56,30,00:00:56.30,NA,NA,400,w,Nancy Boyle,Australia
+"July 29, 1976",00,00,49,29,00:00:49.29,NA,NA,400,w,Irena Szewińska,Poland
+"July 29, 1979",00,00,48,89,00:00:48.89,NA,NA,400,w,Marita Koch,East Germany
+"August 31, 1978",00,00,48,94,00:00:48.94,NA,NA,400,w,Marita Koch,East Germany
+"August 4, 1979",00,00,48,60,00:00:48.60,NA,NA,400,w,Marita Koch,East Germany
+"July 4, 1972",00,00,51,00,00:00:51.00,NA,51.08,400,w,Monika Zehrt,East Germany
+"September 4, 1974",00,00,50,14,00:00:50.14,NA,NA,400,w,Riitta Salin,Finland
+"January 6, 1957",00,00,57,00,00:00:57.00,NA,NA,400,w,Marlene Mathews,Australia
+"July 6, 1957",00,00,53,60,00:00:53.60,NA,NA,400,w,Mariya Itkina,Soviet Union
+"October 6, 1985",00,00,47,60,00:00:47.60,NA,NA,400,w,Marita Koch,East Germany
+"June 6, 1957",00,00,54,00,00:00:54.00,NA,NA,400,w,Mariya Itkina,Soviet Union
+"September 8, 1982",00,00,48,16,00:00:48.16,NA,NA,400,w,Marita Koch,East Germany
+"May 9, 1976",00,00,49,77,00:00:49.77,NA,NA,400,w,Christina Brehmer,East Germany
+"April 10, 1935",00,00,11,90,00:00:11.90,NA,NA,100,w,Helen Stephens,United States
+"April 13, 1895",00,00,10,80,00:00:10.80,NA,NA,100,m,L. Atcherley,United Kingdom
+"April 13, 2003",02,15,25,00,02:15:25.00,NA,NA,marathon,w,Paula Radcliffe,United Kingdom
+"April 14, 2002",02,05,38,00,02:05:38.00,NA,NA,marathon,m,Khalid Khannouchi,United States
+"April 17, 1983",02,25,28,70,02:25:28.70,NA,NA,marathon,w,Grete Waitz,Norway
+"April 17, 1988",02,06,50,00,02:06:50.00,NA,NA,marathon,m,Belayneh Dinsamo,Ethiopia
+"April 17, 2005",02,17,42,00,02:17:42.00,NA,NA,marathon,w,Paula Radcliffe,Great Britain
+"April 18, 1959",00,00,10,10,00:00:10.10,1.3,NA,100,m,Ray Norton,United States
+"April 18, 1983",02,22,43,00,02:22:43.00,NA,NA,marathon,w,Joan Benoit,United States
+"April 19, 1947",02,25,39,00,02:25:39.00,NA,NA,marathon,m,Suh Yun-bok,Korea
+"April 19, 1998",02,20,47,00,02:20:47.00,NA,NA,marathon,w,Tegla Loroupe,Kenya
+"April 2, 1968",00,00,10,00,00:00:10.00,0.0,NA,100,m,Paul Nash,South Africa
+"April 20, 1985",02,07,12,00,02:07:12.00,NA,NA,marathon,m,Carlos Lopes,Portugal
+"April 21, 1968",00,00,11,10,00:00:11.10,NA,NA,100,w,Wyomia Tyus,United States
+"April 21, 1975",02,42,24,00,02:42:24.00,NA,NA,marathon,w,Liane Winter,West Germany
+"April 21, 1985",02,21,06,00,02:21:06.00,NA,NA,marathon,w,Ingrid Kristiansen,Norway
+"April 23, 1921",00,00,10,40,00:00:10.40,NA,NA,100,m,Charley Paddock,United States
+"April 23, 2017",02,17,01,00,02:17:01.00,NA,NA,marathon,w,Mary Jepkosgei Keitany,Kenya
+"April 26, 1980",02,09,01,00,02:09:01.00,NA,NA,marathon,m,Gerard Nijboer,Netherlands
+"April 3, 1935",02,26,44,00,02:26:44.00,NA,NA,marathon,m,Yasuo Ikenaka,Japan
+"April 3, 1976",00,00,09,90,00:00:09.90,0.7,NA,100,m,Harvey Glance,United States
+"August 1, 1931",00,00,12,00,00:00:12.00,NA,NA,100,w,Leni Junker,Germany
+"August 1, 1932",00,00,10,30,00:00:10.30,0.4,10.38,100,m,Eddie Tolan,United States
+"August 1, 1932",00,00,11,90,00:00:11.90,NA,NA,100,w,Stanisława Walasiewicz[2],Poland
+"August 1, 1937",00,00,11,60,00:00:11.60,NA,NA,100,w,Stanisława Walasiewicz[2],Poland
+"August 10, 1936",00,00,11,50,00:00:11.50,NA,NA,100,w,Helen Stephens,United States
+"August 11, 1934",00,00,11,90,00:00:11.90,NA,NA,100,w,Käthe Krauß,Germany
+"August 11, 1962",00,28,18,20,00:28:18.20,NA,NA,10000,m,Pyotr Bolotnikov (URS),NA
+"August 12, 1933",00,00,10,30,00:00:10.30,NA,NA,100,m,Ralph Metcalfe,United States
+"August 12, 1939",00,00,46,00,00:00:46.00,NA,NA,400,m,Rudolf Harbig,Germany
+"August 12, 1956",02,18,04,80,02:18:04.80,NA,NA,marathon,m,Paavo Kotila,Finland
+"August 13, 1911",00,00,10,50,00:00:10.50,NA,NA,100,m,Richard Rau,Germany
+"August 14, 2016",00,00,43,03,00:00:43.03,NA,NA,400,m,Wayde van Niekerk,South Africa
+"August 15, 1964",00,00,10,00,00:00:10.00,0.0,NA,100,m,Horacio Esteves,Venezuela
+"August 15, 1968",00,00,11,10,00:00:11.10,0.0,NA,100,w,Lyudmila Samotyosova,Soviet Union
+"August 16, 2008",00,00,09,69,00:00:09.69,0.0,9.683,100,m,Usain Bolt,Jamaica
+"August 16, 2009",00,00,09,58,00:00:09.58,0.9,9.572,100,m,Usain Bolt,Jamaica
+"August 17, 1988",00,00,09,93,00:00:09.93,1.1,NA,100,m,Carl Lewis,United States
+"August 17, 1988",00,00,43,29,00:00:43.29,NA,NA,400,m,Butch Reynolds,United States
+"August 18, 1968",00,00,11,10,00:00:11.10,NA,NA,100,w,Margaret Bailes,United States
+"August 18, 1989",00,27,08,23,00:27:08.23,NA,NA,10000,m,Arturo Barrios (MEX),NA
+"August 18, 2006",00,00,09,77,00:00:09.77,1.0,9.762,100,m,Asafa Powell,Jamaica
+"August 2, 1932",00,00,11,90,00:00:11.90,NA,NA,100,w,Hilda Strike,Canada
+"August 2, 1970",00,00,11,00,00:00:11.00,1.9,NA,100,w,Renate Meißner,East Germany
+"August 20, 1922",00,00,12,80,00:00:12.80,NA,NA,100,w,Mary Lines,United Kingdom
+"August 22, 1920",02,32,35,80,02:32:35.80,NA,NA,marathon,m,Hannes Kolehmainen,Finland
+"August 22, 1926",00,00,12,40,00:00:12.40,NA,NA,100,w,Gundel Wittmann,Germany
+"August 22, 1950",00,00,45,80,00:00:45.80,NA,NA,400,m,George Rhoden,Jamaica
+"August 22, 1975",00,00,09,90,00:00:09.90,−0.2,NA,100,m,Steve Williams,United States
+"August 22, 1984",00,00,10,76,00:00:10.76,1.7,NA,100,w,Evelyn Ashford,United States
+"August 22, 1997",00,26,27,85,00:26:27.85,NA,NA,10000,m,Paul Tergat (KEN),NA
+"August 23, 1996",00,26,38,08,00:26:38.08,NA,NA,10000,m,Salah Hissou (MAR),NA
+"August 24, 1958",02,15,17,00,02:15:17.00,NA,NA,marathon,m,Sergei Popov,Soviet Union
+"August 25, 1929",00,00,10,40,00:00:10.40,NA,NA,100,m,Eddie Tolan,United States
+"August 25, 1944",00,29,35,40,00:29:35.40,NA,NA,10000,m,Viljo Heino (FIN),NA
+"August 25, 1951",00,00,10,20,00:00:10.20,0.0,NA,100,m,McDonald Bailey,Great Britain
+"August 25, 1991",00,00,09,86,00:00:09.86,1.2 [a],NA,100,m,Carl Lewis,United States
+"August 26, 1906",00,00,10,60,00:00:10.60,NA,NA,100,m,Knut Lindberg,Sweden
+"August 26, 1934",00,00,10,30,00:00:10.30,NA,NA,100,m,Chris Berger,Netherlands
+"August 26, 1934",00,00,11,70,00:00:11.70,NA,NA,100,w,Stanisława Walasiewicz[2],Poland
+"August 26, 1999",00,00,43,18,00:00:43.18,NA,NA,400,m,Michael Johnson,United States
+"August 26, 2005",00,26,17,53,00:26:17.53,NA,NA,10000,m,Kenenisa Bekele (ETH),NA
+"August 28, 1895",00,00,10,80,00:00:10.80,NA,NA,100,m,Harry Beaton,United Kingdom
+"August 29, 1926",00,00,12,20,00:00:12.20,NA,NA,100,w,Leni Junker,Germany
+"August 3, 1956",00,00,10,10,00:00:10.10,0.7,NA,100,m,Willie Williams,United States
+"August 30, 1925",00,00,12,40,00:00:12.40,NA,NA,100,w,Leni Schmidt,Germany
+"August 30, 1987",00,00,09,83,00:00:09.83,1.0,NA,100,m,Ben Johnson,Canada
+"August 30, 1987",00,00,09,93,00:00:09.93,1.0,NA,100,m,Carl Lewis,United States
+"August 31, 1909",02,40,34,20,02:40:34.20,NA,NA,marathon,m,Thure Johansson,Sweden
+"August 31, 1924",00,30,06,20,00:30:06.20,NA,NA,10000,m,Paavo Nurmi (FIN),NA
+"August 31, 1930",00,00,12,00,00:00:12.00,NA,NA,100,w,Tollien Schuurman,Netherlands
+"August 4, 1893",00,00,10,80,00:00:10.80,NA,NA,100,m,Étienne De Ré,Belgium
+"August 4, 1950",00,29,02,60,00:29:02.60,NA,NA,10000,m,Emil Zátopek (CZE),NA
+"August 4, 1955",00,00,11,30,00:00:11.30,1.4,NA,100,w,Shirley Strickland,Australia
+"August 4, 1956",00,00,10,10,00:00:10.10,1.0,NA,100,m,Ira Murchison,United States
+"August 5, 1922",00,00,13,60,00:00:13.60,NA,NA,100,w,Marie Mejzlíková II,Czechoslovakia
+"August 5, 1932",00,00,46,20,00:00:46.20,NA,46.28,400,m,Bill Carr,United States
+"August 6, 1934",00,00,10,30,00:00:10.30,NA,NA,100,m,Eulace Peacock,United States
+"August 8, 1929",00,00,10,40,00:00:10.40,0.0,NA,100,m,Eddie Tolan,United States
+"August 9, 1896",00,00,10,80,00:00:10.80,NA,NA,100,m,Harald Anderson-Arbin,Sweden
+"August 9, 1903",00,00,10,80,00:00:10.80,NA,NA,100,m,Eric Frick,Sweden
+"August 9, 1930",00,00,10,30,00:00:10.30,NA,NA,100,m,Percy Williams,Canada
+"December 1, 1974",02,43,54,50,02:43:54.50,NA,NA,marathon,w,Jacqueline Hansen,United States
+"December 16, 1963",03,37,07,00,03:37:07.00,NA,NA,marathon,w,Merry Lepper,United States
+"December 18, 1963",00,28,15,60,00:28:15.60,NA,NA,10000,m,Ron Clarke (AUS),NA
+"December 2, 1973",02,46,36,00,02:46:36.00,NA,NA,marathon,w,Michiko Gorman,United States
+"December 3, 1967",02,09,36,40,02:09:36.40,NA,NA,marathon,m,Derek Clayton,Australia
+"December 5, 1971",02,49,40,00,02:49:40.00,NA,NA,marathon,w,Cheryl Bridges,United States
+"December 6, 1981",02,08,18,00,02:08:18.00,NA,NA,marathon,m,Robert De Castella,Australia
+"February 12, 1909",02,46,52,80,02:46:52.80,NA,NA,marathon,m,James Clark,United States
+"February 17, 1963",02,15,15,80,02:15:15.80,NA,NA,marathon,m,Toru Terasawa,Japan
+"February 28, 1970",03,02,53,00,03:02:53.00,NA,NA,marathon,w,Caroline Walker,United States
+"February 3, 1980",02,31,23,00,02:31:23.00,NA,NA,marathon,w,Joan Benoit,United States
+"February 5, 1978",02,09,05,60,02:09:05.60,NA,NA,marathon,m,Shigeru So,Japan
+"January 1, 1909",02,52,45,40,02:52:45.40,NA,NA,marathon,m,Robert Fowler,United States
+"January 16, 1982",02,29,01,60,02:29:01.60,NA,NA,marathon,w,Charlotte Teske,West Germany
+"January 31, 1974",02,09,12,00,02:09:12.00,NA,NA,marathon,m,Ian Thompson,United Kingdom
+"July 1, 1972",00,00,09,90,00:00:09.90,0.0,NA,100,m,Eddie Hart,United States
+"July 1, 1972",00,00,09,90,00:00:09.90,0.0,NA,100,m,Rey Robinson,United States
+"July 1, 1972",00,00,11,00,00:00:11.00,1.4,NA,100,w,Eva Glesková,Czechoslovakia
+"July 1, 1977",00,00,10,88,00:00:10.88,2.0,NA,100,w,Marlies Oelsner,East Germany
+"July 10, 1993",00,26,58,38,00:26:58.38,NA,NA,10000,m,Yobes Ondieki (KEN),NA
+"July 11, 1924",00,00,47,60,00:00:47.60,NA,NA,400,m,Eric Liddell,United Kingdom
+"July 13, 1912",00,00,48,20,00:00:48.20,NA,NA,400,m,Charles Reidpath,United States
+"July 13, 1973",00,27,30,80,00:27:30.80,NA,27:30.80,10000,m,David Bedford (GBR),NA
+"July 14, 1900",00,00,10,80,00:00:10.80,NA,NA,100,m,Frank Jarvis,United States
+"July 14, 1900",00,00,10,80,00:00:10.80,NA,NA,100,m,Walter Tewksbury,United States
+"July 14, 1965",00,27,39,40,00:27:39.40,NA,27:39.89,10000,m,Ron Clarke (AUS),NA
+"July 15, 1956",00,28,42,80,00:28:42.80,NA,NA,10000,m,Sandor Iharos (HUN),NA
+"July 15, 1960",00,00,10,00,00:00:10.00,1.8,NA,100,m,Harry Jerome,Canada
+"July 16, 1975",00,00,09,90,00:00:09.90,0.0,NA,100,m,Steve Williams,United States
+"July 16, 1988",00,00,10,49,00:00:10.49,0.0*,NA,100,w,Florence Griffith-Joyner,United States
+"July 17, 1988",00,00,10,70,00:00:10.70,1.6,NA,100,w,Florence Griffith-Joyner,United States
+"July 17, 1988",00,00,10,61,00:00:10.61,1.2,NA,100,w,Florence Griffith-Joyner,United States
+"July 18, 1937",00,30,05,60,00:30:05.60,NA,NA,10000,m,Ilmari Salminen (FIN),NA
+"July 18, 1970",00,00,11,00,00:00:11.00,1.9,11.22,100,w,Chi Cheng,Republic of China (Taiwan)
+"July 19, 1961",00,00,11,20,00:00:11.20,0.7,NA,100,w,Wilma Rudolph,United States
+"July 2, 1928",00,00,12,00,00:00:12.00,NA,NA,100,w,Myrtle Cook,Canada
+"July 2, 1948",00,00,45,90,00:00:45.90,NA,46.00,400,m,Herb McKenley,Jamaica
+"July 2, 1967",00,00,11,10,00:00:11.10,0.3,NA,100,w,Barbara Ferrell,United States
+"July 2, 1984",00,27,13,81,00:27:13.81,NA,NA,10000,m,Fernando Mamede (POR),NA
+"July 20, 1973",00,00,10,80,00:00:10.80,1.8,11.07,100,w,Renate Stecher (née Meißner),East Germany
+"July 21, 1964",03,19,33,00,03:19:33.00,NA,NA,marathon,w,Mildred Sampson,New Zealand
+"July 22, 1952",00,00,11,50,00:00:11.50,1.7,11.65,100,w,Marjorie Jackson,Australia
+"July 22, 1994",00,26,52,23,00:26:52.23,NA,NA,10000,m,William Sigei (KEN),NA
+"July 23, 1970",02,09,28,80,02:09:28.80,NA,NA,marathon,m,Ron Hill,United Kingdom
+"July 24, 1908",02,55,18,40,02:55:18.40,NA,NA,marathon,m,Johnny Hayes,United States
+"July 25, 1976",00,00,11,01,00:00:11.01,0.6,NA,100,w,Annegret Richter,West Germany
+"July 27, 1996",00,00,09,84,00:00:09.84,0.7,9.835,100,m,Donovan Bailey,Canada
+"July 3, 1927",00,00,12,10,00:00:12.10,NA,NA,100,w,Gertrud Gladitsch,Germany
+"July 3, 1983",00,00,09,93,00:00:09.93,1.4,NA,100,m,Calvin Smith,United States
+"July 3, 1983",00,00,10,79,00:00:10.79,0.6,NA,100,w,Evelyn Ashford,United States
+"July 31, 1965",00,00,11,10,00:00:11.10,0.2,NA,100,w,Wyomia Tyus,United States
+"July 31, 1971",00,00,11,00,00:00:11.00,1.7,NA,100,w,Renate Stecher (née Meißner),East Germany
+"July 4, 1891",00,00,10,80,00:00:10.80,NA,NA,100,m,Luther Cary,United States
+"July 4, 1997",00,26,31,32,00:26:31.32,NA,NA,10000,m,Haile Gebrselassie (ETH),NA
+"July 5, 1903",00,00,10,80,00:00:10.80,NA,NA,100,m,Harald Grønfeldt,Denmark
+"July 5, 1929",02,30,57,60,02:30:57.60,NA,NA,marathon,m,Harry Payne,United Kingdom
+"July 5, 1993",00,27,07,91,00:27:07.91,NA,NA,10000,m,Richard Chelimo (KEN),NA
+"July 6, 1912",00,00,10,60,00:00:10.60,NA,NA,100,m,Donald Lippincott,United States
+"July 6, 1924",00,30,23,20,00:30:23.20,NA,NA,10000,m,Ville Ritola (FIN),NA
+"July 6, 1963",02,14,43,00,02:14:43.00,NA,NA,marathon,m,Brian Kilby,United Kingdom
+"July 6, 1994",00,00,09,85,00:00:09.85,1.2,NA,100,m,Leroy Burrell,United States
+"July 9, 1911",00,00,10,50,00:00:10.50,NA,NA,100,m,Emil Ketterer,Germany
+"July 9, 1948",00,00,10,20,00:00:10.20,NA,10.35,100,m,Barney Ewell,United States
+"July 9, 1965",00,00,11,10,00:00:11.10,2.0,NA,100,w,Irena Kirszenstein,Poland
+"July 9, 1965",00,00,11,10,00:00:11.10,2.0,NA,100,w,Ewa Klobukowska,Poland
+"July 9, 1982",00,00,10,88,00:00:10.88,1.9,NA,100,w,Marlies Göhr,East Germany
+"June 1, 1935",00,00,11,80,00:00:11.80,NA,NA,100,w,Helen Stephens,United States
+"June 1, 1954",00,28,54,20,00:28:54.20,NA,NA,10000,m,Emil Zátopek (CZE),NA
+"June 1, 1956",00,00,10,20,00:00:10.20,−1.0,NA,100,m,Ira Murchison,United States
+"June 1, 1998",00,26,22,75,00:26:22.75,NA,NA,10000,m,Haile Gebrselassie (ETH),NA
+"June 11, 1949",00,29,28,20,00:29:28.20,NA,NA,10000,m,Emil Zátopek (CZE),NA
+"June 11, 1978",00,27,22,40,00:27:22.40,NA,27:22.47,10000,m,Henry Rono (KEN),NA
+"June 11, 2006",00,00,09,77,00:00:09.77,1.5,9.763,100,m,Asafa Powell,Jamaica
+"June 12, 1965",02,12,00,00,02:12:00.00,NA,NA,marathon,m,Morio Shigematsu,Japan
+"June 13, 1948",00,00,11,50,00:00:11.50,NA,NA,100,w,Fanny Blankers-Koen,Netherlands
+"June 13, 1953",02,18,40,40,02:18:40.40,NA,NA,marathon,m,Jim Peters,United Kingdom
+"June 13, 1964",02,13,55,00,02:13:55.00,NA,NA,marathon,m,Basil Heatley,United Kingdom
+"June 13, 1976",00,00,11,04,00:00:11.04,0.6,NA,100,w,Inge Helten,West Germany
+"June 14, 1903",00,00,10,80,00:00:10.80,NA,NA,100,m,André Passat,France
+"June 14, 1903",00,00,10,80,00:00:10.80,NA,NA,100,m,Louis Kuhn,Switzerland
+"June 14, 1952",02,20,42,20,02:20:42.20,NA,NA,marathon,m,Jim Peters,United Kingdom
+"June 14, 1991",00,00,09,90,00:00:09.90,1.9,NA,100,m,Leroy Burrell,United States
+"June 14, 2005",00,00,09,77,00:00:09.77,1.6,9.768,100,m,Asafa Powell,Jamaica
+"June 15, 1935",00,00,10,30,00:00:10.30,2.5,NA,100,m,Takayoshi Yoshioka,Japan
+"June 15, 1963",02,14,28,00,02:14:28.00,NA,NA,marathon,m,Leonard Edelen,United States
+"June 15, 1972",00,00,11,00,00:00:11.00,1.9,NA,100,w,Ellen Strophal,East Germany
+"June 16, 1999",00,00,09,79,00:00:09.79,0.1,NA,100,m,Maurice Greene,United States
+"June 17, 1967",00,00,10,00,00:00:10.00,1.8,NA,100,m,Enrique Figuerola,Cuba
+"June 19, 1936",00,00,46,10,00:00:46.10,NA,NA,400,m,Archie Williams,United States
+"June 2, 1928",00,00,12,00,00:00:12.00,NA,NA,100,w,Betty Robinson,United States
+"June 20, 1936",00,00,10,20,00:00:10.20,1.2,NA,100,m,Jesse Owens,United States
+"June 20, 1968",00,00,10,03,00:00:10.03,0.8,NA,100,m,Jim Hines,United States
+"June 20, 1968",00,00,10,00,00:00:10.00,2.0,10.20,100,m,Charles Greene,United States
+"June 20, 1968",00,00,10,00,00:00:10.00,2.0,10.28,100,m,Roger Bambuck,France
+"June 20, 1968",00,00,09,90,00:00:09.90,0.8,10.03,100,m,Jim Hines,United States
+"June 20, 1968",00,00,09,90,00:00:09.90,0.8,10.14,100,m,Ronnie Ray Smith,United States
+"June 20, 1968",00,00,09,90,00:00:09.90,0.9,10.10,100,m,Charles Greene,United States
+"June 21, 1960",00,00,10,00,00:00:10.00,0.9,10.25,100,m,Armin Hary,West Germany
+"June 21, 1974",00,00,09,90,00:00:09.90,1.3,NA,100,m,Steve Williams,United States
+"June 22, 1921",00,30,40,20,00:30:40.20,NA,NA,10000,m,Paavo Nurmi (FIN),NA
+"June 22, 1956",00,00,10,20,00:00:10.20,0.0,NA,100,m,Bobby Morrow,United States
+"June 26, 1954",02,17,39,40,02:17:39.40,NA,NA,marathon,m,Jim Peters,United Kingdom
+"June 29, 1956",00,00,10,20,00:00:10.20,−1.3,NA,100,m,Ira Murchison,United States
+"June 29, 1956",00,00,10,20,00:00:10.20,−0.4,NA,100,m,Bobby Morrow,United States
+"June 3, 1972",00,00,11,00,00:00:11.00,−1.5,NA,100,w,Renate Stecher (née Meißner),East Germany
+"June 30, 1956",00,00,45,20,00:00:45.20,NA,NA,400,m,Lou Jones,United States
+"June 30, 1973",00,00,10,90,00:00:10.90,NA,NA,100,w,Renate Stecher (née Meißner),East Germany
+"June 30, 1977",00,27,30,50,00:27:30.50,NA,27:30.47,10000,m,Samson Kimobwa (KEN),NA
+"June 5, 1932",00,00,11,90,00:00:11.90,NA,NA,100,w,Tollien Schuurman,Netherlands
+"June 5, 1948",00,00,46,00,00:00:46.00,NA,NA,400,m,Herb McKenley,Jamaica
+"June 5, 1975",00,00,09,90,00:00:09.90,1.7,NA,100,m,Silvio Leonard,Cuba
+"June 5, 1995",00,26,43,53,00:26:43.53,NA,NA,10000,m,Haile Gebrselassie (ETH),NA
+"June 6, 1941",00,00,10,20,00:00:10.20,−0.9,NA,100,m,Harold Davis,United States
+"June 6, 1941",00,00,46,00,00:00:46.00,NA,NA,400,m,Grover Klemmer,United States
+"June 7, 1973",00,00,10,90,00:00:10.90,1.9,NA,100,w,Renate Stecher (née Meißner),East Germany
+"June 8, 1935",00,00,11,60,00:00:11.60,NA,NA,100,w,Helen Stephens,United States
+"June 8, 1983",00,00,10,81,00:00:10.81,1.7,NA,100,w,Marlies Göhr,East Germany
+"June 8, 2004",00,26,20,31,00:26:20.31,NA,NA,10000,m,Kenenisa Bekele (ETH),NA
+"March 18, 1955",00,00,45,40,00:00:45.40,NA,45.68,400,m,Lou Jones,United States
+"March 21, 1935",02,26,14,00,02:26:14.00,NA,NA,marathon,m,Sohn Kee-chung,Japanese Korea
+"March 26, 1932",00,00,46,40,00:00:46.40,NA,NA,400,m,Ben Eastman,United States
+"March 27, 1976",00,00,09,90,00:00:09.90,0.7,NA,100,m,Steve Williams,United States
+"March 29, 1981",02,29,57,00,02:29:57.00,NA,NA,marathon,w,Joyce Smith,United Kingdom
+"March 31, 1935",02,27,49,00,02:27:49.00,NA,NA,marathon,m,Fusashige Suzuki,Japan
+"May 1, 1976",00,00,09,90,00:00:09.90,NA,NA,100,m,Harvey Glance,United States
+"May 1, 1977",02,35,15,40,02:35:15.40,NA,NA,marathon,w,Chantal Langlacé,France
+"May 12, 1912",00,00,10,50,00:00:10.50,NA,NA,100,m,Richard Rau,Germany
+"May 12, 1913",02,38,16,20,02:38:16.20,NA,NA,marathon,m,Harry Green,United Kingdom
+"May 12, 1928",00,00,47,00,00:00:47.00,NA,NA,400,m,Emerson Spencer,United States
+"May 12, 2006",00,00,09,77,00:00:09.77,1.7,9.766,100,m,Justin Gatlin,United States
+"May 13, 1923",00,00,12,80,00:00:12.80,NA,NA,100,w,Marie Mejzlíková,Czechoslovakia
+"May 13, 1984",02,24,26,00,02:24:26.00,NA,NA,marathon,w,Ingrid Kristiansen,Norway
+"May 15, 1948",00,00,10,20,00:00:10.20,0.7,NA,100,m,Lloyd LaBeach,Panama
+"May 19, 1956",00,00,10,20,00:00:10.20,0.9,NA,100,m,Bobby Morrow,United States
+"May 20, 1928",00,00,12,20,00:00:12.20,NA,NA,100,w,Kinue Hitomi,Japan
+"May 20, 1967",00,00,44,50,00:00:44.50,NA,NA,400,m,Tommie Smith,United States
+"May 21, 1923",00,00,12,70,00:00:12.70,NA,NA,100,w,Emmi Haux,Germany
+"May 22, 1976",00,00,09,90,00:00:09.90,1.7,NA,100,m,Don Quarrie,Jamaica
+"May 23, 1964",03,27,45,00,03:27:45.00,NA,NA,marathon,w,Dale Greig,United Kingdom
+"May 25, 1924",00,30,35,40,00:30:35.40,NA,NA,10000,m,Ville Ritola (FIN),NA
+"May 25, 1963",00,00,44,90,00:00:44.90,NA,NA,400,m,Adolph Plummer,United States
+"May 26, 1909",02,42,31,00,02:42:31.00,NA,NA,marathon,m,Henry Barrett,United Kingdom
+"May 26, 1912",00,00,10,50,00:00:10.50,NA,NA,100,m,Erwin Kern,Germany
+"May 27, 1916",00,00,47,40,00:00:47.40,NA,NA,400,m,Ted Meredith,United States
+"May 27, 1967",00,00,10,00,00:00:10.00,2.0,10.17,100,m,Jim Hines,United States
+"May 3, 1975",02,40,15,80,02:40:15.80,NA,NA,marathon,w,Christa Vahlensieck,West Germany
+"May 30, 1969",02,08,33,60,02:08:33.60,NA,NA,marathon,m,Derek Clayton,Australia
+"May 31, 1913",02,36,06,60,02:36:06.60,NA,NA,marathon,m,Alexis Ahlgren,Sweden
+"May 31, 1968",00,00,10,00,00:00:10.00,1.1,NA,100,m,Oliver Ford,United States
+"May 31, 2008",00,00,09,72,00:00:09.72,1.7,NA,100,m,Usain Bolt,Jamaica
+"May 6, 1939",00,00,11,50,00:00:11.50,NA,NA,100,w,Lulu Mae Hymes,United States
+"May 6, 1939",00,00,11,50,00:00:11.50,NA,NA,100,w,Rowena Harrison,United States
+"May 6, 1967",03,14,23,00,03:14:23.00,NA,NA,marathon,w,Maureen Wilton,Canada
+"May 8, 1909",02,46,04,60,02:46:04.60,NA,NA,marathon,m,Albert Raines,United States
+"May 9, 1971",03,01,42,00,03:01:42.00,NA,NA,marathon,w,Elizabeth Bonner,United States
+"November 1, 1953",00,29,01,60,00:29:01.60,NA,NA,10000,m,Emil Zátopek (CZE),NA
+"November 16, 1911",00,30,58,80,00:30:58.80,NA,NA,10000,m,Jean Bouin (FRA),NA
+"November 16, 1980",02,30,27,00,02:30:27.00,NA,NA,marathon,w,Joyce Smith,United Kingdom
+"November 29, 1914",02,38,00,80,02:38:00.80,NA,NA,marathon,m,Umberto Blasi,Italy
+"November 3, 1935",02,26,42,00,02:26:42.00,NA,NA,marathon,m,Sohn Kee-chung,Japanese Korea
+"October 12, 1925",02,29,01,80,02:29:01.80,NA,NA,marathon,m,Albert Michelsen,United States
+"October 12, 1975",02,38,19,00,02:38:19.00,NA,NA,marathon,w,Jacqueline Hansen,United States
+"October 13, 1968",00,00,10,02,00:00:10.02,2.0,NA,100,m,Charles Greene,United States
+"October 13, 2002",02,17,18,00,02:17:18.00,NA,NA,marathon,w,Paula Radcliffe,United Kingdom
+"October 13, 2019",02,14,04,00,02:14:04.00,NA,NA,marathon,w,Brigid Kosgei,Kenya
+"October 14, 1968",00,00,09,95,00:00:09.95,0.3,NA,100,m,Jim Hines,United States
+"October 14, 1968",00,00,09,90,00:00:09.90,0.3,9.95,100,m,Jim Hines,United States
+"October 14, 1968",00,00,11,10,00:00:11.10,NA,NA,100,w,Barbara Ferrell,United States
+"October 14, 1968",00,00,11,10,00:00:11.10,1.8,11.20,100,w,Irena Szewińska,Poland
+"October 15, 1960",00,28,18,80,00:28:18.80,NA,NA,10000,m,Pyotr Bolotnikov (URS),NA
+"October 15, 1964",00,00,10,06,00:00:10.06,1.3,NA,100,m,Bob Hayes,United States
+"October 15, 1964",00,00,10,00,00:00:10.00,1.3,10.06,100,m,Bob Hayes,United States
+"October 15, 1964",00,00,11,20,00:00:11.20,0.2,11.23,100,w,Wyomia Tyus,United States
+"October 15, 1968",00,00,11,07,00:00:11.07,1.2,NA,100,w,Wyomia Tyus,United States
+"October 15, 1968",00,00,11,00,00:00:11.00,1.2,11.08(adjusted),100,w,Wyomia Tyus,United States
+"October 18, 1968",00,00,43,86,00:00:43.86,NA,NA,400,m,Lee Evans,United States
+"October 18, 1968",00,00,43,80,00:00:43.80,NA,43.86,400,m,Lee Evans,United States
+"October 20, 1956",00,00,10,10,00:00:10.10,1.5,NA,100,m,Leamon King,United States
+"October 21, 1964",02,12,11,20,02:12:11.20,NA,NA,marathon,m,Abebe Bikila,Ethiopia
+"October 21, 1979",02,27,32,60,02:27:32.60,NA,NA,marathon,w,Grete Waitz,Norway
+"October 21, 1984",02,08,05,00,02:08:05.00,NA,NA,marathon,m,Steve Jones,United Kingdom
+"October 22, 1949",00,29,21,20,00:29:21.20,NA,NA,10000,m,Emil Zátopek (CZE),NA
+"October 22, 1978",02,32,29,80,02:32:29.80,NA,NA,marathon,w,Grete Waitz,Norway
+"October 24, 1999",02,05,42,00,02:05:42.00,NA,NA,marathon,m,Khalid Khannouchi,Morocco
+"October 25, 1981",02,25,28,00,02:25:28.00,NA,NA,marathon,w,Allison Roe,New Zealand
+"October 26, 1980",02,25,41,30,02:25:41.30,NA,NA,marathon,w,Grete Waitz,Norway
+"October 27, 1956",00,00,10,10,00:00:10.10,0.9,NA,100,m,Leamon King,United States
+"October 27, 1974",02,46,24,00,02:46:24.00,NA,NA,marathon,w,Chantal Langlacé,France
+"October 3, 1926",03,40,22,00,03:40:22.00,NA,NA,marathon,w,Violet Piercy,United Kingdom
+"October 31, 1954",00,00,10,20,00:00:10.20,1.1,NA,100,m,Heinz Fütterer,West Germany
+"October 4, 1952",00,00,11,40,00:00:11.40,1.7,NA,100,w,Marjorie Jackson,Australia
+"October 4, 1953",02,18,34,80,02:18:34.80,NA,NA,marathon,m,Jim Peters,United Kingdom
+"October 6, 1900",00,00,10,80,00:00:10.80,NA,NA,100,m,Walter Tewksbury,United States
+"October 7, 2001",02,18,47,00,02:18:47.00,NA,NA,marathon,w,Catherine Ndereba,Kenya
+"October 7, 2020",00,26,11,00,00:26:11.00,NA,NA,10000,m,Joshua Cheptegei (UGA),NA
+"September 1, 1949",00,29,27,20,00:29:27.20,NA,NA,10000,m,Viljo Heino (FIN),NA
+"September 10, 1899",00,00,10,80,00:00:10.80,NA,NA,100,m,Isaac Westergren,Sweden
+"September 10, 1960",02,15,16,20,02:15:16.20,NA,NA,marathon,m,Abebe Bikila,Ethiopia
+"September 10, 1977",02,34,47,50,02:34:47.50,NA,NA,marathon,w,Christa Vahlensieck,West Germany
+"September 11, 1898",00,00,10,80,00:00:10.80,NA,NA,100,m,Isaac Westergren,Sweden
+"September 11, 1956",00,28,30,40,00:28:30.40,NA,NA,10000,m,Vladimir Kuts (URS),NA
+"September 12, 1964",00,00,44,90,00:00:44.90,NA,NA,400,m,Mike Larrabee,United States
+"September 12, 1982",02,26,12,00,02:26:12.00,NA,NA,marathon,w,Joan Benoit,United States
+"September 13, 1925",00,00,12,20,00:00:12.20,NA,NA,100,w,Leni Junker,Germany
+"September 13, 1958",00,00,11,30,00:00:11.30,1.4,NA,100,w,Vera Krepkina,Soviet Union
+"September 14, 1968",00,00,44,10,00:00:44.10,NA,44.19,400,m,Larry James,United States
+"September 14, 2002",00,00,09,78,00:00:09.78,2.0,NA,100,m,Tim Montgomery,United States
+"September 15, 1934",00,00,10,30,00:00:10.30,NA,NA,100,m,Ralph Metcalfe,United States
+"September 16, 1920",00,00,10,60,00:00:10.60,NA,NA,100,m,Jackson Scholz,United States
+"September 16, 1967",03,07,27,20,03:07:27.20,NA,NA,marathon,w,Anni Pede-Erdkamp,West Germany
+"September 16, 2018",02,01,39,00,02:01:39.00,NA,NA,marathon,m,Eliud Kipchoge,Kenya
+"September 17, 1933",00,00,11,80,00:00:11.80,NA,NA,100,w,Stanisława Walasiewicz[2],Poland
+"September 17, 1939",00,29,52,60,00:29:52.60,NA,NA,10000,m,Taisto Mäki (FIN),NA
+"September 19, 1971",02,55,22,00,02:55:22.00,NA,NA,marathon,w,Elizabeth Bonner,United States
+"September 2, 1960",00,00,11,30,00:00:11.30,0.8,11.41,100,w,Wilma Rudolph,United States
+"September 2, 1972",00,00,11,07,00:00:11.07,0.2,NA,100,w,Renate Stecher (née Meißner),East Germany
+"September 20, 1998",02,06,05,00,02:06:05.00,NA,NA,marathon,m,Ronaldo da Costa,Brazil
+"September 23, 1900",00,00,10,80,00:00:10.80,NA,NA,100,m,Carl Ljung,Sweden
+"September 23, 1934",00,00,10,30,00:00:10.30,2.0,NA,100,m,Ralph Metcalfe,United States
+"September 24, 1988",00,00,09,79,00:00:09.79,1.1,NA,100,m,Ben Johnson,Canada
+"September 24, 1988",00,00,09,92,00:00:09.92,1.1,NA,100,m,Carl Lewis,United States
+"September 25, 1892",00,00,10,80,00:00:10.80,NA,NA,100,m,Cecil Lee,United Kingdom
+"September 25, 2011",02,03,38,00,02:03:38.00,NA,NA,marathon,m,Patrick Makau,Kenya
+"September 26, 1936",00,00,10,30,00:00:10.30,0.5,NA,100,m,Lennart Strandberg,Sweden
+"September 26, 1999",02,20,43,00,02:20:43.00,NA,NA,marathon,w,Tegla Loroupe,Kenya
+"September 28, 2003",02,04,55,00,02:04:55.00,NA,NA,marathon,m,Paul Tergat,Kenya
+"September 28, 2008",02,03,59,00,02:03:59.00,NA,NA,marathon,m,Haile Gebrselassie,Ethiopia
+"September 28, 2014",02,02,57,00,02:02:57.00,NA,NA,marathon,m,Dennis Kimetto,Kenya
+"September 29, 1900",00,00,47,80,00:00:47.80,NA,NA,400,m,Maxie Long,United States
+"September 29, 1918",05,40,30,00,05:40:30.00,NA,NA,marathon,w,Marie-Louise Ledru,France
+"September 29, 1938",00,30,02,00,00:30:02.00,NA,NA,10000,m,Taisto Mäki (FIN),NA
+"September 29, 2013",02,03,23,00,02:03:23.00,NA,NA,marathon,m,Wilson Kipsang,Kenya
+"September 3, 1972",00,27,38,40,00:27:38.40,NA,27:38.35,10000,m,Lasse Virén (FIN),NA
+"September 30, 2001",02,19,46,00,02:19:46.00,NA,NA,marathon,w,Naoko Takahashi,Japan
+"September 30, 2007",02,04,26,00,02:04:26.00,NA,NA,marathon,m,Haile Gebrselassie,Ethiopia
+"September 5, 1943",00,00,11,50,00:00:11.50,NA,NA,100,w,Fanny Blankers-Koen,Netherlands
+"September 6, 1960",00,00,44,90,00:00:44.90,NA,45.07,400,m,Otis Davis,United States
+"September 6, 1960",00,00,44,90,00:00:44.90,NA,45.08,400,m,Carl Kaufmann,Germany
+"September 6, 1980",02,30,57,10,02:30:57.10,NA,NA,marathon,w,Patti Catalano,United States
+"September 9, 2007",00,00,09,74,00:00:09.74,1.7,9.735,100,m,Asafa Powell,Jamaica
