@@ -36,8 +36,8 @@ ui <- fluidPage(
                        tabPanel("Historical Migration", 
                                 plotlyOutput(outputId = "migMap"), 
                                 # Selectize input for choosing counties
-                                selectInput("county_mig_select", 
-                                            "County for Historical Migration data", 
+                                selectInput(inputId = "county_mig_select", 
+                                            label = "County for Historical Migration data", 
                                             c(Choose = "", unique(df_mig$County_A)), 
                                             selectize = TRUE),
                                 )
